@@ -1,4 +1,4 @@
-# 05-499/899 Course Website
+# Intro to Accessibility and Assistive Technology Course Website
 ## Quick Start
 
 To run the built-in development server:
