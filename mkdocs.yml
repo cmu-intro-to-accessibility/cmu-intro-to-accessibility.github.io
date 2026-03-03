@@ -1,4 +1,4 @@
-site_name: "CMU 05-499/899: Celebrating Accessibility"
+site_name: "CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology"
 
 theme:
   name: material
@@ -92,7 +92,9 @@ nav:
           - "6B Project Report": projects/P6/2_final_report.md
           - "6C Project Reflection": projects/P6/3_reflection.md
           - "6D Project Delivery": projects/P6/4_delivery.md
-
+  - Prior Offerings:
+      - 'Fall 2024':
+          - _old/f24/
   #- Hall of Fame: hall-of-fame.md
   - Canvas: https://canvas.cmu.edu/courses/42586
   - Gradescope: https://www.gradescope.com/courses/823456

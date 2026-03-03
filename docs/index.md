@@ -1,10 +1,10 @@
 ---
-title: "CMU 05-499/899: Celebrating Accessibility"
+title: "CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology"
 hide:
   - navigation
 ---
 
-# CMU 05-499/899: Celebrating Accessibility
+# CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology
 
 ## This Week
 
@@ -61,9 +61,6 @@ hide:
         Office Hours
     </div>
     <div class="content">
-        Qiaoqiao's office hours are held on the first floor of TCS. <p> 
-        Kristen's office hours are held in her office WEH 4416 inside the Engineering Library. <p>
-        Patrick's office hours are held in his office 4SC 201. (407 S. Craig St.)<p>
         Andrew's office hours are held in his office TCS 441.<p>
         See <a href="#class-calendar">class calendar</a> below for exact times!
     </div>
@@ -113,7 +110,7 @@ hide:
 
 ## Class Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_816535019d2afe0315ddce666512c1cb44767b09c171338c109e46cb2afde65d%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+<!--<iframe src="https://calendar.google.com/calendar/embed?src=c_816535019d2afe0315ddce666512c1cb44767b09c171338c109e46cb2afde65d%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>-->
 
 ## Weekly Schedule
 
