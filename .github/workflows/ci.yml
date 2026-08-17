@@ -19,12 +19,13 @@ jobs:
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
       - uses: actions/setup-python@v5
         with:
-          python-version: 3.x
-          
+          python-version: 3.x    
       - uses: actions/cache@v4
         with:
           key: ${{ github.ref }}
           path: .cache
+      - run: sudo apt-get install libxml2-dev libxslt1-dev
+      - run: pip install cython setuptools
       - run: pip install mkdocs-material 
       - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
