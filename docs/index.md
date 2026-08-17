@@ -161,7 +161,7 @@ hide:
                 <td rowspan="{{schedule_day.homework.numDays}}"><span class="schedule-homework">
                     <b>{{schedule_day.homework.name}}</b>
                     <br/>
-                    {{schedule_day.homework.deadline}}
+                    Due: {{schedule_day.homework.deadline}}
                     <br/>
 
                     {% if schedule_day.homework.link != "" %}

@@ -1,9 +1,9 @@
 - date: Mon Aug 24
   homework:
-    deadline: ''
+    deadline: 'Mon Aug 31'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW1 - Accessible Presentations'
+    numDays: 5
   lecture:
     link: ''
     name: 'Course Introduction'
@@ -42,7 +42,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Disabilities'
   reading:
     link: ''
     name: ''
@@ -90,13 +90,13 @@
 
 - date: Mon Aug 31
   homework:
-    deadline: ''
+    deadline: 'Fri Sep 4'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW2 - Disability Deep Dive'
+    numDays: 5
   lecture:
     link: ''
-    name: ''
+    name: 'Models of Disability'
   reading:
     link: ''
     name: ''
@@ -132,7 +132,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Accessibility Tech Stack'
   reading:
     link: ''
     name: ''
@@ -186,7 +186,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'NO CLASS - LABOR DAY'
   reading:
     link: ''
     name: ''
@@ -216,13 +216,13 @@
 
 - date: Wed Sep 09
   homework:
-    deadline: ''
+    deadline: 'Wed Sep 16'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW3 - Accessibility Checking'
+    numDays: 5
   lecture:
     link: ''
-    name: ''
+    name: 'Web Accessibility'
   reading:
     link: ''
     name: ''
@@ -276,7 +276,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Assistive Technologies for Sight'
   reading:
     link: ''
     name: ''
@@ -306,13 +306,13 @@
 
 - date: Wed Sep 16
   homework:
-    deadline: ''
+    deadline: 'Wed Sep 23'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW4 - Try Out Assistive Technology'
+    numDays: 5
   lecture:
     link: ''
-    name: ''
+    name: 'Guest Lecturer - Peya Mowar'
   reading:
     link: ''
     name: ''
@@ -366,7 +366,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Assistive Technologies for Hearing and Speaking'
   reading:
     link: ''
     name: ''
@@ -402,7 +402,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Assistive Technologies for Cognition and Communication'
   reading:
     link: ''
     name: ''
@@ -456,7 +456,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Assistive Technologies for Mobility'
   reading:
     link: ''
     name: ''
@@ -492,7 +492,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Building Accessible Mobile and Desktop User Interfaces'
   reading:
     link: ''
     name: ''
@@ -540,13 +540,13 @@
 
 - date: Mon Oct 05
   homework:
-    deadline: ''
+    deadline: 'Fri Oct 9'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW5 - Assistive Technology AI Upgrade'
+    numDays: 5
   lecture:
     link: ''
-    name: ''
+    name: 'AI-Powered Assistive Technologies'
   reading:
     link: ''
     name: ''
@@ -582,7 +582,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Ethical Design Methods'
   reading:
     link: ''
     name: ''
@@ -636,7 +636,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'NO CLASS - FALL BREAK'
   reading:
     link: ''
     name: ''
@@ -672,7 +672,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'NO CLASS - FALL BREAK'
   reading:
     link: ''
     name: ''
@@ -720,13 +720,13 @@
 
 - date: Mon Oct 19
   homework:
-    deadline: ''
+    deadline: 'Mon Nov 2'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW6 - Accessibly Design with AI'
+    numDays: 10
   lecture:
     link: ''
-    name: ''
+    name: 'Making Software Development Accessible'
   reading:
     link: ''
     name: ''
@@ -762,7 +762,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Enjoying Life (Travel, Cooking, Exercise, Dating)'
   reading:
     link: ''
     name: ''
@@ -816,7 +816,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Guest Lecturer (TBD)'
   reading:
     link: ''
     name: ''
@@ -852,7 +852,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Guest Lecturer (TBD)'
   reading:
     link: ''
     name: ''
@@ -900,13 +900,13 @@
 
 - date: Mon Nov 02
   homework:
-    deadline: ''
+    deadline: 'Mon Nov 16'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW7 - Assistive Technology All Around Us'
+    numDays: 10
   lecture:
     link: ''
-    name: ''
+    name: 'Civic Infrastructure (Transportation, Housing, Museums, Libraries, Architecture)'
   reading:
     link: ''
     name: ''
@@ -942,7 +942,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Do-It-Yourself Assistive Technology'
   reading:
     link: ''
     name: ''
@@ -996,7 +996,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Guest Lecturer - Patrick Carrington'
   reading:
     link: ''
     name: ''
@@ -1032,7 +1032,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Guest Lecturer (TBD)'
   reading:
     link: ''
     name: ''
@@ -1080,13 +1080,13 @@
 
 - date: Mon Nov 16
   homework:
-    deadline: ''
+    deadline: 'Wed Nov 25'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW8 - Lived Experiences with Disability'
+    numDays: 7
   lecture:
     link: ''
-    name: ''
+    name: 'History of Disability, Policy, and Advocacy'
   reading:
     link: ''
     name: ''
@@ -1122,7 +1122,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'AI-Powered Bias Against Disability'
   reading:
     link: ''
     name: ''
@@ -1176,7 +1176,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Employment'
   reading:
     link: ''
     name: ''
@@ -1212,7 +1212,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Education'
   reading:
     link: ''
     name: ''
@@ -1266,7 +1266,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Final Project Presentations'
   reading:
     link: ''
     name: ''
@@ -1302,7 +1302,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Course Review and Reflection'
   reading:
     link: ''
     name: ''
@@ -1356,7 +1356,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'FINALS WEEK - NO CLASS'
   reading:
     link: ''
     name: ''

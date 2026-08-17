@@ -3,14 +3,14 @@ site_name: "CMU 17-332/732 05-332/632: Introduction to Accessibility and Assisti
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/images/05499_numberbox.png
-  favicon: assets/favicon.ico
+  logo: assets/images/accessibility-class-logo.jpg
+  favicon: assets/human-rainbow-infinity-favicon.ico
   font:
     text: Roboto
   palette:
-    - scheme: default
-      primary: brown
-      accent: brown
+    - scheme: custom
+      primary: custom
+      accent: custom
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -20,6 +20,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+  extra_css:
+    - stylesheets/custom.css
   features:
     - navigation.tabs
     - navigation.top
