@@ -110,7 +110,7 @@ hide:
 
 ## Class Calendar
 
-<!--<iframe src="https://calendar.google.com/calendar/embed?src=c_816535019d2afe0315ddce666512c1cb44767b09c171338c109e46cb2afde65d%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>-->
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&src=Y18zMmRjZDMzNWM3ZjQ2Njg4OTg0MjU1NDU3MGIyODFjYmQ5MGNlMzExMDUyNWUwZDA2YjMwM2E3NGQ5ZjY2OWZmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23795548" style="border-width:0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Weekly Schedule
 
@@ -121,14 +121,15 @@ hide:
 {%- set schedule = extra.schedule -%}
 
 {% if schedule %}
-{% set ns = namespace(recitation_days_left=0, homework_days_left=0) %}
+{% set ns = namespace(recitation_days_left=0, homework_days_left=0, project_days_left=0) %}
 
 <table>
     <thead>
         <th><b>Date</b></th>
         <th><b>Lecture</b></th>
         <th><b>Readings</b></th>
-        <th><b>Project Deadline</b></th>
+        <th><b>Homework</b></th>
+        <th><b>Project</b></th>
     </thead>
     <tbody>
         {% for schedule_day in schedule %}
@@ -176,6 +177,28 @@ hide:
                     {% set ns.homework_days_left = ns.homework_days_left - 1 %}
                 {% else %}
                     <td><span class="schedule-homework"></span></td>
+                {% endif %}
+            {% endif %}
+
+            {% if schedule_day.project.name != "" %}
+                <td rowspan="{{schedule_day.project.numDays}}"><span class="schedule-project">
+                    <b>{{schedule_day.project.name}}</b>
+                    <br/>
+                    Due: {{schedule_day.project.deadline}}
+                    <br/>
+
+                    {% if schedule_day.project.link != "" %}
+                    <a class="label label-red" href="{{schedule_day.project.link}}">
+                        <span class="material-symbols-outlined">description</span>Handout
+                    </a>
+                    {% endif %}
+                </span></td>
+                {% set ns.project_days_left = schedule_day.project.numDays - 1 %}
+            {% else %}
+                {% if ns.project_days_left > 0 %}
+                    {% set ns.project_days_left = ns.project_days_left - 1 %}
+                {% else %}
+                    <td><span class="schedule-project"></span></td>
                 {% endif %}
             {% endif %}
         </tr>

@@ -11,50 +11,43 @@ The course is currently planned to be entirely in person for lectures and recita
 The class has a waitlist. We will add as many students as we can. Waitlists are processed in FIFO order. If you are on the waitlist, we recommend attending the first couple of weeks of class and attempting the first homework. 
 
 ## Prerequisites
-There are two classes of prerequisites for this class: undergraduates and graduates. 
+Prior knowledge of programming for either desktop, mobile, web, or data science is helpful, but not required. You should be willing to engage in software development tasks and user studies. You need not be strong in either to take this class. 
 
-For undergraduates, we strongly recommend that you have a good foundation in team-based software development. Thus, we expect you to have taken at least **one** of the following courses:
-
-- 05-410/610 UCRE
-- 05-430/630 PUI
-- 05-391/891 DHCS
-- 67-272 Application Design and Development
-- 67-240 Mobile Web Design and Development
-- 17-437/637 Web Application and Development
-
-In addition, you should have taken or currently be taking 17-313 Foundations of Software Engineering.
-
-For graduate students, we do not have specific course requirements, but you must have experience or be willing to engage in either software development tasks or user studies. You need not be strong in both to take this class.  
-
-If you have questions, please reach out to the class instructors.
+If you have questions, please reach out to the instructor.
 
 ## Communication
-The primary form of communication within this course is through Slack. We will make announcements through a dedicated channel in Slack, and also provide channels for homework clarifications and team-based communication. As such, we **highly recommend** that students install Slack on their phones / desktop with notifications enabled.
+The primary form of communication about this course is through Slack. We will make announcements through a dedicated channel in Slack, and also provide channels for homework clarifications and team-based communication. As such, we **highly recommend** that students install Slack on their phones / tablets / laptops with notifications enabled.
 
 The instructors will hold weekly office hours to provide support with course materials and projects. You can find the office hours schedule updated weekly here on the course website.
 
-You can contact the course instructors and graders via both Slack and email. When contacting instructors, please email/message **all** instructors/both TAs at the same time, or your communication will be rejected, unanswered.
+You can contact the course instructor and TA via Slack and email. 
+
+[//]: # "When contacting instructors, please email/message **all** instructors/both TAs at the same time, or your communication will be rejected, unanswered."
 
 ## Teamwork
-Teamwork is an essential part of this course. Projects are done in teams of 5 students. Teams will be self-organized and stay together for the entirety of the class. Choose your teammates wisely. Make sure your team has some good programmers and some good user researchers. You'll need both for a successful project.
+Teamwork is an essential part of this course. Projects are done in teams of 4-5 students. Teams will be self-organized and work together for the entirety of the semester. Choose your teammates wisely. Make sure your team has some good programmers and some good user researchers. You'll need both for a successful project.
 
-Being able to address team issues in software projects is one of the core learning objectives of this class. Guidance on teamwork, reflection, and conflict resolution will be provided throughout the semester and are an essential component of the class. We expect significant efforts in attempting to address the team issues before asking instructors to step in. When you get stuck, we are always available to provide advice on how to navigate these issues.
+Being able to address project team issues is a core learning goal of this class. Guidance on teamwork, reflection, and conflict resolution will be provided throughout the semester and are an essential component of the class. We expect significant efforts in attempting to address the team issues before asking instructors to step in. When you get stuck, we are always available to provide advice on how to navigate these issues.
 
 ## Textbook
 Various readings throughout the semester are available online or through the library; we do not have a single textbook but rather assemble readings from different sources.
 
 ## Assessment
-Evaluation will be based on the following distribution: 25% homework, 60% project, 15% participation. Project points will be divided into half related to the project deliverable and half peer assessment. 
+Evaluation will be based on the following distribution: 50% homework, 30% project, 20% participation. Project points will be divided into half related to the project deliverable and half peer assessment. 
 
 **Homework Points Breakdown (tentative)**
 
 | Project | # Days Given | Points | % of homework grade |  % of total grade |
 | --- | --- | --- | --- | --- |
-| HW1 | 7 | 75 | 21% | 5%
-| HW2 | 8 | 100 | 29% | 7% |
-| HW3 | 7  | 100 | 29% | 7% |
-| HW4 | 8  | 75 | 21% | 5% |
-|   | **TOTAL**   | 350 | 100% | 25% | 
+| HW1 | 7 | 100 | 9% | 4.5%
+| HW2 | 5 | 100 | 9% | 4.5% |
+| HW3 | 7  | 100 | 9% | 4.5% |
+| HW4 | 7  | 100 | 9% | 4.5% |
+| HW5 | 5 | 100 | 9% | 4.5%
+| HW6 | 14 | 200 | 18% | 9% |
+| HW7 | 14  | 200 | 18% | 9% |
+| HW8 | 9  | 200 | 18% | 9% |
+|   **TOTAL** |   | 1100 | 100% | 50% | 
 
 **Project Points Breakdown (tentative)**
 

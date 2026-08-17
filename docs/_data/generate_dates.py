@@ -46,6 +46,12 @@ for single_date in daterange(start_date, end_date):
             "link": "",
             "numDays": 0
         }
+        "project": {
+            "name": "",
+            "deadline": "",
+            "link": "",
+            "numDays": 0
+        }
     })
 
 class LineBreakDumper(yaml.SafeDumper):
