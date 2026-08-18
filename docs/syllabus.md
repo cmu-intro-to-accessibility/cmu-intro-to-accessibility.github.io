@@ -68,7 +68,7 @@ Evaluation will be based on the following distribution:
 | P5 | 12 | 168 | 20% | 6% |
 | P6 | 17 | 140 | 17% | 5% |
 | P7 | 2 | 70 | 8% | 3% |
-|  **TOTAL** |  | 840 | 100% | 60% | 
+|  **TOTAL** |  | 840 | 100% | 30% | 
 
 After an assignment is graded, the grades are released to you and accessible on Canvas and Gradescope. For the next 7 days, you may submit a regrade request via Gradescope if you feel that your assignment was incorrectly graded. This is not a mechanism for forgetting to do some part of the assignment and submitting corrected information after the submission deadline. Beyond one week, you may no longer request a regrade or correction to the grading of an assignment.
 
