@@ -19,8 +19,10 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Install requirements
-        run: pip install -r requirements.txt
+      - run: sudo apt-get install libxml2-dev libxslt1-dev
+      - run: pip install cython setuptools
+      - run: pip install mkdocs-material 
+      - run: pip install -r requirements.txt
 
       - name: Execute Python Script
         run: |
