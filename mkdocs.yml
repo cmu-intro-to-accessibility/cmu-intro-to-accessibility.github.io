@@ -64,40 +64,44 @@ nav:
   - Course Overview: overview.md
   - Syllabus: syllabus.md
   - Homework: 
-      - 'Homework 1 Accessible Documents': 
-          - 'homework/HW1/index.md' 
-          - Parts: 
-              - 'homework/HW1/1_pdf.md'
-              - 'homework/HW1/2_presentation.md'
-      - 'Homework 2 Disability Deep Dive':
-          - 'homework/HW2/index.md'
-      - 'Homework 3 Accessibility Evaluation':
-          - 'homework/HW3/index.md'
-      - 'Homework 4 Celebrating Accessibility Essay':
-          - 'homework/HW4/index.md'
+      - 'Homework': 
+          - 'homework/index.md' # Dummy homepage
+#      - 'Homework 1 Accessible Documents': 
+#          - 'homework/HW1/index.md' 
+#          - Parts: 
+#              - 'homework/HW1/1_pdf.md'
+#              - 'homework/HW1/2_presentation.md'
+#      - 'Homework 2 Disability Deep Dive':
+#          - 'homework/HW2/index.md'
+#      - 'Homework 3 Accessibility Evaluation':
+#          - 'homework/HW3/index.md'
+#      - 'Homework 4 Celebrating Accessibility Essay':
+#          - 'homework/HW4/index.md'
   - Projects:
-      - '0 Project Overview':
-          - projects/P0/index.md # Dummy home page; remove once we start adding projects below
-      - '1 Project Pitches':
-          - projects/P1/index.md
-      - '2 Team Contract':
-          - projects/P2/index.md
-      - '3 Project Specification':
-          - projects/P3/index.md
-      - '4 Project Milestone 1':
-          - projects/P4/index.md
-      - '5 Project Milestone 2':
-          - projects/P5/index.md
-      - '6 Final Report and Presentation':
-          - projects/P6/index.md
-          - "6A Project Presentation": projects/P6/1_final_presentation.md
-          - "6B Project Report": projects/P6/2_final_report.md
-          - "6C Project Reflection": projects/P6/3_reflection.md
-          - "6D Project Delivery": projects/P6/4_delivery.md
+      - 'Projects':
+          - 'projects/index.md' # Dummy home page
+#      - '0 Project Overview':
+#          - projects/P0/index.md # Dummy home page; remove once we start adding projects below
+#      - '1 Project Pitches':
+#          - projects/P1/index.md
+#      - '2 Team Contract':
+#          - projects/P2/index.md
+#      - '3 Project Specification':
+#          - projects/P3/index.md
+#      - '4 Project Milestone 1':
+#          - projects/P4/index.md
+#      - '5 Project Milestone 2':
+#          - projects/P5/index.md
+#      - '6 Final Report and Presentation':
+#          - projects/P6/index.md
+#          - "6A Project Presentation": projects/P6/1_final_presentation.md
+#          - "6B Project Report": projects/P6/2_final_report.md
+#          - "6C Project Reflection": projects/P6/3_reflection.md
+#          - "6D Project Delivery": projects/P6/4_delivery.md
   - Prior Offerings:
       - 'Fall 2024':
           - _old/f24/
   #- Hall of Fame: hall-of-fame.md
-  - Canvas: https://canvas.cmu.edu/courses/42586
-  - Gradescope: https://www.gradescope.com/courses/823456
-  - Slack: https://join.slack.com/t/cmu-05-499-f24/shared_invite/zt-2omf3b8km-~Kwm1fmZzZaoEjJiQYYVkA
+  - Canvas: https://canvas.cmu.edu/courses/54207
+  - Gradescope: https://www.gradescope.com/courses/1347981
+  - Slack: https://join.slack.com/t/cmuintroducti-uxw5117/shared_invite/zt-477rgd5qt-5DxmtPYyNms34nYtbtbwYA
