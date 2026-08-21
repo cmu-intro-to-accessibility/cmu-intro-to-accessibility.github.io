@@ -2,7 +2,7 @@
 
 ## Deliverables
 
-**Accessible PDF** - 25 points - due Tuesday, September 3, 11:59pm ET
+**Accessible PDF** - 50 points
 
 ## Getting Started
 
@@ -11,21 +11,16 @@ You will need to install a copy of Adobe Acrobat Pro DC on your own computer to 
 **Adobe Creative Cloud Install Instructions**
 
 1. Go to the Creative Cloud website (https://creativecloud.adobe.com) and click Sign In.
-1. Sign in using the Sign-in Instructions below.
+    1. Enter your Andrew email address when prompted.
+    1. Click Continue and then, if prompted, click Company or School Account.
+    1. Enter your Andrew userID and password at the CMU Web Login screen.
+    1. **If you have trouble logging in, please submit a help ticket to it-help@andrew.cmu.edu**
 1. Click Install Creative Cloud App.
 1. Double-click the installer file and follow the instructions.
 1. Open the Adobe Creative Cloud application.
-1. Sign in using the Sign-in Instructions below.
-1. Once the application opens, click the Install button for each app that you want to install.
+1. Sign in (again) using the same instructions above.
+1. Once the application opens, click the Install button for Adobe Acrobat Pro.
 NOTE: If you have been provided with a license but cannot access the software after installing or are on a trial, log out of the Acrobat program and log back in using the Sign-in Instructions below to reset the Adobe License on your computer.
-
-**Sign-in Instructions**
-
-1. Enter your Andrew email address when prompted.
-1. Click Continue and then, if prompted, click Company or School Account.
-1. Enter your Andrew userID and password at the CMU Web Login screen.
-
-**If you have trouble logging in, please submit a help ticket to it-help@andrew.cmu.edu**
 
 ## Goal
 
@@ -33,11 +28,11 @@ The goal of this assignment is to create an accessible PDF from an inaccessible 
 
 ## Instructions
 
-Download the [assignment file](Syllabus.pdf) and open using Adobe Acrobat Pro
+Download the [assignment file](Syllabus.pdf) and open using Adobe Acrobat Pro.
 
 ### Check for Accessibility
 
-1. Using the tools at the left side of the application find the **Prepare for Accessibility** Tool
+1. Click on All tools in the top nav bar. This will open the All tools nav bar. Find the **Prepare for Accessibility** Tool and click on it.
 
 1. Run the **Check for Accessibility** Tool. This tool will generate an accessibility report which you will turn in along with your accessibile PDF document (Make note of where this report is saved so you can find it later). In Acrobat this should open up a pane on the right side showing several issues with the current document including:
 	1. Document Issues

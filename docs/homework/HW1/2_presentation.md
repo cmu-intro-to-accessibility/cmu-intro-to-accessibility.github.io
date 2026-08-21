@@ -2,7 +2,7 @@
 
 ## Deliverables
 
-**Accessible Google Slides** - 50 points - due Tuesday, September 3, 11:59pm ET
+**Accessible Google Slides**
 
 ## Background
 
@@ -17,7 +17,7 @@ Some other guides include:
 1. W3C guide on [preparing slides and projected material](https://www.w3.org/WAI/teach-advocate/accessible-presentations/#slides).
 1. Microsoft's web guide to [making accessible PowerPoint presentations](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25).
 1. Microsoft's video guide to [making accessible PowerPoint presentations](https://www.youtube.com/watch?v=el60p-DGtAY).
-1. University of Washington DO-IT Center's guide to [presenting accessibly](https://www.washington.edu/doit/equal-access-universal-design-your-presentation).
+1. University of Washington DO-IT Center's guide to [presenting accessibly](https://doit.uw.edu/brief/equal-access-universal-design-of-conference-exhibits-and-presentations/).
 
 ## Getting Started
 
@@ -39,10 +39,10 @@ Some other guides include:
 
 1. Run through the following checklist and fix any issues that you see in the presentation.
     1. Slides
-        1. My slides have slide numbers.</li>
+        1. My slides have slide numbers.
         1. I minimized the number of slides down to the essential ones for explaining my message.
         1. I removed unnecessary distractions in the slide content (minimal in design).
-        1. My slides have text on them that is [readable by text-to-speech software](https://support.ignitetech.com/hc/en-us/articles/360017721954-Articles-Can-t-Be-Read-By-Text-To-Speech-Software) (rather than text embedded as bitmap pictures).
+        1. My slides have text on them that is readable by text-to-speech software (rather than text embedded as bitmap pictures).
         1. My talk shows an [indication of progress](https://ccm.net/faq/937-insert-progress-bar-into-powerpoint-presentation) as I move through it.
         1. I display information progressively (e.g., sequential highlighting).
         1. My slides highlight and emphasize key elements in text, graphics, and formulas.
@@ -59,10 +59,10 @@ Some other guides include:
     1. Embedded Videos 
         1. I added closed captioning to every embedded video.
         1. I provided written transcripts for every embedded video and audio clips.
-        1. I added [audio descriptions](https://mediaaccess.org.au/web/how-to-audio-describe-a-youtube-video) (e.g. described video) for every embedded video. _Optional for HW1_
+        1. I added [audio descriptions](https://utsa.screenstepslive.com/a/1950460-audio-description-ad-guide-for-videos) (e.g. described video) for every embedded video. _Optional for HW1_
         1. I used appropriate punctuation enabling screen readers and text-to-speech engines to work well.
         1. I embedded definitions for vocabulary and symbols within the text (e.g., via hyperlinks or footnotes).
-        1. I followed accessibility standards ([NIMAS](http://aem.cast.org/creating/national-instructional-materials-accessibility-standard-nimas.html), [DAISY](https://daisy.org/activities/standards/daisy/)) when creating digital text.
+        1. I followed accessibility standards ([NIMAS](https://aem.cast.org/nimas-nimac/nimas-nimac), [DAISY](https://daisy.org/activities/standards/daisy/)) when creating digital text.
     1. Text
         1. I used large fonts (&gt; 18 pt).
         1. I minimized the amount of text in each slide.

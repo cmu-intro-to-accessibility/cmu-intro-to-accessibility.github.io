@@ -64,13 +64,13 @@ nav:
   - Course Overview: overview.md
   - Syllabus: syllabus.md
   - Homework: 
-      - 'Homework': 
-          - 'homework/index.md' # Dummy homepage
-#      - 'Homework 1 Accessible Documents': 
-#          - 'homework/HW1/index.md' 
-#          - Parts: 
-#              - 'homework/HW1/1_pdf.md'
-#              - 'homework/HW1/2_presentation.md'
+#      - 'Homework': 
+#          - 'homework/index.md' # Dummy homepage
+      - 'Homework 1 Accessible Documents': 
+          - 'homework/HW1/index.md' 
+          - Parts: 
+              - 'homework/HW1/1_pdf.md'
+              - 'homework/HW1/2_presentation.md'
 #      - 'Homework 2 Disability Deep Dive':
 #          - 'homework/HW2/index.md'
 #      - 'Homework 3 Accessibility Evaluation':
