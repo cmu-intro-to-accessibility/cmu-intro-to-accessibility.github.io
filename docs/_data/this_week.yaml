@@ -1,6 +1,6 @@
 lectures:
 - date: Mon Aug 24
-  link: ''
+  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/docs/lectures/01-Introduction.pdf
   name: Course Introduction
 - date: Wed Aug 26
   link: ''
@@ -10,7 +10,7 @@ projects:
 - date: Mon Aug 24
   deadline: Mon Aug 31
   end_date: 2026-08-31 00:00:00
-  link: ''
+  link: homework/HW1/index.md
   name: HW1 - Accessible Presentations
   numDays: 5
 
