@@ -1,16 +1,16 @@
 - date: Mon Aug 24
   homework:
     deadline: 'Mon Aug 31'
-    link: ''
+    link: 'homework/HW1/index.md'
     name: 'HW1 - Accessible Presentations'
     numDays: 5
   project:
     deadline: 'Mon Aug 31'
-    link: ''
+    link: 'https://bit.ly/accessibility-teamwork-survey'
     name: 'P0 - Skills and Team Survey'
     numDays: 5
   lecture:
-    link: ''
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/docs/lectures/01-Introduction.pdf'
     name: 'Course Introduction'
   reading:
     link: ''
