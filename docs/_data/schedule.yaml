@@ -10,7 +10,7 @@
     name: 'P0 - Skills and Team Survey'
     numDays: 5
   lecture:
-    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/docs/lectures/01-Introduction.pdf'
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/01-Introduction.pdf'
     name: 'Course Introduction'
   reading:
     link: ''
