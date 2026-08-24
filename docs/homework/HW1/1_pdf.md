@@ -6,10 +6,23 @@
 
 ## Getting Started
 
-You will need to run Adobe Acrobat Pro DC to do this assignment. If you don't already have an Adobe Creative Cloud license, you will access Acrobat from [Virtual Andrew](https://www.cmu.edu/computing/services/endpoint/software/virtual-andrew.html). 
+You will need to run Adobe Acrobat Pro DC to do this assignment. If you don't already have your own Adobe Creative Cloud license, you have two options to access Acrobat.
 
-You may log into Virtual Andrew from your [web browser](https://virtual.andrew.cmu.edu/portal/webclient/index.html) or through the [Omnissa Horizon client application](https://customerconnect.omnissa.com/downloads/info/slug/virtual_desktop_and_apps/omnissa_horizon_clients/8).
-
+1. Use [Virtual Andrew](https://www.cmu.edu/computing/services/endpoint/software/virtual-andrew.html). 
+    1. Log into Virtual Andrew from your [web browser](https://virtual.andrew.cmu.edu/portal/webclient/index.html) or through the [Omnissa Horizon client application](https://customerconnect.omnissa.com/downloads/info/slug/virtual_desktop_and_apps/omnissa_horizon_clients/8). 
+	1. Once you have logged into the Virtual Windows account, find Acrobat in the Start Menu and run it. 
+1. Install Adobe Creative Cloud with a license that we've given you for this class.
+    1. Go to the [Creative Cloud website](https://creativecloud.adobe.com) and click Sign In.
+    1. Enter your Andrew email address when prompted.
+    1. Click Continue and then, if prompted, click Company or School Account.
+    1. Enter your Andrew userID and password at the CMU Web Login screen.
+    1. **If you have trouble logging in, please [submit a help ticket to CMU IT](mailto:it-help@andrew.cmu.edu)**.
+    1. Click Install Creative Cloud App.
+    1. Double-click the installer file and follow the instructions.
+    1. Open the Adobe Creative Cloud application.
+    1. Sign in (again) using the same instructions above.
+    1. Once the application opens, click the Install button for Adobe Acrobat Pro.
+    1. NOTE: If you have been provided with a license but cannot access the software after installing or are on a trial, log out of the Acrobat program and log back in using the Sign-in Instructions below to reset the Adobe License on your computer.
 
 ## Goal
 
