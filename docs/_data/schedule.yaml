@@ -127,9 +127,10 @@
   lecture:
     link: ''
     name: 'Models of Disability'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://dl.acm.org/doi/10.1145/1878803.1878807', name: 'Mankoff et al. 2010 - Disability studies as a source of critical inquiry for the field of assistive technology' }
+    - { link: 'https://canvas.cmu.edu/courses/54207/files?preview=14483174', name: 'What do we mean by accessibility research?' }
+    - { link: 'https://make4all.org/wp-content/uploads/3373625.3416996.pdf', name: 'Living Disability Theory: Reflections on Access, Research, and Design' }
   recitation:
     handout: ''
     name: ''
@@ -404,8 +405,8 @@
     link: ''
     name: 'Guest Lecturer - Peya Mowar - Making PDFs Aßccessible with AI'
   reading:
-    link: ''
-    name: ''
+    link: 'https://peyajm29.github.io/itagpdf.html'
+    name: 'Mowar et al. -iTagPDF: Towards Finally Automating PDF Accessibility'
   recitation:
     handout: ''
     name: ''
@@ -749,8 +750,8 @@
     link: ''
     name: 'Ethical Design Methods'
   reading:
-    link: ''
-    name: ''
+    link: 'https://blog.castac.org/2022/04/disability-dongle/'
+    name: 'Disability Dongle'
   recitation:
     handout: ''
     name: ''
