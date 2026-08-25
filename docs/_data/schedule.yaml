@@ -56,7 +56,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/02-disability.pdf'
     name: 'Disabilities'
   reading:
     link: ''
