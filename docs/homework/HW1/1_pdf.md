@@ -87,7 +87,6 @@ Download the [assignment file](Syllabus.pdf) and open using Adobe Acrobat Pro.
 
 1. **Add Alternative Text** for Figures
 	1. Using the *Prepare for Accessibility Tool* (Left Side), click *Add alternate text*
-	1. Add text descriptions for each instructor and teaching assistant image.
 
 1. Run the **Check for Accessibility** tool again to make sure you've addressed all issues.
 
