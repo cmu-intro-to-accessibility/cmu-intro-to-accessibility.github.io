@@ -91,7 +91,7 @@ Some other guides include:
     1. If you feel comfortable doing so, choose the Cameo option to insert a recording of you narrating the slides on the lower right hand corner of the slide deck.
     1. Choose the Record button in the top right of the PowerPoint UI. 
     1. Once you have finished recording, choose File/Export... from the menu and export your video as an MP4.
-    1. Upload the video to YouTube; please make sure it's set to private. 
+    1. Upload the video to YouTube; please make sure it's set to unlisted. 
 
 ## Submission
 
@@ -101,7 +101,8 @@ There are two items to submit for this homework part.
     1. Copy the slide deck into your Google Drive. 
     1. Open the file in Google Slides.
     1. Choose File/Share/Sharing with Others from the menu.
+    1. Change the editing permissions from Viewer to Editor. 
     1. Change the Sharing permissions from General Access Restricted to General Access Carnegie Mellon University.
     1. Press the Copy link button and submit that link to Gradescope.
 1. Recorded Narration
-    1. Submit the private link to your uploaded YouTube video to Gradescope.
+    1. Submit the unlisted link to your uploaded YouTube video to Gradescope.
