@@ -404,7 +404,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Guest Lecturer - Peya Mowar - Making PDFs Aßccessible with AI'
+    name: 'Guest Lecturer - Peya Mowar - Making PDFs Accessible with AI'
   reading:
     link: 'https://peyajm29.github.io/itagpdf.html'
     name: 'Mowar et al. -iTagPDF: Towards Finally Automating PDF Accessibility'
