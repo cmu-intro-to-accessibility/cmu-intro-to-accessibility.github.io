@@ -1,5 +1,15 @@
 # Homework 2: Disability Deep-Dive
 
+This homework is worth 100 points.
+
+It should be done individually. 
+
+HW2 is due on Gradescope on Friday, September 4, 2026 11:59pm ET.
+
+!!! note
+    This is the rare assignment due on a Friday night. Monday, September 7, 2026
+    is Labor Day, a US and CMU holiday. There are no classes on Monday. Enjoy the three-day weekend with no homework!
+
 ## Learning Goals
 
 - Gain deep background in a disability of your choice
@@ -7,24 +17,24 @@
 
 ## Project Context
 
-Many people are drawn to accessibility work due to personal connections to people in their lives who have a particular disability. This homework gives you the opportunity to learn as much as you can 
-about a chosen disability and explain that to us in your writeup. We provide a structure for you to use in your writeup which will help guide you towards the important concepts in your understanding of disability.
+Many people are drawn to accessibility work due to personal connections to people in their lives who have a particular disability. This homework gives you the opportunity to learn as much as you can about a chosen disability and explain that to us in your writeup. We provide a structure for you to use in your writeup which will help guide you towards the important concepts in your understanding of disability.
 
 This is an **individual assignment** worth 100 points.
 
 ## Getting Started
 
-In class on Tuesday, September 3, you will choose a disability _category_ for this homework assignment. The available categories are vision, hearing, mobility, speech, cognition, and chronic illness. Note, these are classes of disabilities, not specific disabilities. For example, the vision category includes retinosis pigmentosa, a specific disability with its own unique form of progressive visual impairment. From within your chosen disability class, you may pick any specific disability to write about for your essay. 
+First, choose a disability _category_ for this homework assignment. The available categories are sight, hearing, speaking, mobility, cognition, and chronic illness. 
 
-If you miss class, please contact the instructors ASAP to choose a disability category.
+These are just categories, not specific disabilities. For example, the vision category includes retinosis pigmentosa, a specific disability with its own unique form of progressive visual impairment. 
+
+From within your chosen disability category, pick a specific disability to write about for this homework. 
 
 ## Instructions
 
-Write an essay with information answering the following questions. Each question should have its own header in the document you write. 
+Answer the following questions on Gradescope. 
 
 !!! note 
-
-    You must cite all sources in [APA style](https://pitt.libguides.com/citationhelp/apa7). At the end of the writeup, add a References section with all sources you cited, sorted alphabetically by last name of the first author.
+    When asked to cite sources, you must include "in-text citations" in [APA style](https://pitt.libguides.com/citationhelp/apa7). The final question in Gradescope asks you to write down a bibliography of the combined set of references cited over your entire homework assignment. 
 
 
 1. Name of the specific disability.
@@ -37,10 +47,9 @@ Write an essay with information answering the following questions. Each question
 1. Identify three famous people who have had this disability. For each person, write down one sentence about how this disability has affected or defined their lives.
 1. Identify three advocacy organizations associated with this disability. For each organization, write down one sentence about how this organization advocates for the disability.
 1. Identify three assistive technologies used by people with this disability and explain how each helps them adapt to the world around them.
-1. What are three current ways to label people with this disability (preferrably used by people with this disability)?
-1. How are people with this disability treated in our culture? Choose any community you like for defining the culture (e.g., USA, CMU, Pennsylvania, the software industry, sports, religions, etc.)
 1. Why did you pick this disability for the homework assignment?
+1. Write a numbered list of all references cited above using APA style. Sort them alphabetically by the last name of the first author. If the author is an organization, use the first word in the organization's name to alphabetize it.
 
-# Deliverables
+## Submission
 
-A PDF writeup turned in to Gradescope by Wednesday, September 11, 11:59pm ET.
+Answer these questions directly on Gradescope's HW2 Assignment.
