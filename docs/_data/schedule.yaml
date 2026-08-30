@@ -116,7 +116,7 @@
 - date: Mon Aug 31
   homework:
     deadline: 'Fri Sep 4'
-    link: ''
+    link: 'homework/HW2'
     name: 'HW2 - Disability Deep Dive'
     numDays: 5
   project:
@@ -125,7 +125,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/03-models-of-disability.pdf'
     name: 'Models of Disability'
   readings:
     - { link: 'https://dl.acm.org/doi/10.1145/1878803.1878807', name: 'Mankoff et al. 2010 - Disability studies as a source of critical inquiry for the field of assistive technology' }
