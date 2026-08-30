@@ -1,10 +1,20 @@
 lectures:
-- date: Mon Aug 24
-  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/01-Introduction.pdf
-  name: Course Introduction
-- date: Wed Aug 26
-  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/02-disability.pdf
-  name: Disabilities
+- date: Mon Aug 31
+  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/03-models-of-disability.pdf
+  name: Models of Disability
+  readings:
+  - link: https://dl.acm.org/doi/10.1145/1878803.1878807
+    name: Mankoff et al. 2010 - Disability studies as a source of critical inquiry
+      for the field of assistive technology
+  - link: https://canvas.cmu.edu/courses/54207/files?preview=14483174
+    name: What do we mean by accessibility research?
+  - link: https://make4all.org/wp-content/uploads/3373625.3416996.pdf
+    name: 'Living Disability Theory: Reflections on Access, Research, and Design'
+  - link: https://www.ncbi.nlm.nih.gov/books/NBK613292/
+    name: Common Measures of Disability
+- date: Wed Sep 02
+  link: ''
+  name: Accessibility Tech Stack
 
 projects:
 - date: Mon Aug 24
@@ -12,6 +22,12 @@ projects:
   end_date: 2026-08-31 00:00:00
   link: homework/HW1
   name: HW1 - Accessible Presentations
+  numDays: 5
+- date: Mon Aug 31
+  deadline: Fri Sep 4
+  end_date: 2026-09-07 00:00:00
+  link: homework/HW2
+  name: HW2 - Disability Deep Dive
   numDays: 5
 
 recitation: null
