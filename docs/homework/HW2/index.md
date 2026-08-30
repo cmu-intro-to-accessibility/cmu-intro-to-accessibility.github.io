@@ -50,6 +50,36 @@ Answer the following questions on Gradescope.
 1. Why did you pick this disability for the homework assignment?
 1. Write a numbered list of all references cited above using APA style. Sort them alphabetically by the last name of the first author. If the author is an organization, use the first word in the organization's name to alphabetize it.
 
+## Citations
+
+### When do we cite?
+
+1. When quoting or paraphrasing someone else's words, ideas, or research.
+    1. **INCORRECT (no citation)**: "Autism Spectrum Disorder (ASD) is a complex developmental condition involving persistent challenges with social communication, restricted interests and repetitive behavior..."
+    1. **CORRECT**: "As stated by Smith et. al. \[5\], 'Autism Spectrum Disorder (ASD) is a ....'"
+    1. **Also CORRECT**: "'Autism Spectrum Disorder (ASD) is a ...' (Smith, 2013)" 
+1. When presenting previously reported data, statistics, or findings.
+    1. **INCORRECT (no citation)**: "The incidence of autism in the US is 1 in 36."
+    1. **CORRECT**: "The incidence of autism in the US is 1 in 36 (CDC, 2024)."
+    1. **INCORRECT**: "As of 2023, approximately 6.7 million Americans ... are living with Alzheimer’s. Worldwide, over 55 million people have dementia with Alzheimer’s comprising 60-70% of these cases [6]."
+        1. What’s wrong? Two different statistics are presented; placing the citation at the end makes it unclear which specific information is being supported by the citation. 
+    1. **CORRECT**: "As of 2023, approximately 6.7 million Americans are living with Alzheimer’s [6]. Worldwide, over 55 million people have dementia, with Alzheimer’s comprising 60-70% of these cases [6]."    
+1. To support your claims.
+    1. **INCORRECT (no citation)**: "Mobility disability refers to the inability of a person to ... "
+    1. **CORRECT**: "Mobility disability refers to the inability of a person to ... (Jackson, 2024)."
+        1. Here, we place a citation after our sentence to indicate that the entire statement is sourced from the referenced material.
+    1. *INCORRECT (no citation)*: "As defined by the US medical establishment, deafness is... "
+    1. **CORRECT**: "As defined by the US medical establishment (Hsin, 2024), deafness is... "
+        1. Placing a citation after "US medical establishment" specifically supports how the term, "deafness" is defined by the "US medical establishment."     
+1. When using copies or derivations of visuals or media created by someone else. 
+
+### How should we cite?
+
+1. Use in-text citations to provide "pointers" to the full references; e.g., (Smith, 2024), \[4\], (Smith 2024, p. 50)
+1. At the end of a document, provide full bibliogrpahic information for all cited references. Organize these references alphabetically, or if using numbered in-text citations, organize them in the order the references are introduced. 
+
+
+
 ## Submission
 
 Answer these questions directly on Gradescope's HW2 Assignment.
