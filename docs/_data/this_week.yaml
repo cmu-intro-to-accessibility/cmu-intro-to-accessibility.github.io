@@ -15,14 +15,23 @@ lectures:
 - date: Wed Sep 02
   link: ''
   name: Accessibility Tech Stack
+  readings:
+  - link: https://www.w3.org/WAI/standards-guidelines/wcag/
+    name: Web Content Accessibility Guidelines (WCAG 2)
+  - link: https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/
+    name: WCAG 3 Draft
+  - link: https://www.w3.org/WAI/standards-guidelines/aria/
+    name: Accessible Rich Internet Applications (WAI-ARIA)
+  - link: https://jessijokes.medium.com/one-button-to-rule-them-all-465e294cba82
+    name: 'One Button to Rule Them All: Making Accessible Buttons'
+  - link: https://www.youtube.com/watch?v=dEbl5jvLKGQ
+    name: Screen Reader Demo for Digital Accessibility
+  - link: https://accessible.org/ada-title-ii-web-accessibility/
+    name: 'New ADA Title II Rule on Web Accessibility: Fact Sheet Guide'
+  - link: https://media.dequeuniversity.com/en/docs/screen-readers-and-input-methods/nvda-guide.pdf
+    name: 'Quick Reference Guide: NVDA for Windows Keyboard Commands'
 
 projects:
-- date: Mon Aug 24
-  deadline: Mon Aug 31
-  end_date: 2026-08-31 00:00:00
-  link: homework/HW1
-  name: HW1 - Accessible Presentations
-  numDays: 5
 - date: Mon Aug 31
   deadline: Fri Sep 4
   end_date: 2026-09-07 00:00:00
