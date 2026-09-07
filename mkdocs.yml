@@ -73,10 +73,12 @@ nav:
               - 'homework/HW1/2_presentation.md'
       - 'Homework 2 Disability Deep Dive':
           - 'homework/HW2/index.md'
-#      - 'Homework 3 Accessibility Evaluation':
-#          - 'homework/HW3/index.md'
-#      - 'Homework 4 Celebrating Accessibility Essay':
-#          - 'homework/HW4/index.md'
+      - 'Homework 3 Try Out Assistive Technology':
+          - 'homework/HW3/index.md'
+      - 'Homework 4 Accessibility Evaluation':
+          - 'homework/HW4/index.md'
+#      - 'Homework 8 Celebrating Accessibility Essay':
+#          - 'homework/HW8/index.md'
   - Projects:
       - 'Projects':
           - 'projects/index.md' # Dummy home page

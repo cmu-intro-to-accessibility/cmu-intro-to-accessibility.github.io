@@ -19,8 +19,6 @@ HW2 is due on Gradescope on Friday, September 4, 2026 11:59pm ET.
 
 Many people are drawn to accessibility work due to personal connections to people in their lives who have a particular disability. This homework gives you the opportunity to learn as much as you can about a chosen disability and explain that to us in your writeup. We provide a structure for you to use in your writeup which will help guide you towards the important concepts in your understanding of disability.
 
-This is an **individual assignment** worth 100 points.
-
 ## Getting Started
 
 First, choose a disability _category_ for this homework assignment. The available categories are sight, hearing, speaking, mobility, cognition, and chronic illness. 

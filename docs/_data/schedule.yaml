@@ -287,8 +287,8 @@
 - date: Wed Sep 09
   homework:
     deadline: 'Wed Sep 16'
-    link: ''
-    name: 'HW3 - Accessibility Checking'
+    link: 'homework/HW3'
+    name: 'HW3 - Try Out Assistive Technology'
     numDays: 5
   project:
     deadline: 'Mon Sep 14'
@@ -402,8 +402,8 @@
 - date: Wed Sep 16
   homework:
     deadline: 'Wed Sep 23'
-    link: ''
-    name: 'HW4 - Try Out Assistive Technology'
+    link: 'homework/HW4'
+    name: 'HW4 - Accessibility Evaluation'
     numDays: 5
   project:
     deadline: ''
