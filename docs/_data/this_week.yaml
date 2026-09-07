@@ -10,8 +10,8 @@ projects:
 - date: Wed Sep 09
   deadline: Wed Sep 16
   end_date: 2026-09-16 00:00:00
-  link: ''
-  name: HW3 - Accessibility Checking
+  link: homework/HW3
+  name: HW3 - Try Out Assistive Technology
   numDays: 5
 
 recitation: null
