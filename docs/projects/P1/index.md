@@ -1,57 +1,101 @@
-# Project 1: Project Pitches
+# Project 1: Team Formation / Team Contract
+
+This homework is worth 84 points.
+
+It should be done as a team. 
+
+P1 is due on Gradescope on Monday, September 14, 2026, 2026 11:00am ET.
 
 ## Learning Goals
 
-- Identify the partner organizations you would like to do a project with
-- Brainstorm a project idea and present it to the class
+- Make initial decisions on a team process, and reflect on your experience with the process
+- Practice version control and development best practices within the context of a group assignment
+- Choose your project
 
 ## Project Context
 
-Welcome to the Celebrating Accessibility Project portion of the course. Until the end of the semester, you will work with a partner organization to design, develop, and evaluate a project. You can do two kinds of projects: an accessibility evaluation and an application solution. The exact project and its goals will emerge from a negotiation with your team and your partner organization. 
+You have just chosen a team to work with. Come together to discuss one another's backgrounds and skills, negotiate your team norms, and write up a team contract. These include communication standards, time expectations, division of labor, a definition of equitable contribution, and procedures for managing conflicts within the team.
 
-## Project Pitch
+## Team Setup
 
-To give you practice identifying promising project ideas, you will create a project pitch and present it in class. A project pitch is a formal 2-minute presentation in which you will brainstorm an idea you have for a project with your top-ranked partner organization. It should explain the project along with your skill set to the class and tell them why they should want to work with you to deliver this product to the partner organization. This should be a well-researched idea, one that you would feel comfortable proposing to your partner organization. 
+### Slack Channel
 
-!!! note 
-    You will develop this pitch without doing any user research or discussing the ideas with the partner organization. This is an anomaly for human-centered design. We are allowing this to give you an opportunity to practice pitching ideas before you engage with the partner organization. In addition, this will help us identify the partner organization you are passionate to work with.
+On the 17-332/17-732/05-332/06-632 Slack workspace, create a new **private** Slack channel that includes all your team members and all of the instructors (Andrew Begel and Neeta Khanuja).
 
-You will have a budget of 1 slide (without animation) to be shown on screen as you give your pitch to the class. Your pitch slide must include:
+Use this Slack channel to collectively decide on a **team name**. Your team name should be unique, pronounceable, short, and something you would be proud to shout in your team cheer on the streets of Pittsburgh in the presence of small, impressionable, multilingual children. Once you have a team name, rename your team Slack channel to `#team-<teamname>`.
 
-1. Project title
-1. Your name
-1. The presentation date: October 8, 2024.
-1. Partner organization you're targeting
-1. Problem being solved
-1. Your solution
+You must use this Slack channel for subsequent project team related discussions or specialized Q&A with your instructors for the rest of the semester.
 
-You may include anything else you would like on the slide. However, be sure to make the slide and your presentation accessible (as we taught you in [HW1](../../homework/HW1/index.md)). As usual, your presentation will be captioned live. 
+Each team will be advised by our TA, Neeta. 
 
-Turn in your pitch slide on Gradescope as a link to Google Slides. Be sure the permissions allow the instructors to access it. We will be copying the contents into a single slide deck for use during the class session. If we cannot copy your slides, we will notify you by DM on Slack the evening prior. You must fix the permissions or you will receive 0 points for the slide portion of the project.
+### Project Deliverables Repositories
 
-## Pitch Presentation
+As you work on your project, you will generate a set of deliverables. You must store these deliverables in appropriate repositories.
 
-Your presentation may only be 2 minutes long. There will be no questions asked. 
+1. Specifications and other written documents must be stored in a Google Drive folder. Create a new Google Drive folder, invite the other team members to it, and be sure to provide view access to all of the course instructors.
+1. Designs and presentations may be developed in a variety of tools, but often in Canva, Figma, Google Slides, or PowerPoint. For anything stored in the cloud, be sure to provide view access to all of the course instructors in addition to your teammates. 
+1. Software code must be stored in a GitHub repository to ensure that it can be versioned and never lost. You should use this repository for all of your developed code. Be sure to use good development practices, including keeping your commits cohesive and your commit messages informative. You must give access to all of the course instructors through their GitHub usernames (abegel and neetakhanuja).
+1. Project management must be done with professional tools like Asana, Trello, Basecamp, Jira, Smartsheet, GitHub Issues, or another tool of your choice. You should create items for feature improvements and bug fixes. You should assign these items to particular team members and tag them with appropriate labels. When making changes to your code repository, you must reference the project management issue you are working on. Be sure that you invite the course instructors to your project management tool.
 
-Pitches will be presented in alphabetical order by the student's last name, starting with 'A'.
+## Main Deliverable
 
-!!! important
-    If you cannot be at class in-person on Tuesday, October 8, with prior instructor permission, you may DM the instructors a pre-recorded 2-minute presentation (using your pitch slide as the background image) of your pitch as a private YouTube video link. Pre-recorded presentations are due Monday, October 7, 11:59pm. If you cannot be sure about your attendance, it's best to pre-record your presentation and send it to us just in case. 
+### Teamwork Contract
 
-Your presentation will be evaluated according to three criteria:
+When working with a team, it is important to discuss each team member’s background, and establish common expectations of the team. Miscommunication or the general lack of communication are the most common causes of team conflict. 
 
-1. **Presentation enthusiasm:** You need to sound like you actually like the idea you are presenting and that you want others to join you. This can come out through affect in your vocal tone or through the words that you speak. Be deliberate and intentional here. Students in the class will evaluate the enthusiasm of the presentations they watch on a handout everyone will receive at the beginning of class.
+!!! note "Team Conflict Example"
+    A common conflict in working style is when there are team members who always want to get a headstart on their work, while there are team members who are fine with doing work a few days before the deadline. It causes panic in the former team members, while the latter team members feel frustrated as to why they are being rushed. 
 
-1. **Explaining the Problem:** You must clearly identify the problem you want to solve, why it is a problem, and why it should be addressed this semester. The instructors will evaluate this criterion.
+As such, your first process task of the semester will be creating a teamwork contract with your teammates. It is a **1 - 2 page** document containing information that all teammates agree to follow. You should work on the contract **with all members present**. We recommend that you keep it to around 1 page, 2 pages is a **hard limit.**
 
-1. **Justifying the Solution:** Your proposed solution should be appropriate to solve the problem and at least appear to be feasible to be completed in 8 weeks by a team of 4-5 students. The instructors will evaluate this criterion.
+Additionally, **it is more important that you only include statements that the team will adhere to** than it is to fulfill the length requirement (quality over quantity!) You do not need to write full sentences (bullet points are okay), but your decisions must be clearly conveyed in the document.
 
-## Deliverables and Deadlines
+You are free to include anything that your team deems necessary, but you should minimally address the following sections:
 
-This is an **individual assignment** with (3) deliverables. This is worth 10% of your project grade.
+1. **Expectations**<br/>
+How much time is each team member expected to be putting into working on projects? Punctuality? How would your team accommodate when unexpected commitments come up for a team member (e.g. interviews, sickness, competitions)?<br/><br/>
+Do account for the fact that project load can get heavier towards the end of the semester.<br/><br/> 
 
-A) **Pitch Slide** - 24 points - due Monday, October 7, 12:00pm
+1. **Communication**<br/>
+What platform (s) will your team be using to communicate? What is the expected time to get a response? <br/><br/>
+For any communication platforms you decide on, please test that everyone can receive notifications. We highly recommend using apps (Slack, Discord) over browser-based sites.<br/><br/>
 
-B) **Pitch Presentation** - 50 points - presented live in class on Tuesday, October 8, 11:00am-12:20pm. 
+1. **Meeting Schedule**<br/>
+When and how will your team meet? What modality would it be? <br/><br/>
+A strong recommendation would be to set up a recurring 1hr meeting blocked out for the rest of the semester, so that your team does not have to scramble to find a common meeting time each week. Teams that have recurring meetings are generally more successful in the class.<br/><br/>
 
-C) **Organization Ranking** - 10 points - fill out this [survey](https://cmu.ca1.qualtrics.com/jfe/form/SV_8jI4hAHsS8QjxYO) by Wednesday, October 9, 12:00pm to express your preference for partner organizations. If you fill this survey out multiple times, we will take the latest submission as your final response. You will find out what team you have been assigned to by 11:00am Thursday, October 10.
+1. **Responsibilities**<br/>
+How will you divide responsibilities for each project? During meetings, who will be in charge of note taking, organizing & running those meetings? <br/><br/>
+Often, a natural project manager will emerge, who will ensure the project moves towards completion. Throughout the semester, we will ask for documentation of your meeting notes, so be sure to keep them organized (we recommend using a shared Drive folder).<br/><br/>
+
+1. **Equitable Contribution & Conflict Resolution**<br/>
+What are the steps the team would take to address teammates who are contributing too little, and when will the team bring this up to the instructors? What are the steps to bring up and discuss potential teamwork issues?<br><br>
+The first thing the staff will ask the student when they mention that they are facing team issues is if they have followed the steps on their team contract.<br><br>
+How will you continue to work in the case of an irresolvable conflict between team members? The partner organization does not care if you like one another. They want to see results. Write down a set of practices you will follow to enable team members in a fight to continue to contribute without interfering with the functioning of the rest of the team.<br><br>
+
+Feel free to seek the assistance of the TA and instructor in drafting this document. 
+
+!!! note
+    We will ask you to reference, reflect upon, and refine this document throughout this semester, and we will evaluate your team's process strategies and interactions through what you outline in this contract. Please ensure that everyone on your team thoroughly discusses each of the above sections and agree with the final decisions.
+
+Once you have completed the contract itself, have all members sign and date the document as an indicator that all members have read the document and agreed to uphold all outlined items. 
+
+We also **highly recommend** that you [bookmark](https://slack.com/help/articles/205239997-Pin-messages-and-bookmark-links) the teamwork contract in your team’s Slack channel.
+
+## Project Ranking
+
+As a team, read through all of the [possible projects](https://docs.google.com/document/d/1DivprEaFN7bmMIK22No1cr_DENjdjR8Y/edit?usp=sharing&ouid=109865303876172948131&rtpof=true&sd=true) offered by our partner organizations. You may do as much Internet research as you like into each organization. Rank your team's preference for projects, numbering your favorite project as number 1 and the project you like the least with the highest number. All projects must be ranked with a positive number in consecutive order.
+
+## Submission
+
+Turn in a PDF of your teamwork contract and a ranked list of projects.
+
+Only one team member needs to make the submission; that person can then add the rest of the teammates as group members in Gradescope to make it a group submission. 
+
+To receive full credit for the teamwork contract, we expect:
+
+- [ ] All sections listed above are addressed in a roughly 1-2 page PDF document submitted to Gradescope
+- [ ] Document demonstrates a clear process outline that was discussed between and agreed upon by the teammates
+- [ ] All group members’ signatures at the end of the document
+- [ ] All projects ranked in order starting from the most favored project numbered 1.
+

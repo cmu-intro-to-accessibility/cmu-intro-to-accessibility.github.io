@@ -80,14 +80,14 @@ nav:
 #      - 'Homework 8 Celebrating Accessibility Essay':
 #          - 'homework/HW8/index.md'
   - Projects:
-      - 'Projects':
-          - 'projects/index.md' # Dummy home page
-#      - '0 Project Overview':
-#          - projects/P0/index.md # Dummy home page; remove once we start adding projects below
+#      - 'Projects':
+#          - 'projects/index.md' # Dummy home page
+      - 'Project Overview':
+          - projects/P0/index.md # Dummy home page; remove once we start adding projects below
 #      - '1 Project Pitches':
 #          - projects/P1/index.md
-#      - '2 Team Contract':
-#          - projects/P2/index.md
+      - '1 Team Contract':
+          - projects/P1/index.md
 #      - '3 Project Specification':
 #          - projects/P3/index.md
 #      - '4 Project Milestone 1':

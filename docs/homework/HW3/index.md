@@ -30,7 +30,7 @@ Once you select the ATs, find first-person accounts (e.g., YouTube videos) of pe
 
 In addition, you should get familiar with how to use the technologies yourself.
 
-Most free screen readers come with tutorials that you should complete before using them with a technology you will [select next](#select-one-example-of-an-interesting-technology-domain). Here is a [quick guide to screen reader commands](https://dequeuniversity.com/screenreaders/survival-guide).
+Most free screen readers come with tutorials that you should complete before using them with a technology you will [select next](#2-select-one-example-of-an-interesting-technology-domain). Here is a [quick guide to screen reader commands](https://dequeuniversity.com/screenreaders/survival-guide).
 
 Some examples of a second AT that you could choose
 
