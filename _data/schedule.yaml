@@ -1,0 +1,1849 @@
+- date: Mon Aug 24
+  homework:
+    deadline: 'Mon Aug 31'
+    link: 'homework/HW1'
+    name: 'HW1 - Accessible Presentations'
+    numDays: 5
+  project:
+    deadline: 'Mon Aug 31'
+    link: 'https://bit.ly/accessibility-teamwork-survey'
+    name: 'P0 - Skills and Team Survey'
+    numDays: 5
+  lecture:
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/01-Introduction.pdf'
+    name: 'Course Introduction'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Aug 25
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Aug 26
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/02-disability.pdf'
+    name: 'Disabilities'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Aug 27
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Aug 28
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Aug 31
+  homework:
+    deadline: 'Fri Sep 4'
+    link: 'homework/HW2'
+    name: 'HW2 - Disability Deep Dive'
+    numDays: 5
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/03-models-of-disability.pdf'
+    name: 'Models of Disability'
+  readings:
+    - { link: 'https://dl.acm.org/doi/10.1145/1878803.1878807', name: 'Mankoff et al. 2010 - Disability studies as a source of critical inquiry for the field of assistive technology' }
+    - { link: 'https://canvas.cmu.edu/courses/54207/files?preview=14483174', name: 'What do we mean by accessibility research?' }
+    - { link: 'https://make4all.org/wp-content/uploads/3373625.3416996.pdf', name: 'Living Disability Theory: Reflections on Access, Research, and Design' }
+    - { link: 'https://www.ncbi.nlm.nih.gov/books/NBK613292/', name: 'Common Measures of Disability' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Sep 01
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Sep 02
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/04-accessibility-tech-stack.pdf'
+    name: 'Accessibility Tech Stack'
+  reading:
+    link: ''
+    name: ''
+  readings:
+    - { link: 'https://www.w3.org/WAI/standards-guidelines/wcag/', name: 'Web Content Accessibility Guidelines (WCAG 2)' }
+    - { link: 'https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/', name: 'WCAG 3 Draft' }
+    - { link: 'https://www.w3.org/WAI/standards-guidelines/aria/', name: 'Accessible Rich Internet Applications (WAI-ARIA)' }
+    - { link: 'https://jessijokes.medium.com/one-button-to-rule-them-all-465e294cba82', name: 'One Button to Rule Them All: Making Accessible Buttons' }
+    - { link: 'https://www.youtube.com/watch?v=dEbl5jvLKGQ', name: 'Screen Reader Demo for Digital Accessibility' }
+    - { link: 'https://accessible.org/ada-title-ii-web-accessibility/', name: 'New ADA Title II Rule on Web Accessibility: Fact Sheet Guide' }
+    - { link: 'https://media.dequeuniversity.com/en/docs/screen-readers-and-input-methods/nvda-guide.pdf', name: 'Quick Reference Guide: NVDA for Windows Keyboard Commands'}
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Sep 03
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Sep 04
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Sep 07
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'NO CLASS - LABOR DAY'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Sep 08
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Sep 09
+  homework:
+    deadline: 'Wed Sep 16'
+    link: ''
+    name: 'HW3 - Accessibility Checking'
+    numDays: 5
+  project:
+    deadline: 'Mon Sep 14'
+    link: ''
+    name: 'P1 - Team Formation / Team Contract'
+    numDays: 3
+  lecture:
+    link: ''
+    name: 'Web Accessibility'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Sep 10
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Sep 11
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Sep 14
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: 'Mon Sep 21'
+    link: ''
+    name: 'P2 - Project Investigation'
+    numDays: 5
+  lecture:
+    link: ''
+    name: 'Assistive Technologies for Sight'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Sep 15
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Sep 16
+  homework:
+    deadline: 'Wed Sep 23'
+    link: ''
+    name: 'HW4 - Try Out Assistive Technology'
+    numDays: 5
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Guest Lecturer - Peya Mowar - Making PDFs Accessible with AI'
+  reading:
+    link: 'https://peyajm29.github.io/itagpdf.html'
+    name: 'Mowar et al. -iTagPDF: Towards Finally Automating PDF Accessibility'
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Sep 17
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Sep 18
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Sep 21
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: 'Fri Oct 9'
+    link: ''
+    name: 'P3 - Project Specification + Human Subjects Review'
+    numDays: 15
+  lecture:
+    link: ''
+    name: 'Assistive Technologies for Hearing and Speaking'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Sep 22
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Sep 23
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Assistive Technologies for Cognition and Communication'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Sep 24
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Sep 25
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Sep 28
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Assistive Technologies for Mobility'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Sep 29
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Sep 30
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Mobile and Desktop Accessibility'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Oct 01
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Oct 02
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Oct 05
+  homework:
+    deadline: 'Fri Oct 9'
+    link: ''
+    name: 'HW5 - Assistive Technology AI Upgrade'
+    numDays: 5
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'AI-Powered Assistive Technologies'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Oct 06
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Oct 07
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Ethical Design Methods'
+  reading:
+    link: 'https://blog.castac.org/2022/04/disability-dongle/'
+    name: 'Disability Dongle'
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Oct 08
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Oct 09
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Oct 12
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'NO CLASS - FALL BREAK'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Oct 13
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Oct 14
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'NO CLASS - FALL BREAK'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Oct 15
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Oct 16
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Oct 19
+  homework:
+    deadline: 'Mon Nov 2'
+    link: ''
+    name: 'HW6 - Accessibly Design with AI'
+    numDays: 10
+  project:
+    deadline: 'Mon Nov 2'
+    link: ''
+    name: 'P4 - Project Milestone 1'
+    numDays: 10
+  lecture:
+    link: ''
+    name: 'Making Software Development Accessible'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Oct 20
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Oct 21
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Enjoying Life (Travel, Cooking, Exercise, Dating)'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Oct 22
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Oct 23
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Oct 26
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Guest Lecturer (TBD)'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Oct 27
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Oct 28
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Guest Lecturer - Aaron Steinfeld - Transportation Accessibility'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Oct 29
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Oct 30
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Nov 02
+  homework:
+    deadline: 'Mon Nov 16'
+    link: ''
+    name: 'HW7 - Assistive Technology All Around Us'
+    numDays: 10
+  project:
+    deadline: 'Mon Nov 16'
+    link: ''
+    name: 'P5 - Project Milestone 2'
+    numDays: 10
+  lecture:
+    link: ''
+    name: 'Civic Infrastructure (Transportation, Housing, Museums, Libraries, Architecture)'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Nov 03
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Nov 04
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Do-It-Yourself Assistive Technology'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Nov 05
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Nov 06
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Nov 09
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Guest Lecturer - Patrick Carrington'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Nov 10
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Nov 11
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Guest Lecturer (TBD)'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Nov 12
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Nov 13
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Nov 16
+  homework:
+    deadline: 'Wed Nov 25'
+    link: ''
+    name: 'HW8 - Lived Experiences with Disability'
+    numDays: 7
+  project:
+    deadline: 'Mon Nov 30'
+    link: ''
+    name: 'P6 - Project Milestone 3'
+    numDays: 10
+  lecture:
+    link: ''
+    name: 'History of Disability, Policy, and Advocacy'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Nov 17
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Nov 18
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'AI-Powered Bias Against Disability'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Nov 19
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Nov 20
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Nov 23
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Employment'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Nov 24
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Nov 25
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Education'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Nov 26
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Nov 27
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Nov 30
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: 'Wed Dec 2'
+    link: ''
+    name: 'P7 - Final Presentations'
+    numDays: 2
+  lecture:
+    link: ''
+    name: 'Course Review and Reflection'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Dec 01
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Dec 02
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Final Project Presentations and Celebration'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Dec 03
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Dec 04
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Dec 07
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'FINALS WEEK - NO CLASS'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Dec 08
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Dec 09
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Dec 10
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Dec 11
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''

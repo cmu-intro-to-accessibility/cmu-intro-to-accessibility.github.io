@@ -1,0 +1,4104 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+        <link rel="next" href="overview/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="assets/human-rainbow-infinity-favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology - CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+<link rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="stylesheets/custom.css">
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="custom" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#cmu-17-332732-05-332632-introduction-to-accessibility-and-assistive-technology" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology" class="md-header__button md-logo" aria-label="CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology" data-md-component="logo">
+      
+  <img src="assets/images/accessibility-class-logo.jpg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="custom" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="overview/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Course Overview
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="syllabus/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Syllabus
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="homework/HW1/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Homework
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="projects/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Projects
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="_old/f24/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Prior Offerings
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://canvas.cmu.edu/courses/54207" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Canvas
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://www.gradescope.com/courses/1347981" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Gradescope
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://join.slack.com/t/cmuintroducti-uxw5117/shared_invite/zt-477rgd5qt-5DxmtPYyNms34nYtbtbwYA" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Slack
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology" class="md-nav__button md-logo" aria-label="CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology" data-md-component="logo">
+      
+  <img src="assets/images/accessibility-class-logo.jpg" alt="logo">
+
+    </a>
+    CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="On This Page">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      On This Page
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#this-week" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        This Week
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#class-calendar" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Class Calendar
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#weekly-schedule" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Weekly Schedule
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#staff" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Staff
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Staff">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#instructors" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Instructors
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#teaching-assistants" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Teaching Assistants
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Course Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="syllabus/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Syllabus
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="homework/HW1/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 1 Accessible Documents
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 1 Accessible Documents
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_1_2" id="__nav_4_1_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Parts
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Parts
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="homework/HW1/1_pdf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 1A: Create an Accessible PDF
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="homework/HW1/2_presentation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 1B: Create an Accessible Presentation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="homework/HW2/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 2 Disability Deep Dive
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 2 Disability Deep Dive
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Projects
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Projects
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="projects/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Projects
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Projects
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Prior Offerings
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Prior Offerings
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_1" id="__nav_6_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fall 2024
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Fall 2024
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="_old/f24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    None
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://canvas.cmu.edu/courses/54207" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Canvas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.gradescope.com/courses/1347981" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gradescope
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://join.slack.com/t/cmuintroducti-uxw5117/shared_invite/zt-477rgd5qt-5DxmtPYyNms34nYtbtbwYA" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Slack
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="On This Page">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      On This Page
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#this-week" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        This Week
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#class-calendar" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Class Calendar
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#weekly-schedule" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Weekly Schedule
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#staff" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Staff
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Staff">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#instructors" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Instructors
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#teaching-assistants" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Teaching Assistants
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+
+
+
+
+<h1 id="cmu-17-332732-05-332632-introduction-to-accessibility-and-assistive-technology">CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology<a class="headerlink" href="#cmu-17-332732-05-332632-introduction-to-accessibility-and-assistive-technology" title="Permanent link">&para;</a></h1>
+<h2 id="this-week">This Week<a class="headerlink" href="#this-week" title="Permanent link">&para;</a></h2>
+<div id="this-week"><div class="card"> 
+    <div class="header">
+        Lectures & Readings
+    </div>
+    <div class="content">
+
+
+                <div class="lecture-name">
+                    Models of Disability
+                </div>
+                <div class="lecture-date">
+                    <span class="material-symbols-outlined">calendar_month</span> 
+                    Mon Aug 31
+                </div>
+
+
+                <a class="label label-gold" href="https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/03-models-of-disability.pdf" target="_blank">
+                    <span class="material-symbols-outlined">slideshow</span>
+                    Slides
+                </a>
+
+
+
+
+
+                            <a class="label label-blue" href="https://dl.acm.org/doi/10.1145/1878803.1878807" target="_blank">
+                            <span class="material-symbols-outlined">link</span>
+                            Mankoff et al. 2010 - Disability studies as a source of critical inquiry for the field of assistive technology
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://canvas.cmu.edu/courses/54207/files?preview=14483174" target="_blank">
+                            <span class="material-symbols-outlined">link</span>
+                            What do we mean by accessibility research?
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://make4all.org/wp-content/uploads/3373625.3416996.pdf" target="_blank">
+                            <span class="material-symbols-outlined">link</span>
+                            Living Disability Theory: Reflections on Access, Research, and Design
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://www.ncbi.nlm.nih.gov/books/NBK613292/" target="_blank">
+                            <span class="material-symbols-outlined">link</span>
+                            Common Measures of Disability
+                            </a><br/>
+
+
+
+
+                <hr/>
+
+
+                <div class="lecture-name">
+                    Accessibility Tech Stack
+                </div>
+                <div class="lecture-date">
+                    <span class="material-symbols-outlined">calendar_month</span> 
+                    Wed Sep 02
+                </div>
+
+
+                <a class="label label-gold" href="https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/04-accessibility-tech-stack.pdf" target="_blank">
+                    <span class="material-symbols-outlined">slideshow</span>
+                    Slides
+                </a>
+
+
+
+
+
+                            <a class="label label-blue" href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank">
+                            <span class="material-symbols-outlined">link</span>
+                            Web Content Accessibility Guidelines (WCAG 2)
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/" target="_blank">
+                            <span class="material-symbols-outlined">link</span>
+                            WCAG 3 Draft
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://www.w3.org/WAI/standards-guidelines/aria/" target="_blank">
+                            <span class="material-symbols-outlined">link</span>
+                            Accessible Rich Internet Applications (WAI-ARIA)
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://jessijokes.medium.com/one-button-to-rule-them-all-465e294cba82" target="_blank">
+                            <span class="material-symbols-outlined">link</span>
+                            One Button to Rule Them All: Making Accessible Buttons
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://www.youtube.com/watch?v=dEbl5jvLKGQ" target="_blank">
+                            <span class="material-symbols-outlined">link</span>
+                            Screen Reader Demo for Digital Accessibility
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://accessible.org/ada-title-ii-web-accessibility/" target="_blank">
+                            <span class="material-symbols-outlined">link</span>
+                            New ADA Title II Rule on Web Accessibility: Fact Sheet Guide
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://media.dequeuniversity.com/en/docs/screen-readers-and-input-methods/nvda-guide.pdf" target="_blank">
+                            <span class="material-symbols-outlined">link</span>
+                            Quick Reference Guide: NVDA for Windows Keyboard Commands
+                            </a><br/>
+
+
+
+
+
+
+    </div>
+
+</div>
+
+<div class="card"> 
+
+    <div class="header">
+        Office Hours
+    </div>
+    <div class="content">
+        Andrew's office hours are held in his office TCS 441.<p>
+        See <a href="#class-calendar">class calendar</a> below for exact times!
+    </div>
+
+</div>
+
+<div class="card"> 
+    <div class="header">
+        Projects
+    </div>
+    <div class="content">
+
+
+                <div class="homework-name">
+                    HW2 - Disability Deep Dive
+                </div>
+
+                <div class="homework-date">
+                    <span class="material-symbols-outlined">calendar_month</span>
+                    Released Mon Aug 31
+                </div>
+
+
+                <div class="homework-date">
+                    <span class="material-symbols-outlined">calendar_month</span>
+                    Due Fri Sep 4
+                </div>
+
+
+
+                <a class="label label-red" href="homework/HW2">
+                    <span class="material-symbols-outlined">description</span>Handout
+                </a>
+
+
+
+
+    </div>
+
+</div>
+
+</div>
+
+<h2 id="class-calendar">Class Calendar<a class="headerlink" href="#class-calendar" title="Permanent link">&para;</a></h2>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&mode=WEEK&src=Y18zMmRjZDMzNWM3ZjQ2Njg4OTg0MjU1NDU3MGIyODFjYmQ5MGNlMzExMDUyNWUwZDA2YjMwM2E3NGQ5ZjY2OWZmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23795548" style="border-width:0" width="1000" height="600" frameborder="0" scrolling="no"></iframe>
+
+<h2 id="weekly-schedule">Weekly Schedule<a class="headerlink" href="#weekly-schedule" title="Permanent link">&para;</a></h2>
+<div id="schedule">
+<!-- Loading in schedule from schedule.yaml -->
+<table>
+    <thead>
+        <th><b>Date</b></th>
+        <th><b>Lecture</b></th>
+        <th><b>Readings</b></th>
+        <th><b>Homework</b></th>
+        <th><b>Project</b></th>
+    </thead>
+    <tbody>
+
+        <tr>
+            <td><span class="schedule-day">Mon Aug 24</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <a class="label label-gold" href="https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/01-Introduction.pdf" target="_blank">
+                        Course Introduction
+                    </a>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+                <td rowspan="5"><span class="schedule-homework">
+                    <b>HW1 - Accessible Presentations</b>
+                    <br/>
+                    Due: Mon Aug 31
+                    <br/>
+
+
+                    <a class="label label-red" href="homework/HW1">
+                        <span class="material-symbols-outlined">description</span>Handout
+                    </a>
+
+                </span></td>
+
+
+
+
+                <td rowspan="5"><span class="schedule-project">
+                    <b>P0 - Skills and Team Survey</b>
+                    <br/>
+                    Due: Mon Aug 31
+                    <br/>
+
+
+                    <a class="label label-red" href="https://bit.ly/accessibility-teamwork-survey">
+                        <span class="material-symbols-outlined">description</span>Handout
+                    </a>
+
+                </span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Aug 25</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Aug 26</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <a class="label label-gold" href="https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/02-disability.pdf" target="_blank">
+                        Disabilities
+                    </a>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Aug 27</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Aug 28</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Aug 31</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <a class="label label-gold" href="https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/03-models-of-disability.pdf" target="_blank">
+                        Models of Disability
+                    </a>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+                            <a class="label label-blue" href="https://dl.acm.org/doi/10.1145/1878803.1878807" target="_blank">
+                            Mankoff et al. 2010 - Disability studies as a source of critical inquiry for the field of assistive technology
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://canvas.cmu.edu/courses/54207/files?preview=14483174" target="_blank">
+                            What do we mean by accessibility research?
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://make4all.org/wp-content/uploads/3373625.3416996.pdf" target="_blank">
+                            Living Disability Theory: Reflections on Access, Research, and Design
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://www.ncbi.nlm.nih.gov/books/NBK613292/" target="_blank">
+                            Common Measures of Disability
+                            </a><br/>
+
+
+
+            </span></td>
+
+
+                <td rowspan="5"><span class="schedule-homework">
+                    <b>HW2 - Disability Deep Dive</b>
+                    <br/>
+                    Due: Fri Sep 4
+                    <br/>
+
+
+                    <a class="label label-red" href="homework/HW2">
+                        <span class="material-symbols-outlined">description</span>Handout
+                    </a>
+
+                </span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Sep 01</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Sep 02</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <a class="label label-gold" href="https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/04-accessibility-tech-stack.pdf" target="_blank">
+                        Accessibility Tech Stack
+                    </a>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+                            <a class="label label-blue" href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank">
+                            Web Content Accessibility Guidelines (WCAG 2)
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://www.w3.org/WAI/standards-guidelines/wcag/wcag3-intro/" target="_blank">
+                            WCAG 3 Draft
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://www.w3.org/WAI/standards-guidelines/aria/" target="_blank">
+                            Accessible Rich Internet Applications (WAI-ARIA)
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://jessijokes.medium.com/one-button-to-rule-them-all-465e294cba82" target="_blank">
+                            One Button to Rule Them All: Making Accessible Buttons
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://www.youtube.com/watch?v=dEbl5jvLKGQ" target="_blank">
+                            Screen Reader Demo for Digital Accessibility
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://accessible.org/ada-title-ii-web-accessibility/" target="_blank">
+                            New ADA Title II Rule on Web Accessibility: Fact Sheet Guide
+                            </a><br/>
+
+
+
+                            <a class="label label-blue" href="https://media.dequeuniversity.com/en/docs/screen-readers-and-input-methods/nvda-guide.pdf" target="_blank">
+                            Quick Reference Guide: NVDA for Windows Keyboard Commands
+                            </a><br/>
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Sep 03</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Sep 04</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Sep 07</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>NO CLASS - LABOR DAY</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Sep 08</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Sep 09</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Web Accessibility</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+                <td rowspan="5"><span class="schedule-homework">
+                    <b>HW3 - Accessibility Checking</b>
+                    <br/>
+                    Due: Wed Sep 16
+                    <br/>
+
+
+                </span></td>
+
+
+
+
+                <td rowspan="3"><span class="schedule-project">
+                    <b>P1 - Team Formation / Team Contract</b>
+                    <br/>
+                    Due: Mon Sep 14
+                    <br/>
+
+
+                </span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Sep 10</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Sep 11</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Sep 14</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Assistive Technologies for Sight</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+                <td rowspan="5"><span class="schedule-project">
+                    <b>P2 - Project Investigation</b>
+                    <br/>
+                    Due: Mon Sep 21
+                    <br/>
+
+
+                </span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Sep 15</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Sep 16</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Guest Lecturer - Peya Mowar - Making PDFs Accessible with AI</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+                <td rowspan="5"><span class="schedule-homework">
+                    <b>HW4 - Try Out Assistive Technology</b>
+                    <br/>
+                    Due: Wed Sep 23
+                    <br/>
+
+
+                </span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Sep 17</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Sep 18</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Sep 21</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Assistive Technologies for Hearing and Speaking</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+                <td rowspan="15"><span class="schedule-project">
+                    <b>P3 - Project Specification + Human Subjects Review</b>
+                    <br/>
+                    Due: Fri Oct 9
+                    <br/>
+
+
+                </span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Sep 22</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Sep 23</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Assistive Technologies for Cognition and Communication</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Sep 24</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Sep 25</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Sep 28</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Assistive Technologies for Mobility</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Sep 29</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Sep 30</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Mobile and Desktop Accessibility</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Oct 01</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Oct 02</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Oct 05</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>AI-Powered Assistive Technologies</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+                <td rowspan="5"><span class="schedule-homework">
+                    <b>HW5 - Assistive Technology AI Upgrade</b>
+                    <br/>
+                    Due: Fri Oct 9
+                    <br/>
+
+
+                </span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Oct 06</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Oct 07</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Ethical Design Methods</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Oct 08</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Oct 09</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Oct 12</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>NO CLASS - FALL BREAK</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Oct 13</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Oct 14</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>NO CLASS - FALL BREAK</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Oct 15</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Oct 16</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Oct 19</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Making Software Development Accessible</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+                <td rowspan="10"><span class="schedule-homework">
+                    <b>HW6 - Accessibly Design with AI</b>
+                    <br/>
+                    Due: Mon Nov 2
+                    <br/>
+
+
+                </span></td>
+
+
+
+
+                <td rowspan="10"><span class="schedule-project">
+                    <b>P4 - Project Milestone 1</b>
+                    <br/>
+                    Due: Mon Nov 2
+                    <br/>
+
+
+                </span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Oct 20</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Oct 21</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Enjoying Life (Travel, Cooking, Exercise, Dating)</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Oct 22</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Oct 23</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Oct 26</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Guest Lecturer (TBD)</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Oct 27</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Oct 28</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Guest Lecturer - Aaron Steinfeld - Transportation Accessibility</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Oct 29</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Oct 30</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Nov 02</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Civic Infrastructure (Transportation, Housing, Museums, Libraries, Architecture)</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+                <td rowspan="10"><span class="schedule-homework">
+                    <b>HW7 - Assistive Technology All Around Us</b>
+                    <br/>
+                    Due: Mon Nov 16
+                    <br/>
+
+
+                </span></td>
+
+
+
+
+                <td rowspan="10"><span class="schedule-project">
+                    <b>P5 - Project Milestone 2</b>
+                    <br/>
+                    Due: Mon Nov 16
+                    <br/>
+
+
+                </span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Nov 03</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Nov 04</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Do-It-Yourself Assistive Technology</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Nov 05</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Nov 06</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Nov 09</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Guest Lecturer - Patrick Carrington</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Nov 10</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Nov 11</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Guest Lecturer (TBD)</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Nov 12</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Nov 13</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Nov 16</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>History of Disability, Policy, and Advocacy</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+                <td rowspan="7"><span class="schedule-homework">
+                    <b>HW8 - Lived Experiences with Disability</b>
+                    <br/>
+                    Due: Wed Nov 25
+                    <br/>
+
+
+                </span></td>
+
+
+
+
+                <td rowspan="10"><span class="schedule-project">
+                    <b>P6 - Project Milestone 3</b>
+                    <br/>
+                    Due: Mon Nov 30
+                    <br/>
+
+
+                </span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Nov 17</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Nov 18</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>AI-Powered Bias Against Disability</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Nov 19</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Nov 20</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Nov 23</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Employment</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Nov 24</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Nov 25</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Education</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Nov 26</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Nov 27</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Nov 30</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Course Review and Reflection</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+                <td rowspan="2"><span class="schedule-project">
+                    <b>P7 - Final Presentations</b>
+                    <br/>
+                    Due: Wed Dec 2
+                    <br/>
+
+
+                </span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Dec 01</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Dec 02</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>Final Project Presentations and Celebration</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Dec 03</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Dec 04</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Mon Dec 07</span></td>
+
+            <td><span class="schedule-lecture">
+
+                    <b>FINALS WEEK - NO CLASS</b>
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Tue Dec 08</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Wed Dec 09</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Thu Dec 10</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+        <tr>
+            <td><span class="schedule-day">Fri Dec 11</span></td>
+
+            <td><span class="schedule-lecture">
+
+            </span></td>
+
+            <td><span class="schedule-reading">
+
+
+
+            </span></td>
+
+
+
+                    <td><span class="schedule-homework"></span></td>
+
+
+
+
+
+                    <td><span class="schedule-project"></span></td>
+
+
+        </tr>
+
+    </tbody>
+
+</table>
+</div>
+<h2 id="staff">Staff<a class="headerlink" href="#staff" title="Permanent link">&para;</a></h2>
+<h3 id="instructors">Instructors<a class="headerlink" href="#instructors" title="Permanent link">&para;</a></h3>
+<div id="course-instructors">
+<div class="staffer card"> 
+    <div class="container">
+        <img class="staffer-image" src="/assets/images/abegel.jpg" alt="">
+        <div>
+            <h3 class="staffer-name"> 
+                Andrew Begel
+            </h3>
+            <div class="staffer-links">
+                <a href="mailto:abegel@cmu.edu"><span class="material-symbols-outlined">
+                    mail
+                </span></a>
+
+                <a href="https://andrewbegel.com/" target="_blank"><span class="material-symbols-outlined">
+                    public
+                </span></a>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+
+<h3 id="teaching-assistants">Teaching Assistants<a class="headerlink" href="#teaching-assistants" title="Permanent link">&para;</a></h3>
+<div id="course-assistants">
+
+
+
+<div class="staffer card"> 
+    <div class="container">
+        <img class="staffer-image" src="/assets/images/neetakhanuja.jpg" alt="">
+        <div>
+            <h3 class="staffer-name"> 
+                Neeta Khanuja
+            </h3>
+            <div class="staffer-links">
+                <a href="mailto:nkhanuja@andrew.cmu.edu"><span class="material-symbols-outlined">
+                    mail
+                </span></a>
+
+                <a href="https://hcii.cmu.edu/people/neeta-khanuja" target="_blank"><span class="material-symbols-outlined">
+                    public
+                </span></a>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+<footer class="md-footer">
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": ".", "features": ["navigation.tabs", "navigation.top", "navigation.tracking", "navigation.indexes", "announce.dismiss"], "search": "assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

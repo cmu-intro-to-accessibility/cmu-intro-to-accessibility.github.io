@@ -1,0 +1,22 @@
+lectures:
+- date: Tue Aug 27
+  link: lectures/01-Introduction.pdf
+  name: Course Introduction
+- date: Thu Aug 29
+  link: lectures/02-disability.pdf
+  name: Disabilities Part 1
+  readings:
+  - link: https://canvas.cmu.edu/courses/42586/files/11475594?wrap=1
+    name: What do we mean by "Accessibility" research?
+  - link: https://canvas.cmu.edu/courses/42586/files/11475605?wrap=1
+    name: The Harm in Conflating Aging with Accessibility
+
+projects:
+- date: Mon Aug 26
+  deadline: September 5, 2024
+  end_date: 2025-09-08 00:00:00
+  link: homework/HW1
+  name: HW1 - Accessible Documents and Presentations / Team Formation Skills Survey
+  numDays: 9
+
+recitation: null
