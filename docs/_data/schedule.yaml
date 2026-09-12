@@ -361,7 +361,7 @@
     numDays: 0
   project:
     deadline: 'Mon Sep 21'
-    link: ''
+    link: 'projects/P2'
     name: 'P2 - Project Investigation'
     numDays: 5
   lecture:

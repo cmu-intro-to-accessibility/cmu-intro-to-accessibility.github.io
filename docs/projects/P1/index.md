@@ -1,6 +1,6 @@
 # Project 1: Team Formation / Team Contract
 
-This homework is worth 84 points.
+This homework is worth 42 points.
 
 It should be done as a team. 
 
