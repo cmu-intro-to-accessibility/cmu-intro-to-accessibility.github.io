@@ -60,9 +60,8 @@ Evaluation will be based on the following distribution:
 
 | Project | # Days Given | Points | % of project grade |  % of total grade |
 | --- | --- | --- | --- | --- |
-| P0 | 7 | 0 | 0% | 0% |
-| P1 | 12  | 84 | 10% | 3% |
-| P2 | 3 | 42 | 5% | 2% |
+| P1 | 3  | 42 | 5% | 2% |
+| P2 | 12 | 84 | 10% | 3% |
 | P3 | 14 | 168 | 20% | 6% |
 | P4 | 21 | 168 | 20% | 6% |
 | P5 | 12 | 168 | 20% | 6% |
