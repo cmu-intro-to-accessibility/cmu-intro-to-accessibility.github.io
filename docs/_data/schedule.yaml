@@ -1390,10 +1390,10 @@
 
 - date: Mon Nov 16
   homework:
-    deadline: 'Wed Nov 25'
+    deadline: 'Tues Nov 24'
     link: ''
     name: 'HW8 - Lived Experiences with Disability'
-    numDays: 7
+    numDays: 6
   project:
     deadline: 'Mon Nov 30'
     link: ''
@@ -1516,7 +1516,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Employment'
+    name: 'Education and Employment'
   reading:
     link: ''
     name: ''
@@ -1562,7 +1562,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Education'
+    name: ''
   reading:
     link: ''
     name: ''

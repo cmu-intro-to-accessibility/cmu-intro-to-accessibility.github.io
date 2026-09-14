@@ -53,7 +53,7 @@ Evaluation will be based on the following distribution:
 | HW5 | 5 | 100 | 9% | 4.5%
 | HW6 | 14 | 200 | 18% | 9% |
 | HW7 | 14  | 200 | 18% | 9% |
-| HW8 | 9  | 200 | 18% | 9% |
+| HW8 | 8  | 200 | 18% | 9% |
 |   **TOTAL** |   | 1100 | 100% | 50% | 
 
 **Project Points Breakdown (tentative)**
