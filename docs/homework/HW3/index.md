@@ -146,6 +146,8 @@ Write a reflection essay, using one paragraph to explain each of the following b
 1. What did you learn while using each AT with the example technology? (Write one paragraph for each AT experience).
 1. A reference list of all sources you cited in the essay in APA format. 
 
+This means every bullet above gets at least one paragraph of text (i.e. AT1: 1a, AT 1: 1b, AT1: 1.c.i, AT1: 1.c.ii. AT 1: 1.c.iii., AT2: 1a, AT2: 1b, AT2: 1.c.i, AT2: 1.c.ii., AT2: 1.c.iii, 2a, 2b, 2c, AT1: 3, AT2: 3, 4).
+
 Remember to properly cite your sources! See [HW2](../HW2/index.md) for more information on how to do this.
 
 ## Submission
