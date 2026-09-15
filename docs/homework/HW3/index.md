@@ -130,7 +130,7 @@ For each AT, record a 5-minute video showing you using the AT with each website,
 
 ### 4. Reflect on your experience
 
-Write a reflection essay, using one paragraph to explain each of the following
+Write a reflection essay, using one paragraph to explain each of the following bullet points:
 
 1. For each AT you selected (reminder, one must be a screen reader)
     1. Explain how it works and describe its strengths and weaknesses
