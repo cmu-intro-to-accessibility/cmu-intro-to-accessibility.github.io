@@ -1,0 +1,23 @@
+lectures:
+- date: Mon Sep 14
+  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/06-web-accessibility.pdf
+  name: Web Accessibility
+- date: Wed Sep 16
+  link: ''
+  name: Guest Lecturer - Peya Mowar - Making PDFs Accessible with AI
+
+projects:
+- date: Wed Sep 09
+  deadline: Wed Sep 16
+  end_date: 2026-09-16 00:00:00
+  link: homework/HW3
+  name: HW3 - Try Out Assistive Technology
+  numDays: 5
+- date: Wed Sep 16
+  deadline: Wed Sep 23
+  end_date: 2026-09-23 00:00:00
+  link: homework/HW4
+  name: HW4 - Accessibility Evaluation
+  numDays: 5
+
+recitation: null

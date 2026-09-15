@@ -1,0 +1,1884 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../HW2/">
+      
+      
+        <link rel="next" href="../HW4/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/human-rainbow-infinity-favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>Homework 3: Try Out Assistive Technology - CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+<link rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/custom.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="custom" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#homework-3-try-out-assistive-technology" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology" class="md-header__button md-logo" aria-label="CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology" data-md-component="logo">
+      
+  <img src="../../assets/images/accessibility-class-logo.jpg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Homework 3: Try Out Assistive Technology
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="custom" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../overview/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Course Overview
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../syllabus/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Syllabus
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../HW1/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Homework
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../projects/P0/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Projects
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../_old/f24/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Prior Offerings
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://canvas.cmu.edu/courses/54207" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Canvas
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://www.gradescope.com/courses/1347981" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Gradescope
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://join.slack.com/t/cmuintroducti-uxw5117/shared_invite/zt-477rgd5qt-5DxmtPYyNms34nYtbtbwYA" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Slack
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology" class="md-nav__button md-logo" aria-label="CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology" data-md-component="logo">
+      
+  <img src="../../assets/images/accessibility-class-logo.jpg" alt="logo">
+
+    </a>
+    CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Course Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../syllabus/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Syllabus
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../HW1/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 1: Accessible Documents
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 1: Accessible Documents
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_1_2" id="__nav_4_1_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Parts
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Parts
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../HW1/1_pdf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 1A: Create an Accessible PDF
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../HW1/2_presentation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 1B: Create an Accessible Presentation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../HW2/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 2: Disability Deep Dive
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 2: Disability Deep Dive
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="./" class="md-nav__link md-nav__link--active">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 3: Try Out Assistive Technology
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 3: Try Out Assistive Technology
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../HW4/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 4: Accessibility Evaluation
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 4: Accessibility Evaluation
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Projects
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Projects
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../projects/P0/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Project Overview
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Project Overview
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../projects/P1/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1. Team Contract
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    1. Team Contract
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../projects/P2/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2. Project Investigation
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2. Project Investigation
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Prior Offerings
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Prior Offerings
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_1" id="__nav_6_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fall 2024
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Fall 2024
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../_old/f24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    None
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://canvas.cmu.edu/courses/54207" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Canvas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.gradescope.com/courses/1347981" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gradescope
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://join.slack.com/t/cmuintroducti-uxw5117/shared_invite/zt-477rgd5qt-5DxmtPYyNms34nYtbtbwYA" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Slack
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="On This Page">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      On This Page
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#learning-goals" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Learning Goals
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#project-context" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Project Context
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#instructions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Instructions
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Instructions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-select-two-accessibility-technologies-ats-and-try-out-their-tutorials" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Select two accessibility technologies (ATs) and try out their tutorials.
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-select-one-example-of-an-interesting-technology-domain" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Select one example of an interesting technology domain
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-try-it-out" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Try it out
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-reflect-on-your-experience" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Reflect on your experience
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#submission" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Submission
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="homework-3-try-out-assistive-technology">Homework 3: Try Out Assistive Technology<a class="headerlink" href="#homework-3-try-out-assistive-technology" title="Permanent link">&para;</a></h1>
+<p>This homework is worth 100 points.</p>
+<p>It should be done individually. </p>
+<p>HW3 is due on Gradescope on Wednesday, September 16, 2026 11:00am ET.</p>
+<h2 id="learning-goals">Learning Goals<a class="headerlink" href="#learning-goals" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Gain experience with using common accessibility technologies to access common technology products. </li>
+<li>Try out two accessibility technologies on technology of interest.</li>
+</ul>
+<h2 id="project-context">Project Context<a class="headerlink" href="#project-context" title="Permanent link">&para;</a></h2>
+<p>Many assistive technologies exist to help people with disabilities adapt computer technologies for their access needs. Some of these relate to their senses (e.g., blind or low vision individuals may use a screen reader to access a GUI) and others relate to their motor capabilities (e.g., a person with quadrapelegia may use a sip-and-puff device to control a computer with two switches/buttons). </p>
+<p>Newcomers like you will find these technologies strange and unusual. You will probably become frustrated and angry at how difficult they are to use to accomplish your goals. This is ok because <em>you are not your user</em>. As a designer, learning how to empathize with your user is a key skill to help you design for their needs. And, it shows that while it is fairly easy to spot the barriers people with different abilities have when using interfaces designed for non-disabled people, it is a wholly different challenge to figure out how to reduce these barriers. </p>
+<h2 id="instructions">Instructions<a class="headerlink" href="#instructions" title="Permanent link">&para;</a></h2>
+<h3 id="1-select-two-accessibility-technologies-ats-and-try-out-their-tutorials">1. Select two accessibility technologies (ATs) and try out their tutorials.<a class="headerlink" href="#1-select-two-accessibility-technologies-ats-and-try-out-their-tutorials" title="Permanent link">&para;</a></h3>
+<p>When selecting your AT, ensure that </p>
+<ol>
+<li>The technologies you choose are intermediaries between a disabled user and some website, app or other technology. For example, a screen reader works with any accessibly designed website, or app.</li>
+<li>One must be a screen reader (there are many that are freely available). The other should be substantially different, i.e., address different accessibility needs. For example, VoiceOver and NVDA are too similar because they are both screen readers. VoiceOver and Adobe's Read Out Loud feature are too similar because the screen reader provides a strict superset of the reader's features. </li>
+</ol>
+<p>Once you select the ATs, find first-person accounts (e.g., YouTube videos) of people using them and watch them.</p>
+<p>In addition, you should get familiar with how to use the technologies yourself.</p>
+<p>Most free screen readers come with tutorials that you should complete before using them with a technology you will <a href="#2-select-one-example-of-an-interesting-technology-domain">select next</a>. Here is a <a href="https://dequeuniversity.com/screenreaders/survival-guide">quick guide to screen reader commands</a>.</p>
+<p>Some examples of a second AT that you could choose</p>
+<ul>
+<li>The free magnifier on your primary computer and/or on your phone</li>
+<li>Changing color and/or contrast in your operating system or web browser</li>
+<li>Using the single switch input method on your phone</li>
+</ul>
+<p>Here are some resources that may help you in gaining comfort with these accessibility solutions.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=4ZRVDgeMpXc">Zoomtext and other magnification in use</a> and <a href="https://www.youtube.com/watch?v=TQhUCnMhDZE">Setting up Windows for zooming</a></li>
+<li><a href="https://axesslab.com/what-is-a-screen-reader/">Screen reading intro</a></li>
+<li><a href="https://www.youtube.com/watch?v=M_Qlq_16lq4&amp;t=171s">Basic Navigation on the Web with VoiceOver</a></li>
+<li>Switch control intro: <a href="https://www.youtube.com/watch?v=GQKEE9nI1lk">Switch Control overview</a></li>
+<li>Advanced voice based input: <a href="https://www.youtube.com/watch?v=YKuRkGkf5HU">Voice Driven Development with Dragon Dictate</a></li>
+</ul>
+<p>Here are some screen reader resources.</p>
+<ul>
+<li><a href="https://www.sarasoueidan.com/blog/testing-environment-setup/">Setting up a screen reader testing environment</a></li>
+<li>VoiceOver (Mac/OSX) Tutorials<ul>
+<li><a href="https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts">Deque: VoiceOver Mac</a></li>
+<li><a href="https://support.apple.com/guide/voiceover/get-started-vo4be8816d70/10/mac/26">VoiceOver: Get Started</a></li>
+<li><a href="https://support.apple.com/guide/voiceover/learn-and-practice-voiceover-mchlp2687/10/mac/26">VoiceOver: Learn &amp; Practice</a></li>
+<li>Mac built-in Tutorial: Activate VoiceOver (Cmd+F5); Start Tutorial (If default settings): press CapsLock+Cmd+F8 OR Ctrl+Opt+Cmd+F8</li>
+</ul>
+</li>
+<li>VoiceOver (iOS) Tutorials:<ul>
+<li><a href="https://dequeuniversity.com/screenreaders/voiceover-ios-shortcuts">Deque: VoiceOver Gestures</a></li>
+<li><a href="https://www.youtube.com/watch?v=ROIe49kXOc8">Apple Tutorial</a></li>
+<li><a href="https://www.youtube.com/watch?v=ysr5ny0k4VU">Blind on the Move: Video Tutorial Series</a></li>
+</ul>
+</li>
+<li>Some NVDA (Windows) Tutorials:<ul>
+<li><a href="https://dequeuniversity.com/screenreaders/nvda-keyboard-shortcuts">Deque: NVDA Gestures</a></li>
+<li><a href="https://www.youtube.com/watch?v=Jao3s_CwdRU">Chrome Dev: Screen Reader Basics NVDA</a></li>
+<li><a href="https://www.youtube.com/watch?v=h09RaEsRn6Q">PopeTech: Getting Started with NVDA</a></li>
+</ul>
+</li>
+<li>Good Resource/Sandbox to Test a screen reader on: <a href="https://projects.accesscomputing.uw.edu/au/">Accessible University</a></li>
+</ul>
+<h3 id="2-select-one-example-of-an-interesting-technology-domain">2. Select one example of an interesting technology domain<a class="headerlink" href="#2-select-one-example-of-an-interesting-technology-domain" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Educational games for young children. <ul>
+<li><a href="https://dl.acm.org/doi/abs/10.1145/3441852.3476532">A preliminary analysis of Android educational game accessibility</a></li>
+<li><a href="https://www.mdpi.com/2076-3417/10/21/7859">Web-based serious games and accessibility: A systematic literature review</a></li>
+<li><a href="https://www.polygon.com/2020/1/8/21056713/disabilities-video-game-characters-inclusion-accessibility-decade-in-review">Video games and disability: Looking back at a challenging decade</a>. </li>
+<li><a href="https://www.pbs.org/parents/thrive/supporting-your-child-with-disabilities-with-digital-learning-games#:~:text=Four%20games%20from%20the%20long,can%20receive%20similar%20learning%20benefits.">Games that are accessible</a> (you may need to try these to confirm); </li>
+<li><a href="https://store.steampowered.com/app/504230/Celeste/">Celeste</a></li>
+</ul>
+</li>
+<li>Online spaces for kids with disabilities (any age)<ul>
+<li><a href="https://dl.acm.org/doi/abs/10.1145/2982142.2982172">Would you be mine: Appropriating Minecraft as an assistive technology for youth with autism</a></li>
+<li><a href="https://dl.acm.org/doi/pdf/10.1145/3495266">You’re my best friend: Finding community online in BTS’s Fandom, ARMY</a></li>
+<li><a href="https://muse.jhu.edu/pub/1/article/663305">My voice is definitely strongest in online communities: Students using social media for queer and disability identity making</a>. </li>
+<li><a href="https://www.forbes.com/sites/andrewpulrang/2021/05/31/how-to-find-your-disability-community/?sh=3388225010fe">First-person account of what that means</a></li>
+</ul>
+</li>
+<li>Tools for learning programming<ul>
+<li><a href="https://dl.acm.org/doi/abs/10.1145/3173574.3173643">Blocks4All: Overcoming accessibility barriers to blocks programming for children with visual impairments</a></li>
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/07370024.2019.1621175?casa_token=6bNihQzh67EAAAAA%3AxPJWDluwJ7Q6xhted7fT9UW9Y7v-HMSMRIS1Rj1rLd0AaExkr-5IWkMM408DoNn9QOe1xFn9UKvm">Physical programming for blind and low vision children at scale</a>. </li>
+<li><a href="https://milnel2.github.io/blocks4alliOS/">Blocks4all</a></li>
+<li><a href="https://quorumlanguage.com/">Quorum</a></li>
+<li><a href="https://learn.adafruit.com/microcode-for-microbit">Microcode</a></li>
+</ul>
+</li>
+<li>Sports &amp; eSports (e.g. <a href="http://www.seattleadaptivesports.org/">Seattle Adaptive Sports</a>). <ul>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5667683/">Design and real world evaluation of Eyes-Free Yoga: An Exergame for blind &amp; low vision exercise</a></li>
+<li><a href="https://dl.acm.org/doi/pdf/10.1145/3359257">Design in the public square: supporting assistive technology design through public mixed-ability cooperation</a></li>
+<li><a href="https://www.scope.org.uk/campaigns/research-policy/accessibility-in-gaming/#Interests-and-behaviours-among-disabled-gamers">Accessibility in gaming</a> (UK report). </li>
+<li><a href="https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller">Xbox adaptive controller</a></li>
+<li><a href="https://store.steampowered.com/app/1218220/The_Mechanical_World_of_Dr_Gearbox/">Dr. Gearbox</a> with <a href="https://altagram.com/people-with-disabilities-changing-esports/">“playable characters show people living with different conditions and disabilities”</a></li>
+<li><a href="https://ablegamers.org/impact/">Ablegamers.org</a>, numerous first person accounts by disabled gamers.</li>
+</ul>
+</li>
+<li>Visualization. <ul>
+<li><a href="https://ieeexplore.ieee.org/document/9552938">Communicating Visualizations without Visuals: Investigating Visualization Alternative Text for People with Visual Impairments</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3491102.3517465">Infosonics: Accessible Infographics for people who are blind using sonification and voice</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14522?casa_token=6uJ3npedmwsAAAAA%3ABeZrqQUFLWkVzgZHtxa29Oqh199mf4_A_eSPsdzpREK0Wm-n5uRCPymODes0W2MDSlUr1yBXX6f-MVY">How accessible is my visualization? Evaluating visualization accessibility with Chartability</a></li>
+<li>The best tools available now still require a <em>programmer</em> to use them<ul>
+<li><a href="https://www.highcharts.com/docs/accessibility/accessibility-module">HighCharts</a></li>
+<li><a href="https://github.com/athersharif/voxlens">Voxlens</a></li>
+<li>A “live” list that has the latest on what’s available: <a href="https://github.com/dataviza11y/resources">DataViz A11y</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>3D modeling tools. <ul>
+<li><a href="https://dl.acm.org/doi/10.1145/2702123.2702525">Sharing is caring: Assistive technology designs on thingiverse</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/2485760.2485883">Making “making” accessible</a></li>
+<li><a href="https://doi.org/10.1145/3373625.3418011">Putting tools in hands: Designing curriculum for a nonvisual soldering workshop</a></li>
+<li><a href="https://doi.org/10.1145/3334480.3383055">Designing educational materials for a blind arduino workshop</a></li>
+<li>TinkerCAD; Fusion 360</li>
+</ul>
+</li>
+<li>VR/AR Articles: <ul>
+<li><a href="https://www.ben-peck.com/papers/VR_Accessibility_Survey.pdf">VR Accessibility Survey</a></li>
+<li><a href="https://www.mdpi.com/1424-8220/22/20/7719">A systematic literature review of handheld augmented reality solutions for people with disabilities</a>; </li>
+<li><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8088507&amp;casa_token=T2X3w3jTOugAAAAA:Mlnt-Wqk7Y4W-bJndK5Hgc8wbnL2QDVT-JSUZNaxheR2p5h5NPgSsn94TbYTiScUwwJvJBQcySY4">AR4VI: AR as an accessibility tool for people with visual impairments</a></li>
+<li><a href="https://www.classes.cs.uchicago.edu/archive/2020/winter/20370-1/readings/SeeingVR.pdf">SeeingVR: A set of tools to make virtual reality more accessible to people with low vision</a>. </li>
+<li><a href="https://apps.apple.com/us/app/overthere/id1126056833">OverTHERE</a></li>
+<li><a href="https://www.oculus.com/experiences/go/1634724596608007/">Honor Everywhere</a></li>
+<li><a href="https://educatorsinvr.com/2019/05/31/accessibility-disabilities-and-virtual-reality-solutions/">Accessibility, Disabilities, and Virtual Reality Solutions</a></li>
+</ul>
+</li>
+<li>Other: you are welcome to tackle other areas covered in class including <ul>
+<li><a href="https://arxiv.org/abs/2208.04712">AI/ML</a>; </li>
+<li><a href="http://acm.mementodepot.org/pubs/proceedings/acmconferences_3173574/3173574/3173574.3174033/3173574.3174033.pdf">Intelligent Agents</a></li>
+<li>You will need to work with the instructor and TA to identify a set of papers you can read and technologies you can try out.</li>
+</ul>
+</li>
+</ul>
+<h3 id="3-try-it-out">3. Try it out<a class="headerlink" href="#3-try-it-out" title="Permanent link">&para;</a></h3>
+<p>Download at least one working (ideally accessible) example technology from your topic domain. For example, you could download an accessible game, or get an account with a 3D modeling tool like TinkerCAD.</p>
+<p>Try using your selected website, app, or game with both of your accessibility technologies for at least 15 minutes each. </p>
+<p>For each AT, record a 5-minute video showing you using the AT with each website, app, or game. If it doesn't interfere with the AT (i.e., the AT isn't listening to your voice and it's not trying to speak out loud), please narrate what is happening in the video as you perform each action. </p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If the AT makes noise or generates speech as it operates, be sure your video recording software captures the audio! </p>
+</div>
+<h3 id="4-reflect-on-your-experience">4. Reflect on your experience<a class="headerlink" href="#4-reflect-on-your-experience" title="Permanent link">&para;</a></h3>
+<p>Write a reflection essay, using one paragraph to explain each of the following bullet points:</p>
+<ol>
+<li>For each AT you selected (reminder, one must be a screen reader)<ol>
+<li>Explain how it works and describe its strengths and weaknesses</li>
+<li>What disabilities can benefit from this AT (e.g. screen readers are not just used by blind people)</li>
+<li>What first person accounts did you find? (<em>Be sure to cite them!</em>) <br> For each account,<ol>
+<li>What specific technology did they describe using? </li>
+<li>What are the barriers and opportunities about the AT described by the person in the first-person account?</li>
+<li>How might what you learned extend beyond this specific person, disability, and technology?</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>What general class of technology domain did you choose? <ol>
+<li>Explain it (e.g. if you picked VR/AR, explain what VR/AR is).</li>
+<li>What general accessibility challenges exist with this class of technology?</li>
+<li>Which example of this technology did you download and try out?</li>
+</ol>
+</li>
+<li>What did you learn while using each AT with the example technology? (Write one paragraph for each AT experience).</li>
+<li>A reference list of all sources you cited in the essay in APA format. </li>
+</ol>
+<p>This means every bullet above gets at least one paragraph of text (i.e. AT1: 1a, AT 1: 1b, AT1: 1.c.i, AT1: 1.c.ii. AT 1: 1.c.iii., AT2: 1a, AT2: 1b, AT2: 1.c.i, AT2: 1.c.ii., AT2: 1.c.iii, 2a, 2b, 2c, AT1: 3, AT2: 3, 4).</p>
+<p>Remember to properly cite your sources! See <a href="../HW2/">HW2</a> for more information on how to do this.</p>
+<h2 id="submission">Submission<a class="headerlink" href="#submission" title="Permanent link">&para;</a></h2>
+<ol>
+<li>Video recording of you using AT #1 with your selected technology. <ol>
+<li>Submit the link to your uploaded unlisted YouTube video.</li>
+</ol>
+</li>
+<li>Video recording of you using AT #2 with your selected technology. <ol>
+<li>Submit the unlisted link to your uploaded unlisted YouTube video.</li>
+</ol>
+</li>
+<li>Submit the reflection essay PDF. </li>
+</ol>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>All PDFs must be made accessible as described in <a href="../HW1/">HW1</a> or you will receive no points for this part of the assignment.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+<footer class="md-footer">
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.top", "navigation.tracking", "navigation.indexes", "announce.dismiss"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
