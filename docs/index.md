@@ -155,6 +155,15 @@ hide:
                             </a><br/>
                         {% endif %}
                     {% endfor %}
+                {% elif schedule_day.reading != "" %}
+                    {% if schedule_day.reading.name != "" %}
+                        <a class="label label-blue" 
+                        href="{{schedule_day.reading.link}}" target="_blank">
+                        {{schedule_day.reading.name}}
+                        </a><br/>
+                    {% endif %}
+                {% else %} 
+                    blah
                 {% endif %}
             </span></td>
 
