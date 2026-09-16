@@ -1,5 +1,12 @@
 # Project 3: Project Specification
 
+This homework is worth 168 points.
+
+It should be done as a team. 
+
+P3 is due on Gradescope on Friday, October 9, 2026 11:50pm ET.
+
+
 ## Learning Goals
 
 - Negotiate a project plan with your partner organization and identify deliverables
@@ -16,32 +23,32 @@ Your team has been formed and has normed. It is time to perform. You have severa
 1. Meet with your partner organization to discuss your project ideas and negotiate what you will do for them. 
 1. Work with the partner organization to identify an initial set of project requirements.
 1. Turn those requirements into user stories and enter them into your project management system.
-1. Divvy up the user stories and project requirements and assign responsibilities to each team member.
+1. Reason through your project plan to ensure it conforms with human subjects protection guidelines from CMU's Institutional Review Board (IRB).
 1. Create a [Gantt chart](https://en.wikipedia.org/wiki/Gantt_chart) for your user stories and project deliverables. This will be your project timeline.
+1. Divvy up the user stories and project requirements and assign responsibilities to each team member.
 1. Begin your design with a UI mockup, a wireframe, or a storyboard to illustrate the concept you want to make.
 
-## Deliverables
-
-### Partner Organization Meeting
+## 1. Partner Organization Meeting
 
 You must set up a meeting with your partner organization ASAP. This can be in person or via video conferencing. Record the meeting if possible, so you have a reference to refer to in case you forget what you agreed to. Assign one member of your team to take notes in a Google Doc.
 
-In this meeting, you should talk through what your partner organization would like you to do. You may offer alternative ideas, especially those you presented in your Project Pitches. Discuss all your options, while always considering your relatively short 6-7 week project timeline to ensure you can get everything done on time. Come to an agreement about what you want to do for them. The project must be either an accessibility evaluation project or an application solution.
+In this meeting, you should talk through what your partner organization would like you to do. You should present the research you did into the project idea and your three implementation proposals. Discuss all the options, while always considering your relatively short 7-8 week project timeline to ensure you can get everything done on time. Come to an agreement about what you want to do for them. The project must be an accessibility evaluation project, a design vision, or an application solution.
 
 - An **accessibility evaluation** and improvement project will evaluate a pre-existing application or web site from the partner organization for accessibility by their target clientelle. You will engage with several members of their clientelle to do an in-person evaluation. Then you will design improvements and conduct a usability evaluation on the results. Your deliverables are an updated application design or web site as well as a project report describing the results of the initial accessibility study, the re-design process, and the evaluation of the redesign.
+- A **design vision** project will explore the design space for a solution to an acceesibility problem from the partner organization. You will engage in a co-design process with classmathes and clients of the partner organization to create a forward-looking concept video that showcases how the accessibility solution will look and feel to for its stakeholders in a near future time when it has been realized. The envisioning video must be inspirational, high quality, and human-centric --- focus on the intended user(s) experience rather than the technical specifications. Your deliverables are a report for your design exploration and co-design process, design mockups, final design, and a cinematic 3-minute envisioning video. 
 - An **application solution** design and evaluation project will create a new application solution for an accessibility problem from the partner organization. You will engage in a co-design process with classmates and clients of the partner organization, develop the new application, web site, or tool, and then evaluate your application with additional clients of the partner organization. Your deliverables are the new application solution and a project report describing your co-design process, design mockups, final design, application documentation, and a writeup of the evaluation of the application. 
 
 Continue negotiating if the project idea does not fit into one of these two project types.
 
-Turn in your notes as part of the deliverable for this assignment.
+Turn in your meeting transcript (if recorded) and each team member's notes as part of the deliverable for this assignment.
 
-### Requirements
+## 2. Requirements
 
 Once you have agreed to a project concept, meet with your team members to identify the project requirements. This may involve communicating with the partner organization again to get answers to any questions or ambiguities you need to resolve.
 
 Turn in a list of these requirements as part of the deliverable for this assignment. 
 
-### User Stories
+## 3. User Stories
 
 Discuss potential functional requirements of this project. Consider what possible use cases may be for this system and what features it should have to fulfill those needs. 
 
@@ -61,13 +68,13 @@ Once you have your list of user stories, add them to your project management sys
 
 As part of your project deliverable, we will read through the user stories on your project management system.
 
-### Mini-IRB 
+## 4. Mini-IRB 
 
 We want to give you the flavor of what it is like to do academic user research. As you develop your project idea and project plan, we ask you to fill out an Institutional Review Board protocol documentation form. This will be a (very) simplified version of the form that CMU requires all researchers to fill out when doing user studies. It will prompt you to be very specific about the kinds of users you will engage with your project process and require that you plan, in detail, what you intend to do with them, way before you ever get one of them in a room. 
 
 Complete this [protocol form](mini-irb-protocol.docx) and this [consent form](mini-irb-consent-template.docx) and include them as part of your project deliverable.
 
-### Gantt Chart
+## 5. Gantt Chart
 
 Now that you have your prioritized list of user stories, consider the *technical requirements* of the various user stories and collectively decide on which one(s) you will be focusing on over the next two milestones. In this project (as like most projects), your team is aiming to maximize the amount of value you are delivering to your stakeholders given your constraints.
 
@@ -78,26 +85,31 @@ Your selected user stories should have relatively high priority based on your te
     
     In general, we are expecting that user stories be selected given:
 
-    - 2 milestones of about 2 weeks each
+    - 3 milestones of about 2 weeks each
     - number of team members on your team
-    - assumption of 9 hours/week available per individual
+    - assumption of 7-8 hours/week available per individual
 
     The course staff **is happy to discuss this with your team during office hours** and we highly recommend you do so if your team is unsure. We will also be providing you with feedback during your first milestone.
 
+Most project management systems have the ability to turn your prioritized user stories into a Gantt Chart. Take a snapshot of this Gantt chart and turn it in as part of your P3 deliverable. In addition, provide a URL to let the instructors see the live Gantt Chart.
 
-Most project management systems have the ability to turn your prioritized user stories into a Gantt Chart. Take a snapshot of this Gantt chart and turn it in as part of your project deliverable. You will want to keep this chart up to date as whenever you meet with the course instructors about the project, we will ask to see your current Gantt Chart. 
+You will want to keep this chart up to date as whenever you meet with the course instructors about the project, we will ask to see your current Gantt Chart. 
 
-### User Story Assignment
+## 6. User Story Assignment
 
-Assign every user story expected to be done in the first milestone to a member of your project team. Be sure this assignment is visible in the project management system. Over time, you may reassign user stories to balance your team's workload.
+Assign every user story expected to be done in the first milestone to a member of your project team. Be sure this assignment is visible in the project management system so we may check it when grading your assignment. 
 
-### Storyboards
+Divide the assignments roughly equally over your team members. Over time, you may reassign user stories to balance your team's workload.
+
+If any team member lacks assignments, we will reach out to your team to inquire why. Please be prepared to discuss your team's rules for dividing labor.
+
+## 7. Storyboards
 
 For each user story you have prioritized to be done for your project, pull out any UI mockups, storyboards, or wireframes and consolidate them in this section of your project deliverable.
 
-## Deliverables and Deadlines
+## Submission
 
-There is one **group deliverable** for this project. This part is worth 168 points, or 20% of your project grade. This part is due October 24, 2024 11:59pm. 
+Turn in a single PDF with answers to each part of this assignment.
 
-To receive full credit for the project specification, we expect that all sections listed above are included in a PDF document submitted to Gradescope. 
+Only one team member needs to make the submission; that person can then add the rest of the teammates as group members in Gradescope to make it a group submission. 
 

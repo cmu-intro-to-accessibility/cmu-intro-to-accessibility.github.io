@@ -90,18 +90,18 @@ nav:
           - projects/P1/index.md
       - '2. Project Investigation':
           - projects/P2/index.md
-#      - '3 Project Specification':
-#          - projects/P3/index.md
-#      - '4 Project Milestone 1':
+      - '3. Project Specification':
+          - projects/P3/index.md
+#      - '4. Project Milestone 1':
 #          - projects/P4/index.md
-#      - '5 Project Milestone 2':
+#      - '5. Project Milestone 2':
 #          - projects/P5/index.md
-#      - '6 Final Report and Presentation':
+#      - '6. Final Report and Presentation':
 #          - projects/P6/index.md
-#          - "6A Project Presentation": projects/P6/1_final_presentation.md
-#          - "6B Project Report": projects/P6/2_final_report.md
-#          - "6C Project Reflection": projects/P6/3_reflection.md
-#          - "6D Project Delivery": projects/P6/4_delivery.md
+#          - "6A. Project Presentation": projects/P6/1_final_presentation.md
+#          - "6B. Project Report": projects/P6/2_final_report.md
+#          - "6C. Project Reflection": projects/P6/3_reflection.md
+#          - "6D. Project Delivery": projects/P6/4_delivery.md
   - Prior Offerings:
       - 'Fall 2024':
           - _old/f24/

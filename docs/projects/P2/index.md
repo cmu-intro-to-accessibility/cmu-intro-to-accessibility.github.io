@@ -4,7 +4,7 @@ This homework is worth 84 points.
 
 It should be done as a team. 
 
-P2 is due on Gradescope on Monday, September 21, 2026, 2026 11:00am ET.
+P2 is due on Gradescope on Monday, September 21, 2026 11:00am ET.
 
 ## Learning Goals
 
