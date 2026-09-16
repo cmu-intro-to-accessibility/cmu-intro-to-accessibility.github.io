@@ -298,9 +298,8 @@
   lecture:
     link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/05-web-accessibility.pdf'
     name: 'Course Project Team Formation'
-  reading:
-    link: 'https://bsky.app/profile/a11yawareness.bsky.social'
-    name: 'Accessibility Awareness Bluesky Account'
+  readings:
+    - { link: 'https://bsky.app/profile/a11yawareness.bsky.social', name: 'Accessibility Awareness Bluesky Account' }
   recitation:
     handout: ''
     name: ''
@@ -413,9 +412,8 @@
   lecture:
     link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/07-tagging-pdfs-with-ai.pdf'
     name: 'Guest Lecturer - Peya Mowar - Making PDFs Accessible with AI'
-  reading:
-    link: 'https://peyajm29.github.io/itagpdf.html'
-    name: 'Mowar et al. -iTagPDF: Towards Finally Automating PDF Accessibility'
+  readings:
+    - { link: 'https://peyajm29.github.io/itagpdf.html', name: 'Mowar et al. -iTagPDF: Towards Finally Automating PDF Accessibility' }
   recitation:
     handout: ''
     name: ''
