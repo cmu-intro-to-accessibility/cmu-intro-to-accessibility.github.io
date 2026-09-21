@@ -474,7 +474,7 @@
     numDays: 0
   project:
     deadline: 'Fri Oct 9'
-    link: 'project/P3'
+    link: 'projects/P3'
     name: 'P3 - Project Specification + Human Subjects Review'
     numDays: 15
   lecture:
