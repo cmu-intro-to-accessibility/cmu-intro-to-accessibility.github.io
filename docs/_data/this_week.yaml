@@ -1,13 +1,10 @@
 lectures:
-- date: Mon Sep 14
-  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/06-web-accessibility.pdf
-  name: Web Accessibility
-- date: Wed Sep 16
-  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/07-tagging-pdfs-with-ai.pdf
-  name: Guest Lecturer - Peya Mowar - Making PDFs Accessible with AI
-  readings:
-  - link: https://peyajm29.github.io/itagpdf.html
-    name: 'Mowar et al. -iTagPDF: Towards Finally Automating PDF Accessibility'
+- date: Mon Sep 21
+  link: ''
+  name: Assistive Technologies for Sight, Hearing, and Speaking
+- date: Wed Sep 23
+  link: ''
+  name: Assistive Technologies for Cognition and Communication
 
 projects:
 - date: Wed Sep 16
