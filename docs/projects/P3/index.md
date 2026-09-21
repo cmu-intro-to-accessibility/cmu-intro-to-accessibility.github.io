@@ -54,6 +54,8 @@ Discuss potential functional requirements of this project. Consider what possibl
 
 Then, document these functional requirements in the form of user stories. Use whatever user story format you have learned in class or used in prior group projects. User stories related to user interfaces should contain wireframes, mockups, or storyboards.
 
+If you have never worked with user stories before, please read [these lecture notes](https://github.com/CMU-17-356/cmu-17-356.github.io/raw/refs/heads/main/docs/assets/pdfs/Lecture8.pdf) from my Software Engineering for Startups class that will explain user stories.
+
 **You should come up with at least two user stories per student in your group.**
 
 !!! note "Formulating User Stories"
@@ -91,7 +93,7 @@ Your selected user stories should have relatively high priority based on your te
 
     The course staff **is happy to discuss this with your team during office hours** and we highly recommend you do so if your team is unsure. We will also be providing you with feedback during your first milestone.
 
-Most project management systems have the ability to turn your prioritized user stories into a Gantt Chart. Take a snapshot of this Gantt chart and turn it in as part of your P3 deliverable. In addition, provide a URL to let the instructors see the live Gantt Chart.
+Most project management systems have the ability to turn your prioritized user stories into a [Gantt Chart](https://www.gantt.com/). Take a snapshot of this Gantt chart and turn it in as part of your P3 deliverable. In addition, provide a URL to let the instructors see the live Gantt Chart.
 
 You will want to keep this chart up to date as whenever you meet with the course instructors about the project, we will ask to see your current Gantt Chart. 
 
@@ -110,6 +112,9 @@ For each user story you have prioritized to be done for your project, pull out a
 ## Submission
 
 Turn in a single PDF with answers to each part of this assignment.
+
+If you have used an LLM to help you with any part of this assignment, please save a URL to the entire chat log and enter it as part of the assignment.
+
 
 Only one team member needs to make the submission; that person can then add the rest of the teammates as group members in Gradescope to make it a group submission. 
 
