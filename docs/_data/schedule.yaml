@@ -479,10 +479,10 @@
     numDays: 15
   lecture:
     link: ''
-    name: 'Assistive Technologies for Sight, Hearing, and Speaking'
+    name: 'Assistive Technologies for Sight'
   reading:
-    link: ''
-    name: ''
+    link: 'https://www.newyorker.com/tech/annals-of-technology/object-interest-vocoder'
+    name: 'Lavey and Kang. Object of Interest: The Vocoder'
   recitation:
     handout: ''
     name: ''
@@ -525,7 +525,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Assistive Technologies for Cognition and Communication'
+    name: 'Assistive Technologies for Hearing, Speaking, Cognition, and Communication'
   reading:
     link: ''
     name: ''
