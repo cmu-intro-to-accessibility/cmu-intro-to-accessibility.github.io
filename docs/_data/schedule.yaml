@@ -480,9 +480,8 @@
   lecture:
     link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/08-AT-for-Sight.pdf'
     name: 'Assistive Technologies for Sight'
-  reading:
-    link: 'https://www.newyorker.com/tech/annals-of-technology/object-interest-vocoder'
-    name: 'Lavey and Kang. Object of Interest: The Vocoder'
+  readings:
+    - { link: 'https://www.newyorker.com/tech/annals-of-technology/object-interest-vocoder', name: 'Lavey and Kang. Object of Interest: The Vocoder' }
   recitation:
     handout: ''
     name: ''
