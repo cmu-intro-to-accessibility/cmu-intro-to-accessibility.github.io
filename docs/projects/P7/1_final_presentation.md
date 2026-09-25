@@ -4,7 +4,7 @@
 
 You will prepare a 15-minute presentation on your project, work, and experience. You will give your presentation in class on Wednesday, December 2, 2026. After your presentation, you will answer questions from the instructors for 3 minutes. 
 
-- Your presentation is worth 60 points.
+- Your presentation is worth 35 points.
 - Your time answering questions posed by the instructors is worth 10 points.
 
 Your deliverable for this project is a PDF of your slides. Submit this to Gradescope as P7A by the beginning of class on Wednesday, December 3, 11:00am.
@@ -13,7 +13,7 @@ Your deliverable for this project is a PDF of your slides. Submit this to Grades
     Do not share any personally-identifying information about any study participants who evaluated web sites or applications.
 
 
-## Presentation (60 points)
+## Presentation (35 points)
 
 - The order of presentations is randomly determined. 
 - We require that all team members participate orally, in-person in the presentation. If you desire an accommodation for this requirement, please make arrangements with the instructors by Monday, November 23, 11:00am.
