@@ -1,0 +1,16 @@
+lectures:
+- date: Mon Sep 21
+  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/08-AT-for-Sight.pdf
+  name: Project Overview
+- date: Wed Sep 23
+  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/09-AT-for-Sight.pdf
+  name: Assistive Technologies for Sight
+  readings:
+  - link: https://www.newyorker.com/tech/annals-of-technology/object-interest-vocoder
+    name: 'Lavey and Kang. Object of Interest: The Vocoder'
+  - link: https://www.leaderdog.org/blog/choosing-a-white-cane/
+    name: Choosing a White Cane
+
+projects: []
+
+recitation: null

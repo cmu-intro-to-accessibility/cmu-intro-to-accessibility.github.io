@@ -1,0 +1,1482 @@
+- date: Mon Aug 26
+  homework:
+    deadline: 'September 5, 2024'
+    link: 'homework/HW1'
+    name: 'HW1 - Accessible Documents and Presentations / Team Formation Skills Survey'
+    numDays: 9
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Aug 27
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/01-Introduction.pdf'
+    name: 'Course Introduction'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Aug 28
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Aug 29
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/02-disability.pdf'
+    name: 'Disabilities Part 1'
+  reading:
+    link: ''
+    name: ''
+  readings:
+    - { link: 'https://canvas.cmu.edu/courses/42586/files/11475594?wrap=1',
+        name: 'What do we mean by "Accessibility" research?' }
+    - { link: 'https://canvas.cmu.edu/courses/42586/files/11475605?wrap=1',
+        name: 'The Harm in Conflating Aging with Accessibility' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Aug 30
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Sep 02
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Sep 03
+  homework:
+    deadline: 'September 11, 2024'
+    link: 'homework/HW2'
+    name: 'HW2 - Disability Deep Dive'
+    numDays: 7
+  lecture:
+    link: 'lectures/03-models-of-disability.pdf'
+    name: 'Disabilities Part 2 + Team Formation'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Sep 04
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Sep 05
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/04-history-of-disability.pdf'
+    name: 'History of Disability Policy Part 1'
+  readings:
+    - { link: 'https://dl.acm.org/doi/10.1145/1878803.1878807', name: 'Mankoff et al. 2010 - Disability studies as a source of critical inquiry for the field of assistive technology' }
+    - { link: 'https://www.youtube.com/watch?v=_pEFsz-84eg', name: 'Heumann nature: The life and legacy of disability rights activist Judy Heumann' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Sep 06
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Sep 09
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Sep 10
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/05-history-of-disability.pdf'
+    name: 'History of Disability Policy Part 2'
+  readings:
+    - { link: 'https://doi.org/10.1145/3234695.3236348', name: 'Cynthia L. Bennett, Erin Brady, and Stacy M. Branham. 2018. Interdependence as a Frame for Assistive Technology Research and Design Download Interdependence as a Frame for Assistive Technology Research and Design. In Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2018). Association for Computing Machinery, New York, NY, USA, 161-173.' }
+    - { link: 'https://doi.org/10.1080/23251042.2018.1424497', name: 'Jampel, C. (2018). Intersections of disability justice, racial justice and environmental justice Download Intersections of disability justice, racial justice and environmental justice. Environmental Sociology, 4(1), 122-135.' }
+    - { link: 'https://www.youtube.com/watch?v=OFS8SpwioZ4', name: 'Excerpts from the movie "Crip Camp."
+                                                                    Protest movement to start disability rights: 39:03 - 50:02
+                                                                    Judy Heumann schooling government officials: 1:29:50 - 1:36:07' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Sep 11
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Sep 12
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/06-assistive-technology.pdf'
+    name: 'Assistive Technologies Part 1'
+  readings:
+    - { link: 'https://www.njcounciloftheblind.org/brochures/history_of_white_cane.htm#:~:text=James%20Biggs%20of%20Bristol%20claimed,himself%20more%20visible%20to%20motorists', name: 'History of the white cane' }
+    - { link: 'https://dl.acm.org/doi/10.1145/274497.274526', name: 'User Interface of a Homepage Reader' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Sep 13
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Sep 16
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Sep 17
+  homework:
+    deadline: 'September 24, 2024'
+    link: 'homework/HW3'
+    name: 'HW3 - Accessibility Evaluation'
+    numDays: 7
+  lecture:
+    link: 'lectures/07-assistive-technology.pdf'
+    name: 'Assistive Technologies Part 2'
+  readings:
+    - { link: 'https://doi.org/10.1145/2998181.2998215', name: 'Alexander Fiannaca, Ann Paradiso, Mira Shah, and Meredith Ringel Morris. 2017. AACrobat: Using Mobile Devices to Lower Communication Barriers and Provide Autonomy with Gaze-Based AAC. In Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 17). Association for Computing Machinery, New York, NY, USA, 683-695' }
+    - { link: 'https://doi.org/10.1145/3597638.3614507', name: 'Nina Tran, Richard E. Ladner, and Danielle Bragg. 2023. U.S. Deaf Community Perspectives on Automatic Sign Language Translation. In Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 23). Association for Computing Machinery, New York, NY, USA, Article 76, 1-7.' }
+    - { link: 'https://youtu.be/hPJ-xmxClO4?si=QFEeUyqtTqJKUDD7', name: 'Highlights of USA/NZ wheelchair rugby match Tokyo 2020 Paralympics' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Sep 18
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Sep 19
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/08-ai-assistive-technology.pdf'
+    name: 'AI-Based Assistive Technologies'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Sep 20
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Sep 23
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Sep 24
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/09-wcag.pdf'
+    name: 'Software Accessibility Guidelines and Testing'
+  readings:
+    - { link: 'https://uxplanet.org/a-primer-to-web-accessibility-for-designers-2c548448c612', name: 'A Primer to Web Accessibility for Designers | by Nicholas Kramer' }
+    - { link: 'https://www.w3.org/TR/WCAG22/', name: 'WCAG 2.2 Standard' }
+    - { link: 'https://www.w3.org/TR/wai-aria/', name: 'WAI-ARIA Standard' }
+    - { link: 'https://www.w3.org/TR/ATAG20/', name: 'Authoring Tool Accessibility Guidelines (ATAG) 2.0 Standard'}
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Sep 25
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Sep 26
+  homework:
+    deadline: 'October 8, 2024'
+    link: 'projects/P1'
+    name: 'P1 - Project Pitches'
+    numDays: 8
+  lecture:
+    link: 'lectures/10-design.pdf'
+    name: 'Design Methods'
+  readings:
+    - { link: 'https://ieeexplore.ieee.org/document/8818889', name: 'From GenderMag to InclusiveMag: An Inclusive Design Meta-Method' }
+    - { link: 'https://dl.acm.org/doi/pdf/10.1145/3148051', name: 'Ability Based Design Communications Article' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Sep 27
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Sep 30
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Oct 01
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/11-irb-supported-research.pdf'
+    name: 'IRB-Supported Research'
+  readings:
+    - { link: 'https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf', name: 'The 1979 Belmont Report' }
+    - { link: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272525/', name: 'Institutional review board (IRB) and ethical issues in clinical research'}
+    - { link: 'https://www.youtube.com/watch?v=vuMt8b4UrcI', name: 'The Milgram Experiement: Obedience to Authority'}
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Oct 02
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Oct 03
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/12-disability-advocacy.pdf'
+    name: 'Disability Advocacy'
+  readings:
+    - { link: 'https://www.amazon.com/Disability-Pride-Dispatches-Post-ADA-World/dp/0807013331/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UUYzI3w8PDi99_alvz7FAUgNMzvXS5qHjZiNGLrttlUTdLFO68dcP8hiBHL9cFnoEth9nh6a5SEAtyQeEtbS425udFf4xqf615LBZn4wnwUEnlC4rp8ow6rvD_OtMWGeDQQhVeOHJTzKSiYgAswaLnUmrdxeQTyZqwnsiVSf4NnaGxCOCtny6UZwQZX48XQ4GrZZcohQSt8XnZc6gdZilGkMPMEFDxOfmEqrpdOd9gzqvAg4VmQeaLnL01uPvzUB33yPyE-WU4d9RP3pZU31lJstoV_k9RJmkZ8Nl9jFHXw.hOCU-jnPk3qfxxwDbfgFFmb7oMCvA0Guq6tAi8TnD-c&dib_tag=se&keywords=disability+pride&qid=1726413100&sr=8-4', name: 'Disability Pride: Dispatches from a Post-ADA World (DONT READ THE WHOLE BOOK)'}
+    - { link: 'https://canvas.cmu.edu/courses/42586/files/11510661?wrap=1', name: 'Chapter 3 from the book Disability Pride' }
+    - { link: 'https://canvas.cmu.edu/courses/42586/files/11510662?wrap=1', name: 'Chapter 5 from the book Disability Pride' }
+    - { link: 'https://www.youtube.com/watch?v=LUkKSbbdHmo', name: 'Intersection Advocacy from the Autistic Self-Advocacy Network'}
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Oct 04
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Oct 07
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Oct 08
+  homework:
+    deadline: 'October 11, 2024'
+    link: 'projects/P2'
+    name: 'P2 - Team Contracts'
+    numDays: 3
+  lecture:
+    link: ''
+    name: 'Project Pitches'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Oct 09
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Oct 10
+  homework:
+    deadline: 'October 29, 2024'
+    link: 'projects/P3'
+    name: 'P3 - Project Specification + Mini-IRB'
+    numDays: 15
+  lecture:
+    link: ''
+    name: 'Team Norming'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Oct 11
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Oct 14
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Oct 15
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'NO CLASS - Fall Break'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Oct 16
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Oct 17
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'NO CLASS - Fall Break'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Oct 18
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Oct 21
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Oct 22
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/13-games-sports.pdf'
+    name: 'Games and Sports'
+  reading:
+    link: ''
+    name: ''
+  readings:
+    - { link: 'https://dl.acm.org/doi/10.1145/3331067', name: 'Computing technologies to increase access to physical activity for people with visual impairments | XRDS: Crossroads, The ACM Magazine for Students'}
+    - { link: 'https://dl.acm.org/doi/10.1145/3441852.3471223', name: 'Beyond Adaptive Sports ASSETS 2021' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Oct 23
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Oct 24
+  homework:
+    deadline: 'November 14, 2024'
+    link: 'projects/P4'
+    name: 'P4 - Project Milestone 1'
+    numDays: 15
+  lecture:
+    link: 'lectures/14-vr-xr.pdf'
+    name: 'Virtual Reality VR/AR/XR/MR'
+  reading:
+    link: ''
+    name: ''
+  readings:
+    - { link: 'https://dl.acm.org/doi/10.1145/3373625.3416998', name: 'Mott, M., Tang, J., Kane, S., Cutrell, E., & Ringel Morris, M. (2020, October). "I just went into it assuming that I wouldn''t be able to have the full experience," Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility' }
+    - { link: 'https://www.youtube.com/watch?v=tr4Ejq5fHMc', name: 'SeeingVR: A Set of Tools to Make Virtual Reality More Accessible to People with Low Vision' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Oct 25
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Oct 28
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Oct 29
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Guest Speaker: Prof. Varsha Koushik, Colorado College'
+  readings:
+    - { link: 'https://canvas.cmu.edu/courses/42586/files?preview=11631533', name: 'Towards augmented reality coaching for daily routines: Participatory design with individuals with cognitive disabilities and their caregivers' }
+    - { link: 'https://doi.org/10.1145/3544548.3581204', name: 'Keke Wu, Michelle Ho Tran, Emma Petersen, Varsha Koushik, and Danielle Albers Szafir. 2023. Data, Data, Everywhere: Uncovering Everyday Data Experiences for People with Intellectual and Developmental Disabilities. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023). Association for Computing Machinery, New York, NY, USA, Article 804, 1-17.' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Oct 30
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Oct 31
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/15-responsible-ai.pdf'
+    name: 'Responsible AI'
+  readings:
+    - { link: 'https://dl.acm.org/doi/full/10.1145/3544548.3581480', name: 'Counterventions: a reparative reflection on interventionist HCI' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3290607.3310433', name: 'A Mulching Proposal' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Nov 01
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Nov 04
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Nov 05
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'NO CLASS - Democracy Day'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Nov 06
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Nov 07
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/16-accessible-software-development.pdf'
+    name: 'Accessible Software Development'
+  reading:
+    link:
+    name:
+  readings:
+    - { link: 'https://stemforall2018.videohall.com/presentations/1078', name: 'Blocks4All Programming Environment' }
+    - { link: 'https://doi.org/10.1145/3132525.3132550', name: 'Interviews and Observation of Blind Software Developers at Work to Understand Code Navigation Challenges'}
+    - { link: 'https://doi.org/10.1145/3192714.3192821', name: 'Vocal Programming for People with Upper-Body Motor Impairments'}
+    - { link: 'https://doi.org/10.1109/VLHCC.2005.58', name: 'Spoken Programs'}
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Nov 08
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Nov 11
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Nov 12
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/17-inclusive-education.pdf'
+    name: 'Inclusive Education'
+  reading:
+    link: ''
+    name: ''
+  readings:
+    - { link: 'https://udlguidelines.cast.org/static/udlg3-graphicorganizer-digital-nonumbers-a11y.pdf', name: 'Universal Design for Learning Guidelines'}
+    - { link: 'https://doi.org/10.1145/2839509.2844570', name: 'Differentiating for Diversity: Using Universal Design for Learning in Elementary Computer Science Education'}
+    - { link: 'https://doi.org/10.1145/3641011', name: 'Neurodiversity and the Accessible University: Exploring Organizational Barriers, Access Labor and Opportunities for Change'}
+    - { link: 'https://www.youtube.com/watch?v=CumrW0vj_a8', name: 'Deaf Kids Code' }
+    - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Accessible-CS-Ed-in-Colleges-and-Universities_Andrew-Begel.pdf', name: 'Accessible Computing Education in Colleges and Universities' }
+    - { link: 'https://www.washington.edu/accesscomputing/improving-equity-and-access-graduate-students-disabilities', name: 'Improving Equity and Access for Graduate Students with Disabilities'}
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Nov 13
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Nov 14
+  homework:
+    deadline: 'November 26, 2024'
+    link: 'projects/P5'
+    name: 'P5 - Project Milestone 2'
+    numDays: 8
+  lecture:
+    link: 'lectures/18-disability-employment.pdf'
+    name: 'Disability Employment'
+  reading:
+    link: ''
+    name: ''
+  readings:
+    - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Report-Education-for-Employment-Pathways.pdf', name: 'Education for Employment Pathways' }
+    - { link: 'https://canvas.cmu.edu/courses/42586/files?preview=11892358', name: 'The Dandelion Principle: Redesigning Work for the Innovation Economy'}
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Nov 15
+  homework:
+    deadline: 'November 26, 2024'
+    link: 'homework/HW4'
+    name: 'HW4 - Celebrating Accessibility Essay'
+    numDays: 7
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Nov 18
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Nov 19
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 7
+  lecture:
+    link: 'lectures/19-THMLA.pdf'
+    name: 'Transportation + Housing + Museums + Libraries'
+  reading:
+    link: ''
+    name: ''
+  readings:
+    - { link: 'https://canvas.cmu.edu/courses/42586/files?preview=11915178&sort=created_at&order=desc', name: 'Human rights and the city: Including marginalized communities in urban development and smart cities' }
+    - { link: 'https://canvas.cmu.edu/courses/42586/files?preview=11915179&sort=created_at&order=desc', name: '"We should all feel welcome to the park": Intergenerational Public Space and Universal Design in Disinvested Communities'}
+    - { link: 'https://www.youtube.com/watch?v=wTqRYL-AjJ8', name: 'New York City''s Inaccessible Transit System' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Nov 20
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Nov 21
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/20-non-work-activities.pdf'
+    name: 'Non-Work Activities (e.g. Cooking, exercise, dating, creative arts)'
+  readings:
+    - { link: 'https://doi.org/10.1145/3613904.3642233', name: 'A Contextual Inquiry of People with Vision Impairments in Cooking' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3544548.3580941', name: 'Understanding Visual Arts Experiences of Blind People' }
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Nov 22
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Nov 25
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Nov 26
+  homework:
+    deadline: 'December 13, 2024'
+    link: 'projects/P6'
+    name: 'P6 - Project Presentations + Report'
+    numDays: 17
+  lecture:
+    link: 'lectures/21-diy-fabrication.pdf'
+    name: 'Fabrication and DIY for Accessibility'
+  readings:
+        - { link: 'https://doi.org/10.1145/2049536.2049541', name: 'Empowering individuals with do-it-yourself assistive technology' }
+        - { link: 'https://doi.org/10.1145/3290605.3300544', name: 'Occupational Therapy is Making' }
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Nov 27
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Nov 28
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'NO CLASS - Thanksgiving'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Nov 29
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Dec 02
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Dec 03
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'projects/P6/1_final_presentation'
+    name: 'P6A: Final Project Presentations in Class'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Dec 04
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Dec 05
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'lectures/22-summary.pdf'
+    name: 'Semester Review'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Dec 06
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'projects/P6/2_final_report'
+    name: 'P6B: Final Project Report Due'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Dec 09
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'projects/P6/3_reflection'
+    name: 'P6C: Final Project Reflection Due'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Tue Dec 10
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Dec 11
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Dec 12
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Dec 13
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'projects/P6/4_delivery'
+    name: 'P6D: Final Project Presentation and Delivery to Partner Organization'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
