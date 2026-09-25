@@ -1,6 +1,6 @@
 # Project 6: Milestone 3
 
-This homework is worth 168 points.
+This homework is worth 140 points.
 
 It should be done as a team. 
 
