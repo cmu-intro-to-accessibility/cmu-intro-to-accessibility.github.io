@@ -74,6 +74,8 @@ As part of your project deliverable, we will read through the user stories on yo
 
 We want to give you the flavor of what it is like to do academic user research. As you develop your project idea and project plan, we ask you to fill out an Institutional Review Board protocol documentation form. This will be a (very) simplified version of the form that CMU requires all researchers to fill out when doing user studies. It will prompt you to be very specific about the kinds of users you will engage with your project process and require that you plan, in detail, what you intend to do with them, way before you ever get one of them in a room. 
 
+Look ahead at the next three milestones --- [P4](../P4/index.md), [P5](../P5/index.md), and [P6](../P6/index.md) --- to see what kind of user studies you will be expected to run.
+
 Complete this [protocol form](mini-irb-protocol.docx) and this [consent form](mini-irb-consent-template.docx) and include them as part of your project deliverable.
 
 ## 5. Gantt Chart
