@@ -1,6 +1,10 @@
-# Project 7: Project Report and Presentation
+# Project 7: Project Delivery
 
 ## Learning Goals
+
+- Learn to wrap up a project by presenting your work to your classmates
+- Learn to wrap up a project by presenting your work to your parter organization
+- Collect all of your project materials for handoff to your partner organization
 
 ## Deliverables and Deadlines
 

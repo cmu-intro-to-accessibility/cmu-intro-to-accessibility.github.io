@@ -70,5 +70,5 @@ Your deliverables for this milestone are the transcripts, notes, and analyses of
     1. For application solution projects, any materials for the IRB protocol that were not created or turned in for the previous assignment and all of the transcripts (if available), notes, and analysis you create after evaluating the application.
 1. A URL of the YouTube video for this milestone. 
 
-To receive full credit, we expect that all deliverables listed above are included in a PDF document submitted to Gradescope. 
+To receive full credit, we expect that all deliverables listed above are included in a single, merged PDF document submitted to Gradescope. 
 

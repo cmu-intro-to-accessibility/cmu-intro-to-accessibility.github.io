@@ -934,7 +934,7 @@
     numDays: 10
   project:
     deadline: 'Mon Nov 2'
-    link: ''
+    link: 'projects/P4'
     name: 'P4 - Project Milestone 1'
     numDays: 10
   lecture:
@@ -1164,7 +1164,7 @@
     numDays: 10
   project:
     deadline: 'Mon Nov 16'
-    link: ''
+    link: 'projects/P5'
     name: 'P5 - Project Milestone 2'
     numDays: 10
   lecture:
@@ -1394,7 +1394,7 @@
     numDays: 6
   project:
     deadline: 'Mon Nov 30'
-    link: ''
+    link: 'projects/P6'
     name: 'P6 - Project Milestone 3'
     numDays: 10
   lecture:
@@ -1624,8 +1624,8 @@
     numDays: 0
   project:
     deadline: 'Wed Dec 2'
-    link: ''
-    name: 'P7 - Final Presentations'
+    link: 'projects/P7'
+    name: 'P7 - Project Delivery'
     numDays: 2
   lecture:
     link: ''

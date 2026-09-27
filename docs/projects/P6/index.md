@@ -64,5 +64,5 @@ Your deliverables for this milestone are the transcripts, notes, and analyses of
 
 ## Deadlines
 
-To receive full credit, we expect that all deliverables listed above are included in a PDF document submitted to Gradescope. 
+To receive full credit, we expect that all deliverables listed above are included in a single, merged PDF document submitted to Gradescope. 
 
