@@ -48,8 +48,6 @@ In this milestone, you will finish working on the user stories to implement your
 
 By the end of this milestone, you will evaluate it with at least two people with the target disability. You may ask your partner organization for assistance in recruiting these people.
 
-As per the IRB protocol you submitted with the last assignment, you must prepare recruitment flyers, consent forms, questionnaires, and evaluations. If you have not turned these in yet, you **must** run them by your TA for approval **prior** to engaging with any study participants. 
-
 Your deliverables for this milestone are the transcripts, notes, and analyses of the evaluation. In addition, we require you to record a demonstration of any user stories implemented since the last milestone (this can be done by anyone on your team), upload it to YouTube (keep it unlisted) and turn in the URL to the video.
 
  
@@ -59,9 +57,9 @@ Your deliverables for this milestone are the transcripts, notes, and analyses of
 1. Notes from the meeting with your partner organization.
 1. Notes from your team meetings.
 1. Artifacts created
-    1. For accessibility evaluation projects, all of the transcripts, notes, and analysis you create after evaluating the redesign of your application or web site. Also, a URL of the video demonstrating implemented user stories. 
-    1. For design vision projects, all of your notes, final script, final graphics, Canva, Figma, and/or creative cloud document URLs, final YouTube video URL, interview notes, and interview transcripts.
-    1. For application solution projects, any materials for the IRB protocol that were not created or turned in for the previous assignment and all of the transcripts, notes, and analysis you create after evaluating the application. Also, a URL of the video demonstrating implemented user stories. 
+    1. For accessibility evaluation projects, all of the transcripts (if available), notes, and analysis you create after evaluating the redesign of your application or web site. Also, a URL of the video demonstrating implemented user stories. 
+    1. For design vision projects, all of your notes, final script, final graphics, Canva, Figma, and/or creative cloud document URLs, final YouTube video URL, interview notes, and interview transcripts (if available).
+    1. For application solution projects, any materials for the IRB protocol that were not created or turned in for the previous assignment and all of the transcripts (if available), notes, and analysis you create after evaluating the application. Also, a URL of the video demonstrating implemented user stories. 
 
 
 ## Deadlines

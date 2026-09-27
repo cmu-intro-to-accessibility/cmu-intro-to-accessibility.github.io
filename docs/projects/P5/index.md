@@ -65,9 +65,9 @@ Your deliverables for this milestone are the transcripts, notes, and analyses of
 1. Notes from the meeting with your partner organization.
 1. Notes from your team meetings.
 1. Artifacts created
-    1. For accessibility evaluation projects, all of the transcripts, notes, and analysis you create after evaluating the redesign of your application or web site.
-    1. For design vision projects, all of your scripts, sketches, storyboards, Canva, Figma, and/or creative cloud document URLs, YouTube video URL, interview notes, and interview transcripts.
-    1. For application solution projects, any materials for the IRB protocol that were not created or turned in for the previous assignment and all of the transcripts, notes, and analysis you create after evaluating the application.
+    1. For accessibility evaluation projects, all of the transcripts (if available), notes, and analysis you create after evaluating the redesign of your application or web site.
+    1. For design vision projects, all of your scripts, sketches, storyboards, Canva, Figma, and/or creative cloud document URLs, YouTube video URL, interview notes, and interview transcripts (if available).
+    1. For application solution projects, any materials for the IRB protocol that were not created or turned in for the previous assignment and all of the transcripts (if available), notes, and analysis you create after evaluating the application.
 1. A URL of the YouTube video for this milestone. 
 
 To receive full credit, we expect that all deliverables listed above are included in a PDF document submitted to Gradescope. 

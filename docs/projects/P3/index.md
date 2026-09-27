@@ -38,7 +38,7 @@ In this meeting, you should talk through what your partner organization would li
 - A **design vision** project will explore the design space for a solution to an acceesibility problem from the partner organization. You will engage in a co-design process with classmathes and clients of the partner organization to create a forward-looking concept video that showcases how the accessibility solution will look and feel to for its stakeholders in a near future time when it has been realized. The envisioning video must be inspirational, high quality, and human-centric --- focus on the intended user(s) experience rather than the technical specifications. Your deliverables are a report for your design exploration and co-design process, design mockups, final design, and a cinematic 3-minute envisioning video. 
 - An **application solution** design and evaluation project will create a new application solution for an accessibility problem from the partner organization. You will engage in a co-design process with classmates and clients of the partner organization, develop the new application, web site, or tool, and then evaluate your application with additional clients of the partner organization. Your deliverables are the new application solution and a project report describing your co-design process, design mockups, final design, application documentation, and a writeup of the evaluation of the application. 
 
-Continue negotiating if the project idea does not fit into one of these two project types.
+Continue negotiating if the project idea does not fit into one of these three project types.
 
 Turn in your meeting transcript (if recorded) and each team member's notes as part of the deliverable for this assignment.
 
@@ -113,7 +113,7 @@ For each user story you have prioritized to be done for your project, pull out a
 
 ## Submission
 
-Turn in a single PDF with answers to each part of this assignment.
+Turn in a single, merged PDF with answers to each part of this assignment. 
 
 If you have used an LLM to help you with any part of this assignment, please save a URL to the entire chat log and enter it as part of the assignment.
 
