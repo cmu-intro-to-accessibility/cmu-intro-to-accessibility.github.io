@@ -26,7 +26,7 @@ We expect you to meet at least once with your instructors to share plans and onc
 Another deliverable for this milestone is the set of notes you take during your team meetings. 
 
 !!! Overview
-    See [Project Overview](projects/P0/index.md) for a description of the entire lifecycle of each kind of project.
+    See [Project Overview](../P0/index.md) for a description of the entire lifecycle of each kind of project.
 
 ### Accessibility Evaluation Projects
 
