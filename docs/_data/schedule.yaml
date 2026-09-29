@@ -594,10 +594,10 @@
     numDays: 0
   lecture:
     link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/10-AT-for-Hearing.pdf'
-    name: 'Assistive Technologies for Hearing'
-  reading:
-    link: ''
-    name: ''
+    name: 'Deafness and Assistive Technologies for Hearing'
+  readings:
+    - { link: 'https://www.researchgate.net/publication/13301062_Clinical_and_cultural_issues_in_caring_for_Deaf_people', name: 'Clinical and cultural issues in caring for Deaf people' }
+    - { link: 'https://www.youtube.com/watch?v=io7z5PftOU4', name: 'Protecting and Interpreting Deaf Culture, Glenna Cooper' }
   recitation:
     handout: ''
     name: ''
@@ -641,9 +641,10 @@
   lecture:
     link: ''
     name: 'Human Subjects Review and Institutional Review Boards'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf', name: 'The 1979 Belmont Report' }
+    - { link: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272525/', name: 'Institutional review board (IRB) and ethical issues in clinical research'}
+    - { link: 'https://www.youtube.com/watch?v=vuMt8b4UrcI', name: 'The Milgram Experiement: Obedience to Authority'}
   recitation:
     handout: ''
     name: ''
