@@ -639,12 +639,13 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/11-irb-supported-research.pdf'
     name: 'Human Subjects Review and Institutional Review Boards'
   readings:
     - { link: 'https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf', name: 'The 1979 Belmont Report' }
     - { link: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272525/', name: 'Institutional review board (IRB) and ethical issues in clinical research'}
     - { link: 'https://www.youtube.com/watch?v=vuMt8b4UrcI', name: 'The Milgram Experiement: Obedience to Authority'}
+    - { link: 'https://www.youtube.com/watch?v=7LviGTHud5w', name: 'Stanford Prison Experiment - Official Trailer (2015)'}
   recitation:
     handout: ''
     name: ''
@@ -710,10 +711,9 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'AI-Powered Assistive Technologies'
-  reading:
-    link: ''
-    name: ''
+    name: 'Ethical Design Methods'
+  readings:
+    - { link: 'https://blog.castac.org/2022/04/disability-dongle/', name: 'Disability Dongle' }
   recitation:
     handout: ''
     name: ''
@@ -756,10 +756,10 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Ethical Design Methods'
+    name: 'AI-Powered Assistive Technologies'
   reading:
-    link: 'https://blog.castac.org/2022/04/disability-dongle/'
-    name: 'Disability Dongle'
+    link: 
+    name: 
   recitation:
     handout: ''
     name: ''
@@ -941,9 +941,11 @@
   lecture:
     link: ''
     name: 'Making Software Development Accessible'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://stemforall2018.videohall.com/presentations/1078', name: 'Blocks4All Programming Environment' }
+    - { link: 'https://doi.org/10.1145/3132525.3132550', name: 'Interviews and Observation of Blind Software Developers at Work to Understand Code Navigation Challenges'}
+    - { link: 'https://doi.org/10.1145/3192714.3192821', name: 'Vocal Programming for People with Upper-Body Motor Impairments'}
+    - { link: 'https://doi.org/10.1109/VLHCC.2005.58', name: 'Spoken Programs'}
   recitation:
     handout: ''
     name: ''
@@ -1170,10 +1172,10 @@
     numDays: 10
   lecture:
     link: ''
-    name: 'Civic Infrastructure (Transportation, Housing, Museums, Libraries, Architecture)'
-  reading:
-    link: ''
-    name: ''
+    name: 'Do-It-Yourself Assistive Technology - Guest Speaker Jeffrey Ruffing - Inglis.org'
+  readings:
+      - { link: 'https://doi.org/10.1145/2049536.2049541', name: 'Empowering individuals with do-it-yourself assistive technology' }
+      - { link: 'https://doi.org/10.1145/3290605.3300544', name: 'Occupational Therapy is Making' }
   recitation:
     handout: ''
     name: ''
@@ -1216,7 +1218,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Do-It-Yourself Assistive Technology'
+    name: 'Civic Infrastructure (Transportation, Housing, Museums, Libraries, Architecture)'
   reading:
     link: ''
     name: ''
@@ -1285,7 +1287,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Guest Lecturer - Patrick Carrington'
+    name: 'Guest Lecturer - Prof. Patrick Carrington (CMU HCII)'
   reading:
     link: ''
     name: ''
@@ -1331,10 +1333,10 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Guest Lecturer (TBD)'
-  reading:
-    link: ''
-    name: ''
+    name: 'Guest Lecturer - Prof. Franklin Li (UNC Charlotte)'
+  readings:
+    - { link: 'https://doi.org/10.1145/3613904.3642233', name: 'A Contextual Inquiry of People with Vision Impairments in Cooking' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3544548.3580941', name: 'Understanding Visual Arts Experiences of Blind People' }
   recitation:
     handout: ''
     name: ''
@@ -1401,9 +1403,11 @@
   lecture:
     link: ''
     name: 'History of Disability, Policy, and Advocacy'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://www.amazon.com/Disability-Pride-Dispatches-Post-ADA-World/dp/0807013331/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UUYzI3w8PDi99_alvz7FAUgNMzvXS5qHjZiNGLrttlUTdLFO68dcP8hiBHL9cFnoEth9nh6a5SEAtyQeEtbS425udFf4xqf615LBZn4wnwUEnlC4rp8ow6rvD_OtMWGeDQQhVeOHJTzKSiYgAswaLnUmrdxeQTyZqwnsiVSf4NnaGxCOCtny6UZwQZX48XQ4GrZZcohQSt8XnZc6gdZilGkMPMEFDxOfmEqrpdOd9gzqvAg4VmQeaLnL01uPvzUB33yPyE-WU4d9RP3pZU31lJstoV_k9RJmkZ8Nl9jFHXw.hOCU-jnPk3qfxxwDbfgFFmb7oMCvA0Guq6tAi8TnD-c&dib_tag=se&keywords=disability+pride&qid=1726413100&sr=8-4', name: 'Disability Pride: Dispatches from a Post-ADA World (DONT READ THE WHOLE BOOK)'}
+    - { link: 'https://canvas.cmu.edu/courses/42586/files/11510661?wrap=1', name: 'Chapter 3 from the book Disability Pride' }
+    - { link: 'https://canvas.cmu.edu/courses/42586/files/11510662?wrap=1', name: 'Chapter 5 from the book Disability Pride' }
+    - { link: 'https://www.youtube.com/watch?v=LUkKSbbdHmo', name: 'Intersection Advocacy from the Autistic Self-Advocacy Network'}
   recitation:
     handout: ''
     name: ''
@@ -1447,9 +1451,9 @@
   lecture:
     link: ''
     name: 'AI-Powered Bias Against Disability'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://dl.acm.org/doi/full/10.1145/3544548.3581480', name: 'Counterventions: a reparative reflection on interventionist HCI' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3290607.3310433', name: 'A Mulching Proposal' }
   recitation:
     handout: ''
     name: ''
@@ -1516,9 +1520,15 @@
   lecture:
     link: ''
     name: 'Education and Employment'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://udlguidelines.cast.org/static/udlg3-graphicorganizer-digital-nonumbers-a11y.pdf', name: 'Universal Design for Learning Guidelines'}
+    - { link: 'https://doi.org/10.1145/2839509.2844570', name: 'Differentiating for Diversity: Using Universal Design for Learning in Elementary Computer Science Education'}
+    - { link: 'https://doi.org/10.1145/3641011', name: 'Neurodiversity and the Accessible University: Exploring Organizational Barriers, Access Labor and Opportunities for Change'}
+    - { link: 'https://www.youtube.com/watch?v=CumrW0vj_a8', name: 'Deaf Kids Code' }
+    - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Accessible-CS-Ed-in-Colleges-and-Universities_Andrew-Begel.pdf', name: 'Accessible Computing Education in Colleges and Universities' }
+    - { link: 'https://www.washington.edu/accesscomputing/improving-equity-and-access-graduate-students-disabilities', name: 'Improving Equity and Access for Graduate Students with Disabilities'}
+    - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Report-Education-for-Employment-Pathways.pdf', name: 'Education for Employment Pathways' }
+    - { link: 'https://canvas.cmu.edu/courses/54207/files?preview=14483175', name: 'The Dandelion Principle: Redesigning Work for the Innovation Economy'}
   recitation:
     handout: ''
     name: ''
@@ -1626,7 +1636,7 @@
   project:
     deadline: 'Wed Dec 2'
     link: 'projects/P7'
-    name: 'P7 - Project Delivery'
+    name: 'P7 - Project Presentation'
     numDays: 2
   lecture:
     link: ''
@@ -1670,10 +1680,10 @@
     name: ''
     numDays: 0
   project:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
+    deadline: 'Wed Dec 9'
+    link: 'projects/P7'
+    name: 'P7 - Project Delivery'
+    numDays: 5
   lecture:
     link: ''
     name: 'Final Project Presentations and Celebration'

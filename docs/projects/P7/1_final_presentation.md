@@ -7,7 +7,7 @@ You will prepare a 15-minute presentation on your project, work, and experience.
 - Your presentation is worth 35 points.
 - Your time answering questions posed by the instructors is worth 10 points.
 
-Your deliverable for this project is a PDF of your slides. Submit this to Gradescope as P7A by the beginning of class on Wednesday, December 3, 11:00am.
+Your deliverable for this project is a PDF of your slides. Submit this to Gradescope as P7A by the beginning of class on Wednesday, December 2, 9:00am.
 
 !!! warning "IRB Compliance"
     Do not share any personally-identifying information about any study participants who evaluated web sites or applications.
@@ -20,7 +20,7 @@ Your deliverable for this project is a PDF of your slides. Submit this to Grades
 - Every individual in class will be asked to provide constructive feedback for other project groups in class via paper form (provided by the instructors at class). 
 
 !!! warning "Presentation Attendance"
-    For full credit, you will have to be on time for the presentation session (within 10 minutes of start time). If you are unable to attend in person, you have to send an email with justification to all instructors by Tuesday, November 24 so that appropriate arrangements can be made. Exceptions to this notification deadline will only be made for unforseeable circumstances. 
+    For full credit, you will have to be on time for the presentation session (within 10 minutes of start time). If you are unable to attend in person, you have to send an email with justification to all instructors by Monday, November 23, 11am so that appropriate arrangements can be made. Exceptions to this notification deadline will only be made for unforseeable circumstances. 
 
 The goal of your presentation is primarly to share with the class (and your partner organization) the project to which you contributed and your experiences. Your presentation should comprise the following required elements:
 
