@@ -8,7 +8,7 @@ lectures:
   - link: https://www.youtube.com/watch?v=io7z5PftOU4
     name: Protecting and Interpreting Deaf Culture, Glenna Cooper
 - date: Wed Sep 30
-  link: ''
+  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/11-irb-supported-research.pdf
   name: Human Subjects Review and Institutional Review Boards
   readings:
   - link: https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf
@@ -17,6 +17,8 @@ lectures:
     name: Institutional review board (IRB) and ethical issues in clinical research
   - link: https://www.youtube.com/watch?v=vuMt8b4UrcI
     name: 'The Milgram Experiement: Obedience to Authority'
+  - link: https://www.youtube.com/watch?v=7LviGTHud5w
+    name: Stanford Prison Experiment - Official Trailer (2015)
 
 projects: []
 
