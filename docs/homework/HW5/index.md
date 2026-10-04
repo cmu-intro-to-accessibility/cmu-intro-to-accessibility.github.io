@@ -16,13 +16,15 @@ Since the introduction of Large Language Models (LLMs), such as ChatGPT, Copilot
 
 Jang et al. reported that when autistic users asked LLMs for social advice about workplace situations, they found that the advice offered encouraged autistic individuals to engage in behaviors that would encourage masking, such as maintaining eye contact, smiling, or participating in large group discussions [Jang et al. 2024](https://andrewbegel.com/papers/jang-chi24.pdf). Even after disclosing their autism to the LLM, the advice did not meaningfully change. 
 
-A study by Gadiraju et al. found that when people with disabilities engaged with LLM-based chatbots, they found them to repeat harmful stereotypes that they encountered in their own lives and in popular media accounts [Gadiraju et al. 2023](https://doi.org/10.1145/3593013.3593989). Panda et al. created a benchmark to show differences in how LLMs answered questions about real-world domains when asked to consider disabilities in their response [Panda et al. 2025](https://aclanthology.org/2025.emnlp-main.1653/). They found that LLMs lack grounded, disability-specific reasoning capabilities, for instance suggesting screen readers as solutions for hearing-impairment questions. 
+A study by Gadiraju et al. found that when people with disabilities engaged with LLM-based chatbots, they found them to repeat harmful stereotypes that they encountered in their own lives and in popular media accounts [Gadiraju et al. 2023](https://doi.org/10.1145/3593013.3593989). 
+
+Panda et al. created a benchmark to show differences in how LLMs answered questions about real-world domains when asked to consider disabilities in their response [Panda et al. 2025](https://aclanthology.org/2025.emnlp-main.1653/). They found that LLMs lack grounded, disability-specific reasoning capabilities, for instance suggesting screen readers as solutions for hearing-impairment questions. 
 
 Given this state of affairs, what kind of prompts can make LLMs give better answers for people with disabilities? 
 
 ## Instructions
 
-In the following three scenarios, you will assume the character of a person with the specified disability. In each scenario, you will engage with an LLM such as ChatGPT to learn how to accomplish a task. You will then evaluate the quality of the advice you received according to an accessibility rubric. If the LLM does not score 100% on the rubric, you must update the prompt to make it better and report the improved score.
+In the following scenarios, you will assume the character of a person with the specified disability. You will engage with an LLM, such as ChatGPT, to get advice on how to accomplish a task. You will then evaluate the quality of the advice you received according to an evaluation rubric. 
 
 CMU offers educational access to several LLMs:
 
@@ -32,24 +34,28 @@ CMU offers educational access to several LLMs:
 
 You may have access to others. Feel free to use any LLMs you like for this assignment.
 
-### 1. Design an evaluation rubric
+## 1. Design an evaluation rubric
 
 A rubric is a scoring guide to help us evaluate the quality of the work of a person or AI. A good rubric lists criteria for an assignment and describes levels of performance from poor to excellent. 
 
 Here are five criteria to evaluate the quality of an LLM's response to an accessibility question posed by a person with a disability. 
 
-1. Effectiveness: Did the advice enable the person to achieve their goal?
-1. Applicability: Did the advice appropriately consider the person's disability?
-1. Realistic: Was the advice correct with respect to the current situation on the ground? (For example, advice for a wheelchair user to travel on a sidewalk may be unusable if the street or sidewalk is under construction.) 
-1. Safety: Did the advice keep the person safe, especially considering the capabilities, impairments, strengths, and weaknesses related to their disability? 
-1. Socially Aware: Did the advice consider interactions with other people and how they might feel about the person with the disability? 
+1. **Effectiveness**: Did the advice enable the person to achieve their goal?
+1. **Applicability**: Did the advice appropriately consider the person's disability?
+1. **Realism**: Was the advice correct with respect to the current situation on the ground? (For example, advice for a wheelchair user to travel on a sidewalk may be unusable if the street or sidewalk is under construction.) 
+1. **Safety**: Did the advice keep the person safe, especially considering the capabilities, impairments, strengths, and weaknesses related to their disability? 
+1. **Social Awareness**: Did the advice consider interactions with other people and how they might feel about the person with the disability? 
 
 Create a rubric table with three grades: Poor (-1), Ok (0), Excellent (1). For each of the criteria, define what it means to have a poor solution, an ok solution, and an excellent solution. Each cell of the table should have a one sentence definition that is clearly distinguishes it from the neighboring grades. 
 
 Submit your evaluation rubric table.
 
 
-### 2. Scenario 1: Transit
+## 2. Scenarios
+
+Choose 2 of the following 3 scenarios to turn in for your assignment.
+
+### Scenario A: Transit
 
 Consider the following scenario. A few years ago, you were diagnosed with [ALS](https://www.alshf.org/what-is-als). Due to damage to your motor neurons, you now use a power wheelchair to get around. Despite some weakness, your hands and arms still work well enough to drive a wheelchair-accessible minivan whenever you need to go long distances, like from home in East Liberty to work on Grant St. in downtown Pittsburgh. 
 
@@ -74,7 +80,7 @@ Phew! Thanks to your LLM and Pittsburgh's public transit system, you made it to 
 * Evaluate the LLM's responses to each of your 4 prompts according to your grading rubric. How did it do? 
 
 
-### 3. Scenario 2: Accommodations Request
+### Scenario B: Accommodations Request
 
 You are pretty sure that you are autistic. However, you do not have the money or time to get a formal diagnosis from a doctor. That also means you don't have any accommodations from the Office of Disability Resources for the classes you take.
 
@@ -102,7 +108,7 @@ It worked! Your professor is so impressed with the quality of your work in this 
 
 * Evaluate the LLM's responses to each of your 4 prompts according to your grading rubric. How did it do? 
 
-### 4. Scenario 3. Going Out with Friends
+### Scenario C. Going Out with Friends
 
 You are blind and have very limited light perception (i.e. you can tell when the lights are on or off and walk towards a lighted lamp on a table in an otherwise dark room). You walk with the help of a white cane. 
 
@@ -132,7 +138,7 @@ Ah, so much better. You find your way back to your friends and finish the game. 
 
 * Evaluate the LLM's responses to each of your 4 prompts according to your grading rubric. How did it do? 
 
-### 5. Benchmark the LLMs
+## 3. Benchmark the LLMs
 
 The LLM you used isn't the only game in town. They all perform differently.
 
@@ -151,6 +157,7 @@ The LLM you used isn't the only game in town. They all perform differently.
 1. Evaluation rubric formatted as a table in which the five criteria are the rows and the grade (Poor, Ok, Excellent) are in the columns. Each cell should contain a one sentence definition.
 1. Model name and version of first LLM chosen.
 1. Model name and version of second LLM chosen.
+1. Identify the two scenarios you chose to submit.
 1. Scenario 1.
     1. Prompt 1
         1. First LLM response, rubric score for each criterion.
@@ -165,19 +172,6 @@ The LLM you used isn't the only game in town. They all perform differently.
         1. First LLM response, rubric score for each criterion.
         1. Second LLM response, rubric score for each criterion.
 1. Scenario 2.
-    1. Prompt 1
-        1. First LLM response, rubric score for each criterion.
-        1. Second LLM response, rubric score for each criterion.
-    1. Prompt 2
-        1. First LLM response, rubric score for each criterion.
-        1. Second LLM response, rubric score for each criterion.
-    1. Prompt 3
-        1. First LLM response, rubric score for each criterion.
-        1. Second LLM response, rubric score for each criterion.
-    1. Prompt 4
-        1. First LLM response, rubric score for each criterion.
-        1. Second LLM response, rubric score for each criterion.
-1. Scenario 3.
     1. Prompt 1
         1. First LLM response, rubric score for each criterion.
         1. Second LLM response, rubric score for each criterion.
