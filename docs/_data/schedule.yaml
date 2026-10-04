@@ -701,8 +701,8 @@
 - date: Mon Oct 05
   homework:
     deadline: 'Fri Oct 9'
-    link: ''
-    name: 'HW5 - Assistive Technology AI Upgrade'
+    link: 'homework/HW5'
+    name: 'HW5 - Accessibility through AI'
     numDays: 5
   project:
     deadline: ''
