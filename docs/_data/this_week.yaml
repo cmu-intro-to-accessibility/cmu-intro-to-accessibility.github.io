@@ -1,10 +1,16 @@
 lectures:
 - date: Mon Oct 05
   link: ''
-  name: Ethical Design Methods
+  name: Design Methods for Accessibility
   readings:
+  - link: https://ieeexplore.ieee.org/document/8818889
+    name: 'From GenderMag to InclusiveMag: An Inclusive Design Meta-Method'
+  - link: https://dl.acm.org/doi/pdf/10.1145/3148051
+    name: Ability-Based Design Communications Article
   - link: https://blog.castac.org/2022/04/disability-dongle/
     name: Disability Dongle
+  - link: https://doi.org/10.1145/3308561.3353792
+    name: Making Memes Accessible
 - date: Wed Oct 07
   link: ''
   name: AI-Powered Assistive Technologies
