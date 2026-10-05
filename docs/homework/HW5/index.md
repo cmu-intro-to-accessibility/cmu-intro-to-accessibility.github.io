@@ -116,7 +116,7 @@ Some acquaintances at work invite you to hang out at a Pittsburgh Steelers game 
 
 Your friends tell you the seats are in Section 210. 
 
-* Ask an LLM if those seats are accessible. What should you bring to ensure you can manage any problems?
+* Ask an LLM if those seats are accessible. What assistive technologies could you bring to ensure you can manage any problems?
 
 Since you don't have your tickets, your friends casually tell you to meet them at Gate A East to grab the tickets and walk with them to your seat. 
 
