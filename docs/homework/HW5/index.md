@@ -8,7 +8,7 @@ HW5 is due on Gradescope on Friday, October 9, 2026 11:59pm ET.
 
 ## Learning Goals
 
-- Learn how to use and evaluate GenAI tool to support accessibility.
+- Learn how to use and evaluate GenAI tools to support accessibility.
 
 ## Assignment Context
 
