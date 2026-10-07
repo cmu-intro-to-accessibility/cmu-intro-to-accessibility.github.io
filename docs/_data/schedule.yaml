@@ -943,12 +943,15 @@
     numDays: 10
   lecture:
     link: ''
-    name: 'Making Software Development Accessible'
-  readings:
-    - { link: 'https://stemforall2018.videohall.com/presentations/1078', name: 'Blocks4All Programming Environment' }
-    - { link: 'https://doi.org/10.1145/3132525.3132550', name: 'Interviews and Observation of Blind Software Developers at Work to Understand Code Navigation Challenges'}
-    - { link: 'https://doi.org/10.1145/3192714.3192821', name: 'Vocal Programming for People with Upper-Body Motor Impairments'}
-    - { link: 'https://doi.org/10.1109/VLHCC.2005.58', name: 'Spoken Programs'}
+    name: 'Design Process'
+  reading: 
+    link:
+    name:
+#  readings:
+#    - { link: 'https://stemforall2018.videohall.com/presentations/1078', name: 'Blocks4All Programming Environment' }
+#    - { link: 'https://doi.org/10.1145/3132525.3132550', name: 'Interviews and Observation of Blind Software Developers at Work to Understand Code Navigation Challenges'}
+#    - { link: 'https://doi.org/10.1145/3192714.3192821', name: 'Vocal Programming for People with Upper-Body Motor Impairments'}
+#    - { link: 'https://doi.org/10.1109/VLHCC.2005.58', name: 'Spoken Programs'}
   recitation:
     handout: ''
     name: ''
@@ -991,7 +994,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Enjoying Life (Travel, Cooking, Exercise, Dating)'
+    name: 'TBD'
   reading:
     link: ''
     name: ''
@@ -1060,7 +1063,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Guest Lecturer (TBD)'
+    name: 'Design Studio'
   reading:
     link: ''
     name: ''
@@ -1221,7 +1224,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Civic Infrastructure (Transportation, Housing, Museums, Libraries, Architecture)'
+    name: 'Employment'
   reading:
     link: ''
     name: ''
@@ -1336,7 +1339,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Guest Lecturer - Prof. Franklin Li (UNC Charlotte)'
+    name: 'Enjoying Life (Travel, Cooking, Exercise, Dating) - Guest Lecturer - Prof. Franklin Li (UNC Charlotte)'
   readings:
     - { link: 'https://doi.org/10.1145/3613904.3642233', name: 'A Contextual Inquiry of People with Vision Impairments in Cooking' }
     - { link: 'https://dl.acm.org/doi/10.1145/3544548.3580941', name: 'Understanding Visual Arts Experiences of Blind People' }
@@ -1406,11 +1409,9 @@
   lecture:
     link: ''
     name: 'CLASS FIELD TRIP - Library of Accessible Media for Pennsylvanians (LAMP) - 4724 Baum Blvd. Meet at TCS Hall entrance at 11:00am. Visit starts at 11:25am.'
-  readings:
-    - { link: 'https://www.amazon.com/Disability-Pride-Dispatches-Post-ADA-World/dp/0807013331/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UUYzI3w8PDi99_alvz7FAUgNMzvXS5qHjZiNGLrttlUTdLFO68dcP8hiBHL9cFnoEth9nh6a5SEAtyQeEtbS425udFf4xqf615LBZn4wnwUEnlC4rp8ow6rvD_OtMWGeDQQhVeOHJTzKSiYgAswaLnUmrdxeQTyZqwnsiVSf4NnaGxCOCtny6UZwQZX48XQ4GrZZcohQSt8XnZc6gdZilGkMPMEFDxOfmEqrpdOd9gzqvAg4VmQeaLnL01uPvzUB33yPyE-WU4d9RP3pZU31lJstoV_k9RJmkZ8Nl9jFHXw.hOCU-jnPk3qfxxwDbfgFFmb7oMCvA0Guq6tAi8TnD-c&dib_tag=se&keywords=disability+pride&qid=1726413100&sr=8-4', name: 'Disability Pride: Dispatches from a Post-ADA World (DONT READ THE WHOLE BOOK)'}
-    - { link: 'https://canvas.cmu.edu/courses/42586/files/11510661?wrap=1', name: 'Chapter 3 from the book Disability Pride' }
-    - { link: 'https://canvas.cmu.edu/courses/42586/files/11510662?wrap=1', name: 'Chapter 5 from the book Disability Pride' }
-    - { link: 'https://www.youtube.com/watch?v=LUkKSbbdHmo', name: 'Intersection Advocacy from the Autistic Self-Advocacy Network'}
+  reading:
+    link:
+    name:
   recitation:
     handout: ''
     name: ''
@@ -1453,7 +1454,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Disability, Policy, Advocacy, Bias'
+    name: 'Disability, Policy, and Advocacy'
   readings:
     - { link: 'https://dl.acm.org/doi/full/10.1145/3544548.3581480', name: 'Counterventions: a reparative reflection on interventionist HCI' }
     - { link: 'https://dl.acm.org/doi/10.1145/3290607.3310433', name: 'A Mulching Proposal' }
@@ -1526,7 +1527,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Education and Employment'
+    name: 'Education'
   readings:
     - { link: 'https://udlguidelines.cast.org/static/udlg3-graphicorganizer-digital-nonumbers-a11y.pdf', name: 'Universal Design for Learning Guidelines'}
     - { link: 'https://doi.org/10.1145/2839509.2844570', name: 'Differentiating for Diversity: Using Universal Design for Learning in Elementary Computer Science Education'}
