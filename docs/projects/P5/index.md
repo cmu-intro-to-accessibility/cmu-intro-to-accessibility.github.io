@@ -40,7 +40,7 @@ You have full creative freedom on the length and content of your scenes. In an e
 
 Put all of your materials into Canva, Figma, or other creative cloud tools of your choice. Share these with the course instructors. 
 
-Record a low-fi, table-read version of your video. Act out the scenes (from your seat at the table) with paper props. Overlay a spoken narration. Don't spend any time on choreography, blocking, costumes, scenery, graphics, technology, or anything that would take effort. The goal in this milestone isn't to produce a slick video; it's to show the gist of the story you want to tell. Upload your video to YouTube and mark it as unlisted.
+Record a low-fi, table-read version of your video. In HCI, this is similar to [bodystorming](https://think.design/user-design-research/bodystorming/). Act out the scenes (from your seat at the table) with paper props. Overlay a spoken narration. Don't spend any time on choreography, blocking, costumes, scenery, graphics, technology, or anything that would take effort. The goal in this milestone isn't to produce a slick video; it's to show the gist of the story you want to tell. Upload your video to YouTube and mark it as unlisted.
 
 Before finalizing the concept, you must show your low-fi video to 2 people with the target disability to obtain their feedback. These may be the same people you invited to your workshop in P4. Do they like the idea? Do they resonate with the characters? Do they want this future to come to pass? Ask what they'd like you to change or improve to better realize their vision. If they consent, audio and video record the interviews. Be sure to take notes as well.
 
