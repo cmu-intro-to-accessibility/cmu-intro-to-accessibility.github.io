@@ -159,29 +159,29 @@ The LLM you used isn't the only game in town. They all perform differently.
 1. Model name and version of second LLM chosen.
 1. Identify the two scenarios you chose to submit.
 1. Scenario 1.
-    1. Prompt 1
+    1. Prompt 1. Turn in the prompt you wrote.
         1. First LLM response, rubric score for each criterion.
         1. Second LLM response, rubric score for each criterion.
-    1. Prompt 2
+    1. Prompt 2. Turn in the prompt you wrote.
         1. First LLM response, rubric score for each criterion.
         1. Second LLM response, rubric score for each criterion.
-    1. Prompt 3
+    1. Prompt 3. Turn in the prompt you wrote.
         1. First LLM response, rubric score for each criterion.
         1. Second LLM response, rubric score for each criterion.
-    1. Prompt 4
+    1. Prompt 4. Turn in the prompt you wrote.
         1. First LLM response, rubric score for each criterion.
         1. Second LLM response, rubric score for each criterion.
 1. Scenario 2.
-    1. Prompt 1
+    1. Prompt 1. Turn in the prompt you wrote.
         1. First LLM response, rubric score for each criterion.
         1. Second LLM response, rubric score for each criterion.
-    1. Prompt 2
+    1. Prompt 2. Turn in the prompt you wrote.
         1. First LLM response, rubric score for each criterion.
         1. Second LLM response, rubric score for each criterion.
-    1. Prompt 3
+    1. Prompt 3. Turn in the prompt you wrote.
         1. First LLM response, rubric score for each criterion.
         1. Second LLM response, rubric score for each criterion.
-    1. Prompt 4
+    1. Prompt 4. Turn in the prompt you wrote.
         1. First LLM response, rubric score for each criterion.
         1. Second LLM response, rubric score for each criterion.
 1. LLM Comparison
