@@ -1,0 +1,26 @@
+lectures:
+- date: Mon Oct 05
+  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/12-design-methods.pdf
+  name: Design Methods for Accessibility
+  readings:
+  - link: https://ieeexplore.ieee.org/document/8818889
+    name: 'From GenderMag to InclusiveMag: An Inclusive Design Meta-Method'
+  - link: https://dl.acm.org/doi/pdf/10.1145/3148051
+    name: Ability-Based Design Communications Article
+  - link: https://blog.castac.org/2022/04/disability-dongle/
+    name: Disability Dongle
+  - link: https://doi.org/10.1145/3308561.3353792
+    name: Making Memes Accessible
+- date: Wed Oct 07
+  link: ''
+  name: AI-Powered Assistive Technologies
+
+projects:
+- date: Mon Oct 05
+  deadline: Fri Oct 9
+  end_date: 2026-10-12 00:00:00
+  link: homework/HW5
+  name: HW5 - Accessibility through AI
+  numDays: 5
+
+recitation: null
