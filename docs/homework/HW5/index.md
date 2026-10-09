@@ -53,7 +53,7 @@ Submit your evaluation rubric table.
 
 ## 2. Scenarios
 
-Choose 2 of the following 3 scenarios to turn in for your assignment.
+Choose 2 of the following 3 scenarios to turn in for your assignment. In each scenario, use your creativity to write a prompt that gets the LLM to give you a good answer to your request... if it *can*. Evaluate the LLM's response with your rubric. For each rubric criterion, explain why you gave it that score.
 
 ### Scenario A: Transit
 
@@ -61,23 +61,23 @@ Consider the following scenario. A few years ago, you were diagnosed with [ALS](
 
 One early morning at 5am, you get into your car to go to work but find that it won't start. You need to get to work quickly for an important meeting, but none of your friends have a wheelchair-accessible car and Uber/Lyft show a wait time of 2 hours for the next wheelchair-accessible ride downtown. Oh well, you're going to have to take the bus. 
 
-* Ask an LLM to give you a wheelchair-accessible route on public transit from your house in the Whole Foods building to your job at Steel Plaza on Grant St. in downtown.
+* Write a prompt for an LLM to give you a wheelchair-accessible route on public transit from your house in the Whole Foods building to your job at Steel Plaza on Grant St. in downtown.
 
 You haven't taken the bus since before you were diagnosed with ALS. Can wheelchair users even get on a bus in Pittsburgh?
 
-* Ask an LLM to find out if any PRT buses are wheelchair accessible. Is the bus you need to travel on wheelchair accessible?
+* Write a prompt for an LLM to find out if any PRT buses are wheelchair accessible. Is the bus you need to travel on wheelchair accessible?
 
 Since you've never taken the bus while in a wheelchair, you'll need to ask the bus driver how to get on. But bus drivers in Pittsburgh are totally focused on the road and rarely talk to passengers. 
 
-* Ask an LLM to help you say the right thing to the bus driver to get the help you need to get on the bus.
+* Write a prompt for an LLM to help you say the right thing to the bus driver to get the help you need to get on the bus.
 
 Bus drivers are notoriously worried about being on time and would like to avoid getting out of their seat to help someone like you. You'd better look up how to secure your wheelchair yourself in the bus to ride safe. 
 
-* Ask an LLM to learn how to safely ride the bus in a wheelchair.
+* Write a prompt for an LLM to learn how to safely ride the bus in a wheelchair.
 
 Phew! Thanks to your LLM and Pittsburgh's public transit system, you made it to your meeting on time.
 
-* Evaluate the LLM's responses to each of your 4 prompts according to your grading rubric. How did it do? 
+* Evaluate the LLM's responses to each of your 4 prompts according to your grading rubric. Explain why you assigned each response its score. How did it do? 
 
 
 ### Scenario B: Accommodations Request
@@ -90,23 +90,23 @@ You need to write to the professor to obtain an ad hoc accommodation. You've nev
 
 Let's use an LLM to game out your options.
 
-* Ask an LLM for possible excuses you might give for not being in class for the midterm.
+* Write a prompt for an LLM for possible excuses you might give for not being in class for the midterm.
 
 Well, it's not really an excuse you want. You have done all the work and you would totally ace the midterm, if you were able to be there. 
 
-* Ask an LLM what kinds of accommodations your professor could offer you to enable you to demonstrate your amazing skills.
+* Write a prompt for an LLM what kinds of accommodations your professor could offer you to enable you to demonstrate your amazing skills.
 
 Now that you know what you want to ask for, it's time to communicate with your professor. You're worried about the tone of your correspondence; your non-autistic best friend says you always speak very directly without any social softening, which a non-autistic person might interpret as blunt or rude. Can an LLM help you self-advocate?
 
-* Ask an LLM to help you write an email to your professor explaining your situation and what you'd like to have happen about the midterm.
+* Write a prompt for an LLM to help you write an email to your professor explaining your situation and what you'd like to have happen about the midterm.
 
 The response you received from the professor asked you to talk to her over Zoom. Uh oh, did you get her mad? What should you say? 
 
-* Ask an LLM to help you game out 3 possible ways this conversation could go. For each possibility, ask an LLM to give you a reasonable response that will support your case and get you the accommodation you seek.
+* Write a prompt for an LLM to help you game out 3 possible ways this conversation could go. For each possibility, ask an LLM to give you a reasonable response that will support your case and get you the accommodation you seek.
 
 It worked! Your professor is so impressed with the quality of your work in this class that she has offered you a summer research internship. Woohoo!
 
-* Evaluate the LLM's responses to each of your 4 prompts according to your grading rubric. How did it do? 
+* Evaluate the LLM's responses to each of your 4 prompts according to your grading rubric. Explain why you assigned each response its score. How did it do? 
 
 ### Scenario C. Going Out with Friends
 
@@ -116,27 +116,27 @@ Some acquaintances at work invite you to hang out at a Pittsburgh Steelers game 
 
 Your friends tell you the seats are in Section 210. 
 
-* Ask an LLM if those seats are accessible. What assistive technologies could you bring to ensure you can manage any problems?
+* Write a prompt for an LLM if those seats are accessible. What assistive technologies could you bring to ensure you can manage any problems?
 
 Since you don't have your tickets, your friends casually tell you to meet them at Gate A East to grab the tickets and walk with them to your seat. 
 
 An Uber drops you off at the Stadium, a place you have never been.
 
-* Ask an LLM to help you navigate from the designated rideshare drop-off zone to Gate A East.
+* Write a prompt for an LLM to help you navigate from the designated rideshare drop-off zone to Gate A East.
 
 Phew, you made it to Gate A East. But this stadium is enormous! The game must be sold out because you hear the roar of thousands of people walking past you. Could that interfere with your cellphone? Drat! With so many people nearby, there's no signal!
 
 Well, this isn't your first rodeo. You thought something like this could happen. Fortunately, before you left home, you consulted your favorite LLM for advice.
 
-* Ask the LLM for ideas on how to find your friends.
+* Write a prompt for the LLM for ideas on how to find your friends.
 
 Thank goodness, you are now with your friends. They guide you to the seats and you start listening to the game. After a few beers, you have got to use the restroom.
 
-* Ask an LLM where the nearest bathroom is and how to get there. 
+* Write a prompt for an LLM where the nearest bathroom is and how to get there. 
 
 Ah, so much better. You find your way back to your friends and finish the game. Yay, the Steelers won! It must have been the [Terrible Towel](https://www.steelers.com/history/terrible-towel/) you brought that clinched it.
 
-* Evaluate the LLM's responses to each of your 4 prompts according to your grading rubric. How did it do? 
+* Evaluate the LLM's responses to each of your 4 prompts according to your grading rubric. Explain why you assigned each response its score. How did it do? 
 
 ## 3. Benchmark the LLMs
 
@@ -149,7 +149,7 @@ The LLM you used isn't the only game in town. They all perform differently.
     * Pick one prompt in which the second LLM beat the first. In your own words, explain why the second LLM's response was better (i.e., what did it say that seemed better to you?).
 
 * Did you use an LLM to run your evaluation rubric? If not, give it a try. 
-    * Do you agree with its assessment? Where did it differ?
+    * Do you agree with its assessment? Why or why not? Where did it differ?
     * There may be bias where the same LLM that responded to your prompt also evaluated the rubric against the response that it generated. Do you get better quality assessments if you use one LLM to evaluate the responses of another? 
 
 ## Submission
