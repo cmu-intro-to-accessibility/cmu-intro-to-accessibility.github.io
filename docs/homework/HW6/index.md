@@ -1,10 +1,10 @@
 # Homework 6: Accessibly Design with AI
 
-This homework is worth 200 points.
+This homework is worth 300 points.
 
 It should be done individually. 
 
-HW6 is due on Gradescope on Monday, November 2, 2026 11:00am ET.
+HW6 is due on Gradescope on Monday, November 9, 2026 11:00am ET.
 
 ## Learning Goals
 
