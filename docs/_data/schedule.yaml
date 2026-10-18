@@ -932,10 +932,10 @@
 
 - date: Mon Oct 19
   homework:
-    deadline: 'Mon Nov 2'
+    deadline: 'Mon Nov 9'
     link: ''
     name: 'HW6 - Accessibly Design with AI'
-    numDays: 10
+    numDays: 15
   project:
     deadline: 'Mon Nov 2'
     link: 'projects/P4'
@@ -1167,10 +1167,10 @@
 
 - date: Mon Nov 02
   homework:
-    deadline: 'Mon Nov 16'
+    deadline: ''
     link: ''
-    name: 'HW7 - Assistive Technology All Around Us'
-    numDays: 10
+    name: ''
+    numDays: 0
   project:
     deadline: 'Mon Nov 16'
     link: 'projects/P5'
@@ -1282,10 +1282,10 @@
 
 - date: Mon Nov 09
   homework:
-    deadline: ''
+    deadline: 'Tues Nov 24'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW7 - Lived Experiences with Disability'
+    numDays: 12
   project:
     deadline: ''
     link: ''
@@ -1397,10 +1397,10 @@
 
 - date: Mon Nov 16
   homework:
-    deadline: 'Tues Nov 24'
+    deadline: ''
     link: ''
-    name: 'HW8 - Lived Experiences with Disability'
-    numDays: 6
+    name: ''
+    numDays: 0
   project:
     deadline: 'Mon Nov 30'
     link: 'projects/P6'
