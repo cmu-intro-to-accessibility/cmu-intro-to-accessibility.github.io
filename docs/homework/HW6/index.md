@@ -18,7 +18,7 @@ You work for Amazon's Alexa team. After a few gangbuster years where everyone an
 
 A consulting company hires you to find out what went wrong with audio-only applications. Using what you learn, they want you to invent a new paradigm for an audio-only, GenAI-powered (it *is* 2026) web app they believe could reinvigorate the product category. There's no need to create more hardware, of course; everyone's already got an iPhone or Android phone that can accept audio input.
 
-You believe that there's an untapped market in selling this new kind of app to people with intellectual and developmental disabilities (IDD), specifically people who want to live mostly independentally, but are doing things in their homes where they can't look at a screen. You want to focus Amazon's attention on audio-only user interfaces to support people with IDD trying to accomplish basic home activities, like personal hygiene, picking out clothing, putting on makeup, cleaning the home, cooking a meal, or playing a game. 
+You believe that there's an untapped market in selling this new kind of app to people with intellectual and developmental disabilities (IDD), specifically people who want to live mostly independentally, but are doing tasks in their homes where they can't look at a screen. These could include someone with Down's Syndrome, autism with medium or high support needs, cerebral palsy, or even a traumatic brain injury. IDD can affect learning, problem-solving, communication, and self-care. You want to focus Amazon's attention on audio-only user interfaces to support people with IDD trying to accomplish basic home activities, like personal hygiene, picking out clothing, putting on makeup, cleaning the home, cooking a meal, or playing a game. 
 
 ## Instructions
 
