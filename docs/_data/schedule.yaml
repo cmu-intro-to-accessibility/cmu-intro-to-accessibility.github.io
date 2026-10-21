@@ -993,11 +993,17 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
-    name: 'TBD'
-  reading:
-    link: ''
-    name: ''
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/15-inclusive-education.pdf'
+    name: 'Inclusive Education'
+  readings:
+    - { link: 'https://udlguidelines.cast.org/static/udlg3-graphicorganizer-digital-nonumbers-a11y.pdf', name: 'Universal Design for Learning Guidelines'}
+    - { link: 'https://doi.org/10.1145/2839509.2844570', name: 'Differentiating for Diversity: Using Universal Design for Learning in Elementary Computer Science Education'}
+    - { link: 'https://doi.org/10.1145/3641011', name: 'Neurodiversity and the Accessible University: Exploring Organizational Barriers, Access Labor and Opportunities for Change'}
+    - { link: 'https://www.youtube.com/watch?v=CumrW0vj_a8', name: 'Deaf Kids Code' }
+    - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Accessible-CS-Ed-in-Colleges-and-Universities_Andrew-Begel.pdf', name: 'Accessible Computing Education in Colleges and Universities' }
+    - { link: 'https://www.washington.edu/accesscomputing/improving-equity-and-access-graduate-students-disabilities', name: 'Improving Equity and Access for Graduate Students with Disabilities'}
+    - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Report-Education-for-Employment-Pathways.pdf', name: 'Education for Employment Pathways' }
+    - { link: 'https://canvas.cmu.edu/courses/54207/files?preview=14483175', name: 'The Dandelion Principle: Redesigning Work for the Innovation Economy'}
   recitation:
     handout: ''
     name: ''
@@ -1527,16 +1533,10 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Education'
-  readings:
-    - { link: 'https://udlguidelines.cast.org/static/udlg3-graphicorganizer-digital-nonumbers-a11y.pdf', name: 'Universal Design for Learning Guidelines'}
-    - { link: 'https://doi.org/10.1145/2839509.2844570', name: 'Differentiating for Diversity: Using Universal Design for Learning in Elementary Computer Science Education'}
-    - { link: 'https://doi.org/10.1145/3641011', name: 'Neurodiversity and the Accessible University: Exploring Organizational Barriers, Access Labor and Opportunities for Change'}
-    - { link: 'https://www.youtube.com/watch?v=CumrW0vj_a8', name: 'Deaf Kids Code' }
-    - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Accessible-CS-Ed-in-Colleges-and-Universities_Andrew-Begel.pdf', name: 'Accessible Computing Education in Colleges and Universities' }
-    - { link: 'https://www.washington.edu/accesscomputing/improving-equity-and-access-graduate-students-disabilities', name: 'Improving Equity and Access for Graduate Students with Disabilities'}
-    - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Report-Education-for-Employment-Pathways.pdf', name: 'Education for Employment Pathways' }
-    - { link: 'https://canvas.cmu.edu/courses/54207/files?preview=14483175', name: 'The Dandelion Principle: Redesigning Work for the Innovation Economy'}
+    name: 'TBD'
+  reading:
+    link: ''
+    name: ''
   recitation:
     handout: ''
     name: ''
