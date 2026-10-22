@@ -1,0 +1,17 @@
+lectures:
+- date: Mon Oct 19
+  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/14-design-process.pdf
+  name: Design Process
+- date: Wed Oct 21
+  link: ''
+  name: TBD
+
+projects:
+- date: Mon Oct 19
+  deadline: Mon Nov 9
+  end_date: 2026-11-09 00:00:00
+  link: homework/HW6
+  name: HW6 - Accessibly Design with AI
+  numDays: 15
+
+recitation: null
