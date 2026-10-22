@@ -1002,8 +1002,6 @@
     - { link: 'https://www.youtube.com/watch?v=CumrW0vj_a8', name: 'Deaf Kids Code' }
     - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Accessible-CS-Ed-in-Colleges-and-Universities_Andrew-Begel.pdf', name: 'Accessible Computing Education in Colleges and Universities' }
     - { link: 'https://www.washington.edu/accesscomputing/improving-equity-and-access-graduate-students-disabilities', name: 'Improving Equity and Access for Graduate Students with Disabilities'}
-    - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Report-Education-for-Employment-Pathways.pdf', name: 'Education for Employment Pathways' }
-    - { link: 'https://canvas.cmu.edu/courses/54207/files?preview=14483175', name: 'The Dandelion Principle: Redesigning Work for the Innovation Economy'}
   recitation:
     handout: ''
     name: ''
@@ -1231,9 +1229,9 @@
   lecture:
     link: ''
     name: 'Employment'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Report-Education-for-Employment-Pathways.pdf', name: 'Education for Employment Pathways' }
+    - { link: 'https://canvas.cmu.edu/courses/54207/files?preview=14483175', name: 'The Dandelion Principle: Redesigning Work for the Innovation Economy'}
   recitation:
     handout: ''
     name: ''
