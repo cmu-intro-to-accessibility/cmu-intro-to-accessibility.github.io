@@ -1,10 +1,10 @@
 lectures:
-- date: Mon Oct 19
-  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/14-design-process.pdf
-  name: Design Process
-- date: Wed Oct 21
+- date: Mon Oct 26
   link: ''
-  name: TBD
+  name: Design Studio
+- date: Wed Oct 28
+  link: ''
+  name: Guest Lecturer - Aaron Steinfeld - Transportation Accessibility
 
 projects:
 - date: Mon Oct 19
