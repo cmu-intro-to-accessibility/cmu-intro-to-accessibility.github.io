@@ -1,0 +1,17 @@
+lectures:
+- date: Mon Oct 26
+  link: ''
+  name: Design Studio
+- date: Wed Oct 28
+  link: ''
+  name: Guest Lecturer - Aaron Steinfeld - Transportation Accessibility
+
+projects:
+- date: Mon Oct 19
+  deadline: Mon Nov 9
+  end_date: 2026-11-09 00:00:00
+  link: homework/HW6
+  name: HW6 - Accessibly Design with AI
+  numDays: 15
+
+recitation: null
