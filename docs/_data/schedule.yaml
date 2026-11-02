@@ -1,11 +1,11 @@
 - date: Mon Aug 24 2026
   homework:
-    deadline: 'Mon Aug 31'
+    deadline: 'Mon Aug 31 2026'
     link: 'homework/HW1'
     name: 'HW1 - Accessible Presentations'
     numDays: 5
   project:
-    deadline: 'Mon Aug 31'
+    deadline: 'Mon Aug 31 2026'
     link: 'https://bit.ly/accessibility-teamwork-survey'
     name: 'P0 - Skills and Team Survey'
     numDays: 5
@@ -115,7 +115,7 @@
 
 - date: Mon Aug 31 2026
   homework:
-    deadline: 'Fri Sep 4'
+    deadline: 'Fri Sep 4 2026'
     link: 'homework/HW2'
     name: 'HW2 - Disability Deep Dive'
     numDays: 5
@@ -168,7 +168,7 @@
     name: ''
     numDays: 0
   project:
-    deadline: 'Mon Sep 14'
+    deadline: 'Mon Sep 14 2026'
     link: 'projects/P0'
     name: 'Project Overview'
     numDays: 3
@@ -286,12 +286,12 @@
 
 - date: Wed Sep 09 2026
   homework:
-    deadline: 'Wed Sep 16'
+    deadline: 'Wed Sep 16 2026'
     link: 'homework/HW3'
     name: 'HW3 - Try Out Assistive Technology'
     numDays: 5
   project:
-    deadline: 'Mon Sep 14'
+    deadline: 'Mon Sep 14 2026'
     link: 'projects/P1'
     name: 'P1 - Team Formation / Team Contract'
     numDays: 3
@@ -359,7 +359,7 @@
     name: ''
     numDays: 0
   project:
-    deadline: 'Mon Sep 21'
+    deadline: 'Mon Sep 21 2026'
     link: 'projects/P2'
     name: 'P2 - Project Investigation'
     numDays: 5
@@ -400,7 +400,7 @@
 
 - date: Wed Sep 16 2026
   homework:
-    deadline: 'Wed Sep 23'
+    deadline: 'Wed Sep 23 2026'
     link: 'homework/HW4'
     name: 'HW4 - Accessibility Evaluation'
     numDays: 5
@@ -473,7 +473,7 @@
     name: ''
     numDays: 0
   project:
-    deadline: 'Fri Oct 9'
+    deadline: 'Fri Oct 9 2026'
     link: 'projects/P3'
     name: 'P3 - Project Specification + Human Subjects Review'
     numDays: 15
@@ -700,7 +700,7 @@
 
 - date: Mon Oct 05 2026
   homework:
-    deadline: 'Fri Oct 9'
+    deadline: 'Fri Oct 9 2026'
     link: 'homework/HW5'
     name: 'HW5 - Accessibility through AI'
     numDays: 5
@@ -932,12 +932,12 @@
 
 - date: Mon Oct 19 2026
   homework:
-    deadline: 'Mon Nov 9'
+    deadline: 'Mon Nov 9 2026'
     link: 'homework/HW6'
     name: 'HW6 - Accessibly Design with AI'
     numDays: 15
   project:
-    deadline: 'Mon Nov 2'
+    deadline: 'Mon Nov 2 2026'
     link: 'projects/P4'
     name: 'P4 - Project Milestone 1'
     numDays: 10
@@ -1176,7 +1176,7 @@
     name: ''
     numDays: 0
   project:
-    deadline: 'Mon Nov 16'
+    deadline: 'Mon Nov 16 2026'
     link: 'projects/P5'
     name: 'P5 - Project Milestone 2'
     numDays: 10
@@ -1286,7 +1286,7 @@
 
 - date: Mon Nov 09 2026
   homework:
-    deadline: 'Tues Nov 24'
+    deadline: 'Tues Nov 24 2026'
     link: ''
     name: 'HW7 - Lived Experiences with Disability'
     numDays: 12
@@ -1406,7 +1406,7 @@
     name: ''
     numDays: 0
   project:
-    deadline: 'Mon Nov 30'
+    deadline: 'Mon Nov 30 2026'
     link: 'projects/P6'
     name: 'P6 - Project Milestone 3'
     numDays: 10
@@ -1640,7 +1640,7 @@
     name: ''
     numDays: 0
   project:
-    deadline: 'Wed Dec 2'
+    deadline: 'Wed Dec 2 2026'
     link: 'projects/P7'
     name: 'P7 - Project Presentation'
     numDays: 2
@@ -1686,7 +1686,7 @@
     name: ''
     numDays: 0
   project:
-    deadline: 'Wed Dec 9'
+    deadline: 'Wed Dec 9 2026'
     link: 'projects/P7'
     name: 'P7 - Project Delivery'
     numDays: 5
