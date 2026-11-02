@@ -1181,7 +1181,7 @@
     name: 'P5 - Project Milestone 2'
     numDays: 10
   lecture:
-    link: ''
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/18-diy-at-ruffing.pdf'
     name: 'Do-It-Yourself Assistive Technology - Guest Speaker Jeffrey Ruffing - Inglis.org'
   readings:
       - { link: 'https://doi.org/10.1145/2049536.2049541', name: 'Empowering individuals with do-it-yourself assistive technology' }
