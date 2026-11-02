@@ -23,7 +23,7 @@ for single_date in daterange(start_date, end_date):
     if (single_date.weekday() > 4):
         continue
 
-    str_date = single_date.strftime("%a %b %d")
+    str_date = single_date.strftime("%a %b %d %Y")
     dict_file.append({
         "date": str_date, 
         "lecture": {
@@ -36,16 +36,16 @@ for single_date in daterange(start_date, end_date):
             "handout": "",
             "quiz": ""
         }, 
-        "reading": {
-            "name": "",
-            "link": ""
-        }, 
+        "readings": [
+            { "name": "", "link": "" },
+            { "name": "", "link": "" }
+        ], 
         "homework": {
             "name": "",
             "deadline": "",
             "link": "",
             "numDays": 0
-        }
+        },
         "project": {
             "name": "",
             "deadline": "",
