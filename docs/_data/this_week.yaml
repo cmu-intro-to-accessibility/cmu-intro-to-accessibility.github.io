@@ -8,8 +8,8 @@ lectures:
   - link: https://doi.org/10.1145/3290605.3300544
     name: Occupational Therapy is Making
 - date: Wed Nov 04 2026
-  link: ''
-  name: Employment
+  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/19-disability-employment.pdf
+  name: Autistic Employment
   readings:
   - link: https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Report-Education-for-Employment-Pathways.pdf
     name: Education for Employment Pathways
