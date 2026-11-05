@@ -1458,14 +1458,10 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Disability, Policy, and Advocacy'
-  readings:
-    - { link: 'https://dl.acm.org/doi/full/10.1145/3544548.3581480', name: 'Counterventions: a reparative reflection on interventionist HCI' }
-    - { link: 'https://dl.acm.org/doi/10.1145/3290607.3310433', name: 'A Mulching Proposal' }
-    - { link: 'https://www.amazon.com/Disability-Pride-Dispatches-Post-ADA-World/dp/0807013331/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UUYzI3w8PDi99_alvz7FAUgNMzvXS5qHjZiNGLrttlUTdLFO68dcP8hiBHL9cFnoEth9nh6a5SEAtyQeEtbS425udFf4xqf615LBZn4wnwUEnlC4rp8ow6rvD_OtMWGeDQQhVeOHJTzKSiYgAswaLnUmrdxeQTyZqwnsiVSf4NnaGxCOCtny6UZwQZX48XQ4GrZZcohQSt8XnZc6gdZilGkMPMEFDxOfmEqrpdOd9gzqvAg4VmQeaLnL01uPvzUB33yPyE-WU4d9RP3pZU31lJstoV_k9RJmkZ8Nl9jFHXw.hOCU-jnPk3qfxxwDbfgFFmb7oMCvA0Guq6tAi8TnD-c&dib_tag=se&keywords=disability+pride&qid=1726413100&sr=8-4', name: 'Disability Pride: Dispatches from a Post-ADA World (DONT READ THE WHOLE BOOK)'}
-    - { link: 'https://canvas.cmu.edu/courses/42586/files/11510661?wrap=1', name: 'Chapter 3 from the book Disability Pride' }
-    - { link: 'https://canvas.cmu.edu/courses/42586/files/11510662?wrap=1', name: 'Chapter 5 from the book Disability Pride' }
-    - { link: 'https://www.youtube.com/watch?v=LUkKSbbdHmo', name: 'Intersection Advocacy from the Autistic Self-Advocacy Network'}
+    name: 'CLASS FIELD TRIP - University of Pittsburgh Human Engineering Research Lab (HERL) - 6425 Penn Ave. Suite 400. Meet at Forbes and Morewood bus stop to take the bus to Bakery Square at 11:00am. Visit starts at 11:30am. Tour is 30 minutes plus optional 30 minutes more for those who can stay. Then we'll take the bus back to CMU.'
+  reading:
+    link: ''
+    name: ''
   recitation:
     handout: ''
     name: ''
@@ -1531,10 +1527,14 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'TBD'
-  reading:
-    link: ''
-    name: ''
+    name: 'Disability, Policy, and Advocacy'
+  readings:
+    - { link: 'https://dl.acm.org/doi/full/10.1145/3544548.3581480', name: 'Counterventions: a reparative reflection on interventionist HCI' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3290607.3310433', name: 'A Mulching Proposal' }
+    - { link: 'https://www.amazon.com/Disability-Pride-Dispatches-Post-ADA-World/dp/0807013331/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UUYzI3w8PDi99_alvz7FAUgNMzvXS5qHjZiNGLrttlUTdLFO68dcP8hiBHL9cFnoEth9nh6a5SEAtyQeEtbS425udFf4xqf615LBZn4wnwUEnlC4rp8ow6rvD_OtMWGeDQQhVeOHJTzKSiYgAswaLnUmrdxeQTyZqwnsiVSf4NnaGxCOCtny6UZwQZX48XQ4GrZZcohQSt8XnZc6gdZilGkMPMEFDxOfmEqrpdOd9gzqvAg4VmQeaLnL01uPvzUB33yPyE-WU4d9RP3pZU31lJstoV_k9RJmkZ8Nl9jFHXw.hOCU-jnPk3qfxxwDbfgFFmb7oMCvA0Guq6tAi8TnD-c&dib_tag=se&keywords=disability+pride&qid=1726413100&sr=8-4', name: 'Disability Pride: Dispatches from a Post-ADA World (DONT READ THE WHOLE BOOK)'}
+    - { link: 'https://canvas.cmu.edu/courses/42586/files/11510661?wrap=1', name: 'Chapter 3 from the book Disability Pride' }
+    - { link: 'https://canvas.cmu.edu/courses/42586/files/11510662?wrap=1', name: 'Chapter 5 from the book Disability Pride' }
+    - { link: 'https://www.youtube.com/watch?v=LUkKSbbdHmo', name: 'Intersection Advocacy from the Autistic Self-Advocacy Network'}
   recitation:
     handout: ''
     name: ''
