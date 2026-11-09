@@ -4,7 +4,7 @@ This homework is worth 300 points.
 
 It should be done individually. 
 
-HW7 is due on Gradescope on Monday, November 23, 2026 11:00am ET.
+HW7 is due on Gradescope on Tuesday, November 24, 2026 11:59pm ET.
 
 ## Learning Goals
 
