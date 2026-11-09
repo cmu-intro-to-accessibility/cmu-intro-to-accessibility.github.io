@@ -81,15 +81,13 @@ nav:
           - 'homework/HW5/index.md'
       - 'Homework 6: Accessibly Design with AI':
           - 'homework/HW6/index.md'
-#      - 'Homework 8 Celebrating Accessibility Essay':
-#          - 'homework/HW8/index.md'
+      - 'Homework 7: Understanding Disability':
+          - 'homework/HW7/index.md'
   - Projects:
 #      - 'Projects':
 #          - 'projects/index.md' # Dummy home page
       - 'Project Overview':
           - projects/P0/index.md # Dummy home page; remove once we start adding projects below
-#      - '1 Project Pitches':
-#          - projects/P1/index.md
       - '1. Team Contract':
           - projects/P1/index.md
       - '2. Project Investigation':
@@ -105,8 +103,6 @@ nav:
       - '7. Final Presentation and Delivery':
           - projects/P6/index.md
           - "7A. Project Presentation": projects/P7/1_final_presentation.md
-#          - "6B. Project Report": projects/P6/2_final_report.md
-#          - "6C. Project Reflection": projects/P6/3_reflection.md
           - "7B. Project Delivery": projects/P7/4_delivery.md
   - Prior Offerings:
       - 'Fall 2024':

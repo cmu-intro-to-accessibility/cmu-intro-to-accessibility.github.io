@@ -29,7 +29,9 @@ The goal is to understand both what research tells us about disability and what 
 
 ## 0. Choose a disability
 
-Choose a disability that a personal friend or family member has and that you would like to learn more about.
+Choose a disability that a personal friend or family member has and that you would like to learn more about. 
+
+**You may choose the disability you chose in HW2 or choose a different one.** Do not feel constrained by your choices earlier in the semester.
 
 **You may not choose a disability that you have yourself.** The purpose of this assignment is to learn about someone else's disability experience rather than describe your own. If you and your friend or family member have the same disability, choose a different disability and interview another friend or family member.
 
@@ -46,31 +48,26 @@ Before interviewing your friend or family member, you will research the disabili
 Your essay should address the following topics.
 
 1. Understanding the disability
-    - What is the disability?
-    - How does it affect people's everyday life activities?
+    - What is the disability? Name it and describe it in one sentence.
+    - How does it affect people's social activities?
 2. Challenges and joys
     - What personal and social challenges do people with this disability commonly face?
     - Which challenges come from the disability itself, and which come from inaccessible environments or other people's attitudes (e.g., discrimination or microaggressions)?
     - What joys, strengths, or positive experiences do people with this disability describe?
 3. Assistive technology (AT)
     - What assistive technologies do people with this disability commonly use to support their personal or social activities?
-    - How do these technologies improve accessibility or independence?
-    - What problems, limitations, or risks can these technologies create?
+    - How do the assistive technologies commonly used by people with this disability improve physical and/or digital accessibility?
+    - What problems, limitations, or risks can these technologies create for the people who use them? What about for the people around the ones who use them?
 4. Accessibility
-    - What accessibility barriers do people with this disability encounter in education?
-    - What accessibility barriers do they encounter in employment?
-    - What accessibility barriers do they encounter in public places?
-    - What accessibility barriers do they encounter in everyday life?
+    - What accessibility barriers or forms of discrimination do people with this disability encounter in education?
+    - What accessibility barriers or forms of discrimination do they encounter in employment?
+    - What accessibility barriers or forms of discrimination do they encounter in public services?
+    - What accessibility barriers or forms of discrimination do they encounter from the people closest to them (i.e., their family and friends)?
 5. Independence and interdependence
     - What does independence mean for people with this disability?
     - How can AT help people with this disability become more independent?
     - No one is ever truly independent. How do people with this disability depend on others, and how do others depend on them?
-6. Historical context
-    - Your answers to the previous questions are true circa 2026. For a person in the USA with this disability, how would their life have been different prior to the passage of the Rehabilitation Act of 1973 (the first disability rights law)? 
-    - What rights and opportunities did the Rehabilitation Act help establish?
-    - How did later laws, such as the Architectural Barriers Act of 1982, the Individuals with Disabilities Education Act of 1975, or the Americans with Disabilities Act (ADA) of 1990, build on those protections?
 
-Consider education, employment, public services, and accessibility (physical and digital). Remember that these laws did not eliminate discrimination or accessibility barriers.
 
 ### Research and citation requirements
 
@@ -80,7 +77,7 @@ Use **at least five credible sources**, including:
 - At least one reliable source about disability rights, laws, or history.
 - At least two first-person accounts or sources created by people with the disability.
 
-One source may meet more than one of these requirements.
+One source may meet more than one of these requirements. You may not use Wikipedia or other encyclopedia as a reference. Do not cite an LLM as a credible source.
 
 **All citations must follow APA format.** Use APA-style in-text citations to support information from your sources. Your essay must end with a **References** section listing all sources cited, formatted according to APA guidelines.
 
@@ -128,7 +125,7 @@ You do not need to ask every question.
     - What are some of the greatest joys or most rewarding experiences in your life that are connected to your disability?
     - Tell me a story about something important in your life that has not been affected by your disability. 
     - What other parts of your identity, such as your race, gender, age, culture, profession, or socioeconomic background, affect how you experience your disability? Can you describe a situation where your experience might differ from that of someone with the same disability but a different intersectional identity?
-    - How has your understanding of your own disability changed as you have gotten older? 
+    - How has your understanding or acceptance of your own disability changed as you have gotten older? 
 2. Assistive technology
     - What is the most important assistive technology you use? Why do you use it?
     - What do you like most about this technology? How has it improved your life?
