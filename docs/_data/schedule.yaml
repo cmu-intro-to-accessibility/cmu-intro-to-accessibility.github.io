@@ -1,11 +1,11 @@
-- date: Mon Aug 24
+- date: Mon Aug 24 2026
   homework:
-    deadline: 'Mon Aug 31'
+    deadline: 'Mon Aug 31 2026'
     link: 'homework/HW1'
     name: 'HW1 - Accessible Presentations'
     numDays: 5
   project:
-    deadline: 'Mon Aug 31'
+    deadline: 'Mon Aug 31 2026'
     link: 'https://bit.ly/accessibility-teamwork-survey'
     name: 'P0 - Skills and Team Survey'
     numDays: 5
@@ -21,7 +21,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Aug 25
+- date: Tue Aug 25 2026
   homework:
     deadline: ''
     link: ''
@@ -44,7 +44,7 @@
     quiz: ''
     slides: ''
 
-- date: Wed Aug 26
+- date: Wed Aug 26 2026
   homework:
     deadline: ''
     link: ''
@@ -67,7 +67,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Aug 27
+- date: Thu Aug 27 2026
   homework:
     deadline: ''
     link: ''
@@ -90,7 +90,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Aug 28
+- date: Fri Aug 28 2026
   homework:
     deadline: ''
     link: ''
@@ -113,9 +113,9 @@
     quiz: ''
     slides: ''
 
-- date: Mon Aug 31
+- date: Mon Aug 31 2026
   homework:
-    deadline: 'Fri Sep 4'
+    deadline: 'Fri Sep 4 2026'
     link: 'homework/HW2'
     name: 'HW2 - Disability Deep Dive'
     numDays: 5
@@ -138,7 +138,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Sep 01
+- date: Tue Sep 01 2026
   homework:
     deadline: ''
     link: ''
@@ -161,14 +161,14 @@
     quiz: ''
     slides: ''
 
-- date: Wed Sep 02
+- date: Wed Sep 02 2026
   homework:
     deadline: ''
     link: ''
     name: ''
     numDays: 0
   project:
-    deadline: 'Mon Sep 14'
+    deadline: 'Mon Sep 14 2026'
     link: 'projects/P0'
     name: 'Project Overview'
     numDays: 3
@@ -192,7 +192,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Sep 03
+- date: Thu Sep 03 2026
   homework:
     deadline: ''
     link: ''
@@ -215,7 +215,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Sep 04
+- date: Fri Sep 04 2026
   homework:
     deadline: ''
     link: ''
@@ -238,7 +238,7 @@
     quiz: ''
     slides: ''
 
-- date: Mon Sep 07
+- date: Mon Sep 07 2026
   homework:
     deadline: ''
     link: ''
@@ -261,7 +261,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Sep 08
+- date: Tue Sep 08 2026
   homework:
     deadline: ''
     link: ''
@@ -284,14 +284,14 @@
     quiz: ''
     slides: ''
 
-- date: Wed Sep 09
+- date: Wed Sep 09 2026
   homework:
-    deadline: 'Wed Sep 16'
+    deadline: 'Wed Sep 16 2026'
     link: 'homework/HW3'
     name: 'HW3 - Try Out Assistive Technology'
     numDays: 5
   project:
-    deadline: 'Mon Sep 14'
+    deadline: 'Mon Sep 14 2026'
     link: 'projects/P1'
     name: 'P1 - Team Formation / Team Contract'
     numDays: 3
@@ -306,7 +306,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Sep 10
+- date: Thu Sep 10 2026
   homework:
     deadline: ''
     link: ''
@@ -329,7 +329,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Sep 11
+- date: Fri Sep 11 2026
   homework:
     deadline: ''
     link: ''
@@ -352,14 +352,14 @@
     quiz: ''
     slides: ''
 
-- date: Mon Sep 14
+- date: Mon Sep 14 2026
   homework:
     deadline: ''
     link: ''
     name: ''
     numDays: 0
   project:
-    deadline: 'Mon Sep 21'
+    deadline: 'Mon Sep 21 2026'
     link: 'projects/P2'
     name: 'P2 - Project Investigation'
     numDays: 5
@@ -375,7 +375,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Sep 15
+- date: Tue Sep 15 2026
   homework:
     deadline: ''
     link: ''
@@ -398,9 +398,9 @@
     quiz: ''
     slides: ''
 
-- date: Wed Sep 16
+- date: Wed Sep 16 2026
   homework:
-    deadline: 'Wed Sep 23'
+    deadline: 'Wed Sep 23 2026'
     link: 'homework/HW4'
     name: 'HW4 - Accessibility Evaluation'
     numDays: 5
@@ -420,7 +420,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Sep 17
+- date: Thu Sep 17 2026
   homework:
     deadline: ''
     link: ''
@@ -443,7 +443,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Sep 18
+- date: Fri Sep 18 2026
   homework:
     deadline: ''
     link: ''
@@ -466,14 +466,14 @@
     quiz: ''
     slides: ''
 
-- date: Mon Sep 21
+- date: Mon Sep 21 2026
   homework:
     deadline: ''
     link: ''
     name: ''
     numDays: 0
   project:
-    deadline: 'Fri Oct 9'
+    deadline: 'Fri Oct 9 2026'
     link: 'projects/P3'
     name: 'P3 - Project Specification + Human Subjects Review'
     numDays: 15
@@ -489,7 +489,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Sep 22
+- date: Tue Sep 22 2026
   homework:
     deadline: ''
     link: ''
@@ -512,7 +512,7 @@
     quiz: ''
     slides: ''
 
-- date: Wed Sep 23
+- date: Wed Sep 23 2026
   homework:
     deadline: ''
     link: ''
@@ -535,7 +535,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Sep 24
+- date: Thu Sep 24 2026
   homework:
     deadline: ''
     link: ''
@@ -558,7 +558,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Sep 25
+- date: Fri Sep 25 2026
   homework:
     deadline: ''
     link: ''
@@ -581,7 +581,7 @@
     quiz: ''
     slides: ''
 
-- date: Mon Sep 28
+- date: Mon Sep 28 2026
   homework:
     deadline: ''
     link: ''
@@ -604,7 +604,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Sep 29
+- date: Tue Sep 29 2026
   homework:
     deadline: ''
     link: ''
@@ -627,7 +627,7 @@
     quiz: ''
     slides: ''
 
-- date: Wed Sep 30
+- date: Wed Sep 30 2026
   homework:
     deadline: ''
     link: ''
@@ -652,7 +652,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Oct 01
+- date: Thu Oct 01 2026
   homework:
     deadline: ''
     link: ''
@@ -675,7 +675,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Oct 02
+- date: Fri Oct 02 2026
   homework:
     deadline: ''
     link: ''
@@ -698,9 +698,9 @@
     quiz: ''
     slides: ''
 
-- date: Mon Oct 05
+- date: Mon Oct 05 2026
   homework:
-    deadline: 'Fri Oct 9'
+    deadline: 'Fri Oct 9 2026'
     link: 'homework/HW5'
     name: 'HW5 - Accessibility through AI'
     numDays: 5
@@ -723,7 +723,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Oct 06
+- date: Tue Oct 06 2026
   homework:
     deadline: ''
     link: ''
@@ -746,7 +746,7 @@
     quiz: ''
     slides: ''
 
-- date: Wed Oct 07
+- date: Wed Oct 07 2026
   homework:
     deadline: ''
     link: ''
@@ -769,7 +769,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Oct 08
+- date: Thu Oct 08 2026
   homework:
     deadline: ''
     link: ''
@@ -792,7 +792,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Oct 09
+- date: Fri Oct 09 2026
   homework:
     deadline: ''
     link: ''
@@ -815,7 +815,7 @@
     quiz: ''
     slides: ''
 
-- date: Mon Oct 12
+- date: Mon Oct 12 2026
   homework:
     deadline: ''
     link: ''
@@ -838,7 +838,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Oct 13
+- date: Tue Oct 13 2026
   homework:
     deadline: ''
     link: ''
@@ -861,7 +861,7 @@
     quiz: ''
     slides: ''
 
-- date: Wed Oct 14
+- date: Wed Oct 14 2026
   homework:
     deadline: ''
     link: ''
@@ -884,7 +884,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Oct 15
+- date: Thu Oct 15 2026
   homework:
     deadline: ''
     link: ''
@@ -907,7 +907,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Oct 16
+- date: Fri Oct 16 2026
   homework:
     deadline: ''
     link: ''
@@ -930,14 +930,14 @@
     quiz: ''
     slides: ''
 
-- date: Mon Oct 19
+- date: Mon Oct 19 2026
   homework:
-    deadline: 'Mon Nov 9'
+    deadline: 'Mon Nov 9 2026'
     link: 'homework/HW6'
     name: 'HW6 - Accessibly Design with AI'
     numDays: 15
   project:
-    deadline: 'Mon Nov 2'
+    deadline: 'Mon Nov 2 2026'
     link: 'projects/P4'
     name: 'P4 - Project Milestone 1'
     numDays: 10
@@ -958,7 +958,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Oct 20
+- date: Tue Oct 20 2026
   homework:
     deadline: ''
     link: ''
@@ -981,7 +981,7 @@
     quiz: ''
     slides: ''
 
-- date: Wed Oct 21
+- date: Wed Oct 21 2026
   homework:
     deadline: ''
     link: ''
@@ -1008,7 +1008,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Oct 22
+- date: Thu Oct 22 2026
   homework:
     deadline: ''
     link: ''
@@ -1031,7 +1031,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Oct 23
+- date: Fri Oct 23 2026
   homework:
     deadline: ''
     link: ''
@@ -1054,7 +1054,7 @@
     quiz: ''
     slides: ''
 
-- date: Mon Oct 26
+- date: Mon Oct 26 2026
   homework:
     deadline: ''
     link: ''
@@ -1077,7 +1077,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Oct 27
+- date: Tue Oct 27 2026
   homework:
     deadline: ''
     link: ''
@@ -1100,7 +1100,7 @@
     quiz: ''
     slides: ''
 
-- date: Wed Oct 28
+- date: Wed Oct 28 2026
   homework:
     deadline: ''
     link: ''
@@ -1112,8 +1112,8 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
-    name: 'Guest Lecturer - Aaron Steinfeld - Transportation Accessibility'
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/17-accessible-transportation.pdf'
+    name: 'Guest Lecturer - Aaron Steinfeld - Accessible Transportation'
   reading:
     link: ''
     name: ''
@@ -1123,30 +1123,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Oct 29
-  homework:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
-  project:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
-  lecture:
-    link: ''
-    name: ''
-  reading:
-    link: ''
-    name: ''
-  recitation:
-    handout: ''
-    name: ''
-    quiz: ''
-    slides: ''
-
-- date: Fri Oct 30
+- date: Thu Oct 29 2026
   homework:
     deadline: ''
     link: ''
@@ -1169,19 +1146,42 @@
     quiz: ''
     slides: ''
 
-- date: Mon Nov 02
+- date: Fri Oct 30 2026
   homework:
     deadline: ''
     link: ''
     name: ''
     numDays: 0
   project:
-    deadline: 'Mon Nov 16'
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Nov 02 2026
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: 'Mon Nov 16 2026'
     link: 'projects/P5'
     name: 'P5 - Project Milestone 2'
     numDays: 10
   lecture:
-    link: ''
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/18-diy-at-ruffing.pdf'
     name: 'Do-It-Yourself Assistive Technology - Guest Speaker Jeffrey Ruffing - Inglis.org'
   readings:
       - { link: 'https://doi.org/10.1145/2049536.2049541', name: 'Empowering individuals with do-it-yourself assistive technology' }
@@ -1192,7 +1192,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Nov 03
+- date: Tue Nov 03 2026
   homework:
     deadline: ''
     link: ''
@@ -1215,7 +1215,7 @@
     quiz: ''
     slides: ''
 
-- date: Wed Nov 04
+- date: Wed Nov 04 2026
   homework:
     deadline: ''
     link: ''
@@ -1227,8 +1227,8 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
-    name: 'Employment'
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/19-disability-employment.pdf'
+    name: 'Autistic Employment'
   readings:
     - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Report-Education-for-Employment-Pathways.pdf', name: 'Education for Employment Pathways' }
     - { link: 'https://canvas.cmu.edu/courses/54207/files?preview=14483175', name: 'The Dandelion Principle: Redesigning Work for the Innovation Economy'}
@@ -1238,7 +1238,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Nov 05
+- date: Thu Nov 05 2026
   homework:
     deadline: ''
     link: ''
@@ -1261,7 +1261,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Nov 06
+- date: Fri Nov 06 2026
   homework:
     deadline: ''
     link: ''
@@ -1284,10 +1284,10 @@
     quiz: ''
     slides: ''
 
-- date: Mon Nov 09
+- date: Mon Nov 09 2026
   homework:
-    deadline: 'Tues Nov 24'
-    link: ''
+    deadline: 'Tues Nov 24 2026'
+    link: 'homework/HW7'
     name: 'HW7 - Lived Experiences with Disability'
     numDays: 12
   project:
@@ -1296,7 +1296,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/20-adaptive-sports.pdf'
     name: 'Guest Lecturer - Prof. Patrick Carrington (CMU HCII)'
   reading:
     link: ''
@@ -1307,7 +1307,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Nov 10
+- date: Tue Nov 10 2026
   homework:
     deadline: ''
     link: ''
@@ -1330,7 +1330,7 @@
     quiz: ''
     slides: ''
 
-- date: Wed Nov 11
+- date: Wed Nov 11 2026
   homework:
     deadline: ''
     link: ''
@@ -1353,7 +1353,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Nov 12
+- date: Thu Nov 12 2026
   homework:
     deadline: ''
     link: ''
@@ -1376,7 +1376,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Nov 13
+- date: Fri Nov 13 2026
   homework:
     deadline: ''
     link: ''
@@ -1399,14 +1399,14 @@
     quiz: ''
     slides: ''
 
-- date: Mon Nov 16
+- date: Mon Nov 16 2026
   homework:
     deadline: ''
     link: ''
     name: ''
     numDays: 0
   project:
-    deadline: 'Mon Nov 30'
+    deadline: 'Mon Nov 30 2026'
     link: 'projects/P6'
     name: 'P6 - Project Milestone 3'
     numDays: 10
@@ -1422,7 +1422,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Nov 17
+- date: Tue Nov 17 2026
   homework:
     deadline: ''
     link: ''
@@ -1445,7 +1445,76 @@
     quiz: ''
     slides: ''
 
-- date: Wed Nov 18
+- date: Wed Nov 18 2026
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'CLASS FIELD TRIP - University of Pittsburgh Human Engineering Research Lab (HERL) - 6425 Penn Ave. Bakery Square Building 1 (same as Google). Suite 400. Meet at Forbes and Morewood bus stop to take the bus to Bakery Square at 11:00am. Visit starts at 11:30am. Tour is 30 minutes plus optional 30 minutes more for those who can stay. Then we''ll take the bus back to CMU.'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Thu Nov 19 2026
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Fri Nov 20 2026
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  project:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Nov 23 2026
   homework:
     deadline: ''
     link: ''
@@ -1472,7 +1541,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Nov 19
+- date: Tue Nov 24 2026
   homework:
     deadline: ''
     link: ''
@@ -1495,76 +1564,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Nov 20
-  homework:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
-  project:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
-  lecture:
-    link: ''
-    name: ''
-  reading:
-    link: ''
-    name: ''
-  recitation:
-    handout: ''
-    name: ''
-    quiz: ''
-    slides: ''
-
-- date: Mon Nov 23
-  homework:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
-  project:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
-  lecture:
-    link: ''
-    name: 'TBD'
-  reading:
-    link: ''
-    name: ''
-  recitation:
-    handout: ''
-    name: ''
-    quiz: ''
-    slides: ''
-
-- date: Tue Nov 24
-  homework:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
-  project:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
-  lecture:
-    link: ''
-    name: ''
-  reading:
-    link: ''
-    name: ''
-  recitation:
-    handout: ''
-    name: ''
-    quiz: ''
-    slides: ''
-
-- date: Wed Nov 25
+- date: Wed Nov 25 2026
   homework:
     deadline: ''
     link: ''
@@ -1587,7 +1587,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Nov 26
+- date: Thu Nov 26 2026
   homework:
     deadline: ''
     link: ''
@@ -1610,7 +1610,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Nov 27
+- date: Fri Nov 27 2026
   homework:
     deadline: ''
     link: ''
@@ -1633,14 +1633,14 @@
     quiz: ''
     slides: ''
 
-- date: Mon Nov 30
+- date: Mon Nov 30 2026
   homework:
     deadline: ''
     link: ''
     name: ''
     numDays: 0
   project:
-    deadline: 'Wed Dec 2'
+    deadline: 'Wed Dec 2 2026'
     link: 'projects/P7'
     name: 'P7 - Project Presentation'
     numDays: 2
@@ -1656,7 +1656,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Dec 01
+- date: Tue Dec 01 2026
   homework:
     deadline: ''
     link: ''
@@ -1679,14 +1679,14 @@
     quiz: ''
     slides: ''
 
-- date: Wed Dec 02
+- date: Wed Dec 02 2026
   homework:
     deadline: ''
     link: ''
     name: ''
     numDays: 0
   project:
-    deadline: 'Wed Dec 9'
+    deadline: 'Wed Dec 9 2026'
     link: 'projects/P7'
     name: 'P7 - Project Delivery'
     numDays: 5
@@ -1702,7 +1702,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Dec 03
+- date: Thu Dec 03 2026
   homework:
     deadline: ''
     link: ''
@@ -1725,7 +1725,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Dec 04
+- date: Fri Dec 04 2026
   homework:
     deadline: ''
     link: ''
@@ -1748,7 +1748,7 @@
     quiz: ''
     slides: ''
 
-- date: Mon Dec 07
+- date: Mon Dec 07 2026
   homework:
     deadline: ''
     link: ''
@@ -1771,7 +1771,7 @@
     quiz: ''
     slides: ''
 
-- date: Tue Dec 08
+- date: Tue Dec 08 2026
   homework:
     deadline: ''
     link: ''
@@ -1794,7 +1794,7 @@
     quiz: ''
     slides: ''
 
-- date: Wed Dec 09
+- date: Wed Dec 09 2026
   homework:
     deadline: ''
     link: ''
@@ -1817,7 +1817,7 @@
     quiz: ''
     slides: ''
 
-- date: Thu Dec 10
+- date: Thu Dec 10 2026
   homework:
     deadline: ''
     link: ''
@@ -1840,7 +1840,7 @@
     quiz: ''
     slides: ''
 
-- date: Fri Dec 11
+- date: Fri Dec 11 2026
   homework:
     deadline: ''
     link: ''
