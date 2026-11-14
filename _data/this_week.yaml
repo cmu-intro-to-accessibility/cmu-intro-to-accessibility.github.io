@@ -1,0 +1,23 @@
+lectures:
+- date: Mon Nov 09 2026
+  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/20-adaptive-sports.pdf
+  name: Guest Lecturer - Prof. Patrick Carrington (CMU HCII)
+- date: Wed Nov 11 2026
+  link: ''
+  name: Enjoying Life (Travel, Cooking, Exercise, Dating) - Guest Lecturer - Prof.
+    Franklin Li (UNC Charlotte)
+  readings:
+  - link: https://doi.org/10.1145/3613904.3642233
+    name: A Contextual Inquiry of People with Vision Impairments in Cooking
+  - link: https://dl.acm.org/doi/10.1145/3544548.3580941
+    name: Understanding Visual Arts Experiences of Blind People
+
+projects:
+- date: Mon Nov 09 2026
+  deadline: Tues Nov 24 2026
+  end_date: 2026-11-25 00:00:00
+  link: homework/HW7
+  name: HW7 - Lived Experiences with Disability
+  numDays: 12
+
+recitation: null

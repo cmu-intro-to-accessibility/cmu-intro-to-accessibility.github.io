@@ -1,0 +1,2827 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../HW6/">
+      
+      
+        <link rel="next" href="../../projects/P0/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/human-rainbow-infinity-favicon.ico">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.8.1">
+    
+    
+      
+        <title>HW7: Understanding Disability - CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+      
+      
+
+
+    
+    
+<link rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/custom.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="custom" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#hw7-understanding-disability" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology" class="md-header__button md-logo" aria-label="CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology" data-md-component="logo">
+      
+  <img src="../../assets/images/accessibility-class-logo.jpg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              HW7: Understanding Disability
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="custom" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../overview/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Course Overview
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../syllabus/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Syllabus
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../HW1/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Homework
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../projects/P0/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Projects
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../_old/f24/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Prior Offerings
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://canvas.cmu.edu/courses/54207" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Canvas
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://www.gradescope.com/courses/1347981" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Gradescope
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://join.slack.com/t/cmuintroducti-uxw5117/shared_invite/zt-477rgd5qt-5DxmtPYyNms34nYtbtbwYA" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Slack
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology" class="md-nav__button md-logo" aria-label="CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology" data-md-component="logo">
+      
+  <img src="../../assets/images/accessibility-class-logo.jpg" alt="logo">
+
+    </a>
+    CMU 17-332/732 05-332/632: Introduction to Accessibility and Assistive Technology
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Course Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../syllabus/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Syllabus
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../HW1/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 1: Accessible Documents
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4_1" id="__nav_4_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 1: Accessible Documents
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_1_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_1_2" id="__nav_4_1_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Parts
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_4_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Parts
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../HW1/1_pdf/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 1A: Create an Accessible PDF
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../HW1/2_presentation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 1B: Create an Accessible Presentation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../HW2/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 2: Disability Deep Dive
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 2: Disability Deep Dive
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../HW3/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 3: Try Out Assistive Technology
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 3: Try Out Assistive Technology
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../HW4/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 4: Accessibility Evaluation
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 4: Accessibility Evaluation
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../HW5/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 5: Accessibility through AI
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 5: Accessibility through AI
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../HW6/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 6: Accessibly Design with AI
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 6: Accessibly Design with AI
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_7" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="./" class="md-nav__link md-nav__link--active">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Homework 7: Understanding Disability
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_7_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Homework 7: Understanding Disability
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Projects
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Projects
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../projects/P0/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Project Overview
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Project Overview
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../projects/P1/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1. Team Contract
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    1. Team Contract
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../projects/P2/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2. Project Investigation
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    2. Project Investigation
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_4" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../projects/P3/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    3. Project Specification
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    3. Project Specification
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../projects/P4/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    4. Project Milestone 1
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    4. Project Milestone 1
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_6" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../projects/P5/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    5. Project Milestone 2
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    5. Project Milestone 2
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_7" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../projects/P6/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    6. Project Milestone 3
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    6. Project Milestone 3
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_8" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../projects/P7/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    7. Final Presentation and Delivery
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5_8" id="__nav_5_8_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    7. Final Presentation and Delivery
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../projects/P7/1_final_presentation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    7A. Project Presentation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../projects/P7/4_delivery/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    7B. Project Delivery
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Prior Offerings
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Prior Offerings
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_1" id="__nav_6_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fall 2024
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Fall 2024
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../_old/f24/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    None
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://canvas.cmu.edu/courses/54207" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Canvas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.gradescope.com/courses/1347981" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gradescope
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://join.slack.com/t/cmuintroducti-uxw5117/shared_invite/zt-477rgd5qt-5DxmtPYyNms34nYtbtbwYA" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Slack
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="On This Page">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      On This Page
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#learning-goals" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Learning Goals
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#assignment-context" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Assignment Context
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#0-choose-a-disability" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        0. Choose a disability
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-researching-a-disability" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Researching a Disability
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Researching a Disability">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#topics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Topics
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#research-and-citation-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Research and citation requirements
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#personal-engagement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Personal engagement
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-learning-from-a-person-with-a-disability" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. Learning From a Person With a Disability
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Learning From a Person With a Disability">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#conduct-the-interview" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Conduct the interview
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#interview-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Interview questions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#interview-expectations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Interview expectations
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#write-your-interview-essay" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Write your interview essay
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#writing-expectations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Writing expectations
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-personal-reflection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. Personal Reflection
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Personal Reflection">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Questions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reflection-and-citation-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Reflection and citation requirements
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="hw7-understanding-disability">HW7: Understanding Disability<a class="headerlink" href="#hw7-understanding-disability" title="Permanent link">&para;</a></h1>
+<p>This homework is worth 300 points.</p>
+<p>It should be done individually. </p>
+<p>HW7 is due on Gradescope on Tuesday, November 24, 2026 11:59pm ET.</p>
+<h2 id="learning-goals">Learning Goals<a class="headerlink" href="#learning-goals" title="Permanent link">&para;</a></h2>
+<ol>
+<li>Understand what research can tell us about a disability. </li>
+<li>Learn about a disability directly from a person with lived experience with that disability. </li>
+<li>Reflect on the differences between the two.</li>
+</ol>
+<h2 id="assignment-context">Assignment Context<a class="headerlink" href="#assignment-context" title="Permanent link">&para;</a></h2>
+<p>Disability affects how people experience the world, use technology, build relationships, and participate in society. However, having a disability is only one part of a person's identity. People with disabilities also have interests, accomplishments, relationships, challenges, and joys that may have little or nothing to do with their disabilities.</p>
+<p>In this assignment, you will learn about disability in three ways:</p>
+<ol>
+<li><strong>Research:</strong> Learn about a disability and write a minimum 1,000-word essay explaining what you found.</li>
+<li><strong>Interview:</strong> Interview a personal friend or family member who has that disability, then write a minimum 1,000-word essay about what you learned from their experiences.</li>
+<li><strong>Reflection:</strong> Write a minimum 500-word essay about how the research and interview affected your own understanding of the disability.</li>
+</ol>
+<p>The goal is to understand both what research tells us about disability and what we can learn by listening to people with disabilities.</p>
+<p><strong>Word count rule:</strong> In-text citations and the References list <strong>do not count</strong> toward an essay's word count. Count the words in the essay itself, excluding citation text and reference entries. Interview notes are also excluded from the essay word counts.</p>
+<h2 id="0-choose-a-disability">0. Choose a disability<a class="headerlink" href="#0-choose-a-disability" title="Permanent link">&para;</a></h2>
+<p>Choose a disability that a personal friend or family member has and that you would like to learn more about. </p>
+<p><strong>You may choose the disability you chose in HW2 or choose a different one.</strong> Do not feel constrained by your choices earlier in the semester.</p>
+<p><strong>You may not choose a disability that you have yourself.</strong> The purpose of this assignment is to learn about someone else's disability experience rather than describe your own. If you and your friend or family member have the same disability, choose a different disability and interview another friend or family member.</p>
+<p>You do not need to disclose your own medical history or disability status at any point in this assignment. Your friend or family member does not need to provide proof of a formal diagnosis.</p>
+<h2 id="1-researching-a-disability">1. Researching a Disability<a class="headerlink" href="#1-researching-a-disability" title="Permanent link">&para;</a></h2>
+<p><strong>Length: Minimum 1,000 words, excluding citations and references</strong></p>
+<p>Before interviewing your friend or family member, you will research the disability you selected. Write an essay that explains what you learned and connects your research to the topics we have discussed in class.</p>
+<h3 id="topics">Topics<a class="headerlink" href="#topics" title="Permanent link">&para;</a></h3>
+<p>Your essay should address the following topics.</p>
+<ol>
+<li>Understanding the disability<ul>
+<li>What is the disability? Name it and describe it in one sentence.</li>
+<li>How does it affect people's social activities?</li>
+</ul>
+</li>
+<li>Challenges and joys<ul>
+<li>What personal and social challenges do people with this disability commonly face?</li>
+<li>Which challenges come from the disability itself, and which come from inaccessible environments or other people's attitudes (e.g., discrimination or microaggressions)?</li>
+<li>What joys, strengths, or positive experiences do people with this disability describe?</li>
+</ul>
+</li>
+<li>Assistive technology (AT)<ul>
+<li>What assistive technologies do people with this disability commonly use to support their personal or social activities?</li>
+<li>How do the assistive technologies commonly used by people with this disability improve physical and/or digital accessibility?</li>
+<li>What problems, limitations, or risks can these technologies create for the people who use them? What about for the people around the ones who use them?</li>
+</ul>
+</li>
+<li>Accessibility<ul>
+<li>What accessibility barriers or forms of discrimination do people with this disability encounter in education?</li>
+<li>What accessibility barriers or forms of discrimination do they encounter in employment?</li>
+<li>What accessibility barriers or forms of discrimination do they encounter in public services?</li>
+<li>What accessibility barriers or forms of discrimination do they encounter from the people closest to them (i.e., their family and friends)?</li>
+</ul>
+</li>
+<li>Independence and interdependence<ul>
+<li>What does independence mean for people with this disability?</li>
+<li>How can AT help people with this disability become more independent?</li>
+<li>No one is ever truly independent. How do people with this disability depend on others, and how do others depend on them?</li>
+</ul>
+</li>
+</ol>
+<h3 id="research-and-citation-requirements">Research and citation requirements<a class="headerlink" href="#research-and-citation-requirements" title="Permanent link">&para;</a></h3>
+<p>Use <strong>at least five credible sources</strong>, including:</p>
+<ul>
+<li>At least one scholarly or academic source.</li>
+<li>At least one reliable source about disability rights, laws, or history.</li>
+<li>At least two first-person accounts or sources created by people with the disability.</li>
+</ul>
+<p>One source may meet more than one of these requirements. You may not use Wikipedia or other encyclopedia as a reference. Do not cite an LLM as a credible source.</p>
+<p><strong>All citations must follow APA format.</strong> Use APA-style in-text citations to support information from your sources. Your essay must end with a <strong>References</strong> section listing all sources cited, formatted according to APA guidelines.</p>
+<p><strong>Neither in-text citations nor the References section count toward the 1,000-word essay length.</strong></p>
+<p>Do not rely entirely on medical descriptions. Include the perspectives of disabled people themselves, and recognize that people with the same disability may have very different experiences.</p>
+<h3 id="personal-engagement">Personal engagement<a class="headerlink" href="#personal-engagement" title="Permanent link">&para;</a></h3>
+<p>Explain why you chose this topic and what interests you about it. You may mention your connection to the disability, but you do not have to identify your friend or family member or reveal private information.</p>
+<p>Your essay should show your own thinking, not simply repeat facts from your sources.</p>
+<p><strong>Complete Part 1 before conducting your interview.</strong> You will return to your initial understanding in Parts 2 and 3.</p>
+<hr />
+<h2 id="2-learning-from-a-person-with-a-disability">2. Learning From a Person With a Disability<a class="headerlink" href="#2-learning-from-a-person-with-a-disability" title="Permanent link">&para;</a></h2>
+<p><strong>Interview plus a minimum 1,000-word essay, excluding citations and references</strong></p>
+<p>Interview a personal friend or family member who has the disability you researched in Part 1.</p>
+<p>Your goal is to learn how this person experiences their disability, uses technology, builds relationships, makes decisions, and participates in the world.</p>
+<p>You should also learn about the person beyond their disability.</p>
+<h3 id="conduct-the-interview">Conduct the interview<a class="headerlink" href="#conduct-the-interview" title="Permanent link">&para;</a></h3>
+<p>Plan for approximately 30–45 minutes, although you and your interviewee may agree on a different length or format.</p>
+<p>You may interview your friend or family member in person, by phone, over video, through written messages, or using another communication method that works well for them.</p>
+<p>The following questions are a guide. <strong>Choose approximately 8–10 main questions</strong>, covering all five sections below. Ask follow-up questions when you hear something interesting that you want to understand better.</p>
+<p>Include questions about both positive experiences and challenges, but do not assume your friend will have a particular kind of experience.</p>
+<p>You do not need to ask every question.</p>
+<h3 id="interview-questions">Interview questions<a class="headerlink" href="#interview-questions" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Everyday life and personal identity<ul>
+<li>What is your disability? At what age did you get it?  </li>
+<li>What are some of the biggest challenges you experience in everyday life because of your disability?</li>
+<li>What are some of the greatest joys or most rewarding experiences in your life that are connected to your disability?</li>
+<li>Tell me a story about something important in your life that has not been affected by your disability. </li>
+<li>What other parts of your identity, such as your race, gender, age, culture, profession, or socioeconomic background, affect how you experience your disability? Can you describe a situation where your experience might differ from that of someone with the same disability but a different intersectional identity?</li>
+<li>How has your understanding or acceptance of your own disability changed as you have gotten older? </li>
+</ul>
+</li>
+<li>Assistive technology<ul>
+<li>What is the most important assistive technology you use? Why do you use it?</li>
+<li>What do you like most about this technology? How has it improved your life?</li>
+<li>What do you dislike about this technology? What problems or limitations does it have?</li>
+<li>How do other people react to your use of assistive technology? How do you feel about their reactions?</li>
+<li>Have you tried an assistive technology that you eventually stopped using? Why did you stop?</li>
+<li>Has an assistive technology ever placed you at physical, emotional, or social risk? What happened?</li>
+<li>If your friend or family member does not use assistive technology, explore why. They may not need it, may prefer other approaches, or may have reasons for choosing not to use it.</li>
+</ul>
+</li>
+<li>Discrimination and self-determination<ul>
+<li>Have you experienced discrimination because of your disability? What happened?</li>
+<li>What kinds of microaggressions have you experienced because of your disability?</li>
+<li>The disability rights movement uses the phrase <strong>"Nothing about us without us."</strong> Have you ever been excluded from making a decision about your own life because someone assumed you could not make that decision yourself? What happened?</li>
+<li>Can you describe a time when someone respected your ability to make your own decisions and that made a meaningful difference in your life?</li>
+</ul>
+</li>
+<li>Independence and interdependence<ul>
+<li>What does independence mean to you? What independence goals have you achieved?</li>
+<li>What independence goals are you still working toward?</li>
+<li>How has assistive technology helped you achieve your independence goals?</li>
+<li>Have any technologies made it harder for you to be independent? How?</li>
+<li>On whom are you interdependent? How do you depend on them, and how do they depend on you?</li>
+<li>Do you feel like you are part of the disabled community? Was this feeling immediate or did it develop over time?</li>
+</ul>
+</li>
+<li>Experiences beyond disability<ul>
+<li>What do you wish people understood better about your disability?</li>
+<li>What do you wish people understood about you that has nothing to do with your disability?</li>
+</ul>
+</li>
+</ol>
+<h3 id="interview-expectations">Interview expectations<a class="headerlink" href="#interview-expectations" title="Permanent link">&para;</a></h3>
+<p>You are encouraged to ask about personal experiences and follow up on interesting stories. Because you are interviewing a friend or family member, you may already have a relationship that makes it easier to discuss sensitive topics.</p>
+<p>However, <strong>your close relationship does not remove the need for consent</strong>. Your interviewee can decline any question, even if you have discussed the topic together before.</p>
+<p><strong>Do not seek out trauma.</strong> Your goal is not to uncover the most painful or dramatic story about your interviewee's disability. Do not push someone to describe discrimination, abuse, exclusion, or distressing experiences if they do not want to.</p>
+<p>Stories about joy, accomplishment, relationships, humor, ordinary life, and everyday technology use are just as valuable. Your grade will not depend on whether your interviewee shares a traumatic experience.</p>
+<p>Before beginning the interview:</p>
+<ul>
+<li>Explain the assignment and ask for consent to participate.</li>
+<li>Explain that you will take notes and use their experiences in an essay submitted to your instructor.</li>
+<li>Ask before recording the conversation. Recording is not required.</li>
+<li>Let your interviewee skip any question or end the interview whenever they wish.</li>
+<li>Ask permission before including direct quotations in your essay.</li>
+<li>Ask your interviewee to choose a pseudonym for you to use in your notes and writeup instead of their name.</li>
+</ul>
+<p>You may submit summarized notes rather than a word-for-word transcript. Remove unnecessary identifying or private details.</p>
+<p>If you cannot find a friend or family member who can participate, contact the instructor to discuss alternatives. You will not lose points because your interviewee declines to answer a question or does not have an experience you expected.</p>
+<h3 id="write-your-interview-essay">Write your interview essay<a class="headerlink" href="#write-your-interview-essay" title="Permanent link">&para;</a></h3>
+<p><strong>Length: Minimum 1,000 words, excluding citations and references</strong></p>
+<p>Using your interview notes, write an essay about what you learned from your interviewee's experiences.</p>
+<p>Do not simply list their answers. Instead, choose meaningful examples and stories that help explain their life and connect what you heard to concepts from class.</p>
+<h4 id="themes">Themes<a class="headerlink" href="#themes" title="Permanent link">&para;</a></h4>
+<p>Your essay should address the following three themes.</p>
+<ol>
+<li>Understanding your friend or family member's life<ul>
+<li>What did you learn about your interviewee's identity, relationships, challenges, and joys?</li>
+<li>Which experiences were closely related to their disability?</li>
+<li>Which important experiences had little or nothing to do with their disability?</li>
+<li>What did their experiences confirm or complicate about your research in Part 1?</li>
+</ul>
+</li>
+<li>Technology and independence<ul>
+<li>What role does assistive technology play in your interviewee's life?</li>
+<li>How has technology helped them?</li>
+<li>What problems, risks, or trade-offs have they experienced?</li>
+<li>What does independence mean to your interviewee, and what role does interdependence play in their life?</li>
+</ul>
+</li>
+<li>Identity, discrimination, and making decisions<ul>
+<li>How have other people's attitudes, discrimination, or microaggressions affected your interviewee?</li>
+<li>How do other aspects of their identity affect their experience of disability?</li>
+<li>How much control do they have over decisions that affect their life?</li>
+<li>What specific stories best illustrate these experiences?</li>
+</ul>
+</li>
+</ol>
+<h3 id="writing-expectations">Writing expectations<a class="headerlink" href="#writing-expectations" title="Permanent link">&para;</a></h3>
+<p>Use specific examples from the interview to support your ideas. Explain why those examples matter rather than simply reporting what your friend said.</p>
+<p>Connect what you learned to ideas from your research and class discussions. You do not need to cover every interview question or use every answer.</p>
+<p>Remember that <strong>your friend or family member represents their own experience, not everyone with that disability</strong>. Distinguish what they told you from your own interpretations.</p>
+<p>Keep the essay focused on your interviewee's experiences and the lessons they teach about disability. Your personal reflection belongs in Part 3.</p>
+<hr />
+<h2 id="3-personal-reflection">3. Personal Reflection<a class="headerlink" href="#3-personal-reflection" title="Permanent link">&para;</a></h2>
+<p><strong>Length: Minimum 500 words, excluding citations and references</strong></p>
+<p>After finishing Parts 1 and 2, write a separate minimum 500-word essay reflecting on what you learned and how your understanding of disability developed.</p>
+<h3 id="questions">Questions<a class="headerlink" href="#questions" title="Permanent link">&para;</a></h3>
+<p>Address the following three questions.</p>
+<ol>
+<li>What did you think before?<ul>
+<li>Identify one important assumption, expectation, or uncertainty you had about this disability before beginning the assignment.</li>
+</ul>
+</li>
+<li>What did you learn, and why did it matter?<ul>
+<li>Describe a specific moment, story, or finding from your interview that challenged, confirmed, or complicated your understanding.</li>
+<li>Were any of your original assumptions based on ableist ideas or stereotypes? If so, what helped you recognize them?</li>
+</ul>
+</li>
+<li>What will you take forward?<ul>
+<li>Explain how what you learned might affect the way you think about disability, interact with disabled people, or approach accessibility and technology in the future.</li>
+</ul>
+</li>
+</ol>
+<h3 id="reflection-and-citation-requirements">Reflection and citation requirements<a class="headerlink" href="#reflection-and-citation-requirements" title="Permanent link">&para;</a></h3>
+<p>This essay should focus on <strong>your own thinking and learning</strong>, rather than repeat your research or summarize the interview.</p>
+<p>You are not required to admit that you held ableist beliefs or demonstrate that your opinions changed dramatically.</p>
+<p>It is perfectly acceptable to explain that the interview confirmed some of your beliefs while helping you recognize new details or complexities.</p>
+<p><strong>Use APA format for in-text citations.</strong> When referring to research findings, course readings, or other published sources, cite them using APA style. Your essay must end with an <strong>APA-formatted References section</strong>, listing the published sources you cited.</p>
+<p>When mentioning your interview, follow APA guidelines for personal communications: cite the interview in the text but do not include it in the References list.</p>
+<p><strong>Neither in-text citations nor the References section count toward the 500-word reflection length.</strong></p>
+<p>Be specific, thoughtful, and genuine. You will be graded on the quality of your reflection, not on whether you express particular opinions or disclose personal information.</p>
+<hr />
+<h1 id="4-deliverables">4. Deliverables<a class="headerlink" href="#4-deliverables" title="Permanent link">&para;</a></h1>
+<p>Submit all four components.</p>
+<ul>
+<li><strong>Essay 1 — Disability Research:</strong> 1,000 words, with APA-style in-text citations and an APA-formatted References section at the end.</li>
+<li><strong>Interview Notes:</strong> Your interview questions and your friend or family member's responses, using a pseudonym. Summarized notes are acceptable.</li>
+<li><strong>Essay 2 — Learning From the Interview:</strong> 1,000 words, using specific examples from your friend or family member's experiences.</li>
+<li><strong>Essay 3 — Personal Reflection:</strong> 500 words, with APA-style in-text citations and an APA-formatted References section at the end.</li>
+</ul>
+<p>Essays may exceed the minimum length if you need more words to express your ideas. <strong>In-text citations and References lists are excluded from all essay word counts.</strong> Interview notes are also separate and do not count toward the essay word counts.</p>
+<p><strong>Total essay writing: Minimum of 2,500 words, excluding citations, reference lists, and interview notes.</strong></p>
+<hr />
+<h1 id="5-grading-rubrics">5. Grading Rubrics<a class="headerlink" href="#5-grading-rubrics" title="Permanent link">&para;</a></h1>
+<p>The assignment will be graded using three rubrics. </p>
+<p>Your grade will be based on the quality of your research, listening, analysis, and reflection.</p>
+<p>You will not receive extra credit for revealing private information, discussing traumatic experiences, or showing that your opinions changed in a particular way.</p>
+<h2 id="essay-1-rubric-research-and-personal-engagement">Essay 1 Rubric: Research and Personal Engagement<a class="headerlink" href="#essay-1-rubric-research-and-personal-engagement" title="Permanent link">&para;</a></h2>
+<p><strong>105 points</strong></p>
+<table>
+<thead>
+<tr>
+<th>Criterion</th>
+<th style="text-align: right;">Weight</th>
+<th>What earns full credit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Research quality and APA citations</td>
+<td style="text-align: right;">25%</td>
+<td>Uses credible, varied sources, including research and disabled people's perspectives. Supports important claims with accurate APA citations and includes an APA-formatted References section.</td>
+</tr>
+<tr>
+<td>Understanding the disability</td>
+<td style="text-align: right;">20%</td>
+<td>Accurately explains the disability, AT, accessibility barriers, discrimination, independence, and relevant history. Recognizes that experiences vary.</td>
+</tr>
+<tr>
+<td>Disabled people's perspectives</td>
+<td style="text-align: right;">15%</td>
+<td>Uses first-person experiences and disability-led sources meaningfully rather than relying only on outside descriptions.</td>
+</tr>
+<tr>
+<td>Personal engagement and thinking</td>
+<td style="text-align: right;">25%</td>
+<td>Explains why the topic matters to the student, asks thoughtful questions, examines assumptions, and connects findings to broader ideas. Personal disclosures are not required.</td>
+</tr>
+<tr>
+<td>Organization and writing</td>
+<td style="text-align: right;">15%</td>
+<td>Develops clear, connected ideas with relevant examples, logical organization, and understandable writing.</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td style="text-align: right;"><strong>100%</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="essay-2-rubric-interview-depth-and-lessons-learned">Essay 2 Rubric: Interview Depth and Lessons Learned<a class="headerlink" href="#essay-2-rubric-interview-depth-and-lessons-learned" title="Permanent link">&para;</a></h2>
+<p><strong>120 points</strong></p>
+<table>
+<thead>
+<tr>
+<th>Criterion</th>
+<th style="text-align: right;">Weight</th>
+<th>What earns full credit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Interview depth and listening</td>
+<td style="text-align: right;">25%</td>
+<td>Asks thoughtful, open-ended questions, uses meaningful follow-ups, and explores answers in detail while respecting the interviewee's boundaries.</td>
+</tr>
+<tr>
+<td>Specific interview evidence</td>
+<td style="text-align: right;">25%</td>
+<td>Uses concrete stories, examples, and interview details to support observations. Makes clear what the interviewee said versus what the student concluded.</td>
+</tr>
+<tr>
+<td>Lessons learned and insight</td>
+<td style="text-align: right;">25%</td>
+<td>Identifies important patterns, connections, or unexpected findings. Explains how the interview deepened, confirmed, or complicated the student's research.</td>
+</tr>
+<tr>
+<td>Connections to course concepts</td>
+<td style="text-align: right;">15%</td>
+<td>Clearly connects the interviewee's experiences to disability-related concepts such as AT, accessibility, independence, interdependence, discrimination, identity, and self-determination.</td>
+</tr>
+<tr>
+<td>Respectful and accurate representation</td>
+<td style="text-align: right;">10%</td>
+<td>Represents the interviewee fairly, protects their privacy, avoids stereotypes, and does not treat one person's experiences as universal.</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td style="text-align: right;"><strong>100%</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="essay-3-rubric-critical-personal-reflection">Essay 3 Rubric: Critical Personal Reflection<a class="headerlink" href="#essay-3-rubric-critical-personal-reflection" title="Permanent link">&para;</a></h2>
+<p><strong>75 points</strong></p>
+<table>
+<thead>
+<tr>
+<th>Criterion</th>
+<th style="text-align: right;">Weight</th>
+<th>What earns full credit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Awareness of initial assumptions</td>
+<td style="text-align: right;">20%</td>
+<td>Identifies a specific prior belief, assumption, expectation, or uncertainty and examines where it came from or why it mattered.</td>
+</tr>
+<tr>
+<td>Specific evidence for reflection</td>
+<td style="text-align: right;">25%</td>
+<td>Uses a meaningful example from the interview to explain what the student learned.</td>
+</tr>
+<tr>
+<td>Depth of reflection</td>
+<td style="text-align: right;">30%</td>
+<td>Goes beyond describing events to examine why they mattered, consider other interpretations, and explain how understanding changed, deepened, or was confirmed.</td>
+</tr>
+<tr>
+<td>Implications for the future</td>
+<td style="text-align: right;">15%</td>
+<td>Explains how the experience may influence future thinking, behavior, relationships, or approaches to accessibility.</td>
+</tr>
+<tr>
+<td>Clarity, focus, and APA citations</td>
+<td style="text-align: right;">10%</td>
+<td>Presents a thoughtful, focused reflection within the word limit, uses APA citations for sources mentioned, and ends with an APA-formatted References section.</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td style="text-align: right;"><strong>100%</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="how-performance-is-assessed">How performance is assessed<a class="headerlink" href="#how-performance-is-assessed" title="Permanent link">&para;</a></h2>
+<p>The following levels apply to each criterion in all three rubrics.</p>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th style="text-align: right;">Score range</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Excellent</strong></td>
+<td style="text-align: right;">90–100%</td>
+<td>Thorough, thoughtful work that makes specific connections, considers complexity, and demonstrates strong understanding.</td>
+</tr>
+<tr>
+<td><strong>Proficient</strong></td>
+<td style="text-align: right;">75–89%</td>
+<td>Clear, accurate work that meets the main expectations but could use more detail, depth, or analysis.</td>
+</tr>
+<tr>
+<td><strong>Developing</strong></td>
+<td style="text-align: right;">50–74%</td>
+<td>Addresses some expectations but remains general, mostly descriptive, or insufficiently supported by evidence.</td>
+</tr>
+<tr>
+<td><strong>Insufficient</strong></td>
+<td style="text-align: right;">0–49%</td>
+<td>Provides little relevant evidence, misses major expectations, or shows limited understanding.</td>
+</tr>
+</tbody>
+</table>
+<p>For Essay 3 especially, there is a difference between describing what happened and reflecting on why it matters.</p>
+<p>For example:</p>
+<p><strong>Description:</strong> "My friend told me that they sometimes choose not to use assistive technology."</p>
+<p><strong>Basic reflection:</strong> "I was surprised because I thought assistive technology was always helpful."</p>
+<p><strong>Deeper reflection:</strong> "I had assumed that more assistive technology always meant better accessibility. My friend explained that some tools attract unwanted attention or make everyday situations more complicated. This made me realize that accessibility is not just about whether a technology works. It also involves giving people control over when and how they use it."</p>
+<p>The last example demonstrates stronger reflection because it explains the student's assumption, considers evidence, and draws a broader lesson.</p>
+<hr />
+<h1 id="final-reminder">Final reminder<a class="headerlink" href="#final-reminder" title="Permanent link">&para;</a></h1>
+<p>The goal of this assignment is not to prove that disability is either entirely difficult or entirely positive. It is to understand how one person experiences disability within a full and varied life, and to use that experience to think more carefully about disability, accessibility, technology, and society.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+<footer class="md-footer">
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.top", "navigation.tracking", "navigation.indexes", "announce.dismiss"], "search": "../../assets/javascripts/workers/search.a7633da7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.a5f9d56c.min.js"></script>
+      
+    
+  </body>
+</html>
