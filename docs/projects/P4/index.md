@@ -80,6 +80,7 @@ Your deliverables for this milestone are the transcripts and analysis of the pil
     1. For accessibility evaluation projects, any materials for the IRB protocol that were not created or turned in for the previous assignment and all of the transcripts (if available), notes, and analysis you create after evaluating the application or web site.
     1. For design vision projects, the transcripts (if available), notes, copies of raw materials, and the vision ideas and analyses you create after running your co-design workshop.
     1. For application solution projects, the transcripts (if available), notes, and analysis of the pilot study as well as a URL of the video demonstrating implemented user stories. 
+    
 
 To receive full credit, we expect that all deliverables listed above are included in a single, merged PDF document submitted to Gradescope. 
 
