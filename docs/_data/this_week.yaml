@@ -1,16 +1,15 @@
 lectures:
-- date: Mon Nov 09 2026
-  link: https://github.com/cmu-intro-to-accessibility/cmu-intro-to-accessibility.github.io/raw/refs/heads/main/docs/lectures/20-adaptive-sports.pdf
-  name: Guest Lecturer - Prof. Patrick Carrington (CMU HCII)
-- date: Wed Nov 11 2026
+- date: Mon Nov 16 2026
   link: ''
-  name: Enjoying Life (Travel, Cooking, Exercise, Dating) - Guest Lecturer - Prof.
-    Franklin Li (UNC Charlotte)
-  readings:
-  - link: https://doi.org/10.1145/3613904.3642233
-    name: A Contextual Inquiry of People with Vision Impairments in Cooking
-  - link: https://dl.acm.org/doi/10.1145/3544548.3580941
-    name: Understanding Visual Arts Experiences of Blind People
+  name: CLASS FIELD TRIP - Library of Accessible Media for Pennsylvanians (LAMP) -
+    4724 Baum Blvd. Meet at TCS Hall entrance at 11:00am. Visit starts at 11:25am.
+- date: Wed Nov 18 2026
+  link: ''
+  name: CLASS FIELD TRIP - University of Pittsburgh Human Engineering Research Lab
+    (HERL) - 6425 Penn Ave. Bakery Square Building 1 (same as Google). Suite 400.
+    Meet at Forbes and Morewood bus stop to take the bus to Bakery Square at 11:00am.
+    Visit starts at 11:30am. Tour is 30 minutes plus optional 30 minutes more for
+    those who can stay. Then we'll take the bus back to CMU.
 
 projects:
 - date: Mon Nov 09 2026
