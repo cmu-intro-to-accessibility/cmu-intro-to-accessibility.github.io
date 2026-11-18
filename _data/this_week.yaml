@@ -1,0 +1,22 @@
+lectures:
+- date: Mon Nov 16 2026
+  link: ''
+  name: CLASS FIELD TRIP - Library of Accessible Media for Pennsylvanians (LAMP) -
+    4724 Baum Blvd. Meet at TCS Hall entrance at 11:00am. Visit starts at 11:25am.
+- date: Wed Nov 18 2026
+  link: ''
+  name: CLASS FIELD TRIP - University of Pittsburgh Human Engineering Research Lab
+    (HERL) - 6425 Penn Ave. Bakery Square Building 1 (same as Google). Suite 400.
+    Meet at Forbes and Morewood bus stop to take the bus to Bakery Square at 11:00am.
+    Visit starts at 11:30am. Tour is 30 minutes plus optional 30 minutes more for
+    those who can stay. Then we'll take the bus back to CMU.
+
+projects:
+- date: Mon Nov 09 2026
+  deadline: Tues Nov 24 2026
+  end_date: 2026-11-25 00:00:00
+  link: homework/HW7
+  name: HW7 - Lived Experiences with Disability
+  numDays: 12
+
+recitation: null
