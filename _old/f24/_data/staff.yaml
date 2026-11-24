@@ -1,0 +1,25 @@
+
+- name: Andrew Begel
+  role: Instructor
+  email: abegel@cmu.edu
+  website: https://andrewbegel.com/
+  photo: abegel.png
+
+- name: Patrick Carrington
+  role: Instructor
+  email: pcarring@andrew.cmu.edu
+  website: https://www.patrickcarrington.com
+  photo: pcarring.jpg
+
+- name: Qiaoqiao Ma
+  role: Teaching Assistant
+  email: qiaoqiam@andrew.cmu.edu
+  website: https://www.linkedin.com/in/qiaoqiao-ma-524476201/
+  photo: qiaoqiaoma.png
+
+- name: Kristen Scotti
+  role: Teaching Assistant
+  email: kscotti@andrew.cmu.edu
+  website: https://www.library.cmu.edu/about/people/kristen-scotti
+  photo: kristenscotti.jpg
+
